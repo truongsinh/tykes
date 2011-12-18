@@ -1,0 +1,130 @@
+#head {
+    background: none;
+    height: 60px;
+}
+
+#logo {
+    margin-top: 0px;
+    display: block;
+    border: 1px solid red;
+    height: 100px;
+    width: 200px;
+    margin-left: 3px;
+    margin-bottom: 5px;
+}
+
+#search {
+    display: none;
+}
+
+#path {
+    text-indent: 75px;
+    padding-bottom: 7px;
+    background: none;
+    border-bottom: 2px solid lightgray;
+    border-top: 0;
+}
+
+/* Navigaatio */
+#navi, #navi2, #navicolumn {
+    display: none;
+}
+
+#navi UL LI {
+    padding-left: 2px;
+    list-style-type: disc;
+}
+
+#navi UL UL LI {
+    padding-left: 2px;
+    list-style-type: circle;
+}
+
+#navi UL UL A {
+    color: #1D83F2;
+}
+
+#navi UL, #navi2 UL {
+    margin-left: -20px;
+}
+
+/* Sis�lt� osio */
+#department {
+    margin-left: -20px;
+}
+
+#content {
+    font: inherit;
+    padding: 50px 20px 0px 75px;
+}
+
+#footer {
+    background-color: #F8FBFE;
+    color: #F8FBFE;
+    text-align: center;
+    padding: 5px;
+    margin-top: 20px;
+    border: 1px solid #FFF;
+}
+
+/*Fonttim��ritykset*/
+TD, P, UL, OL {
+    font: 11px/16px Verdana, Tahoma, Arial, Helvetica, sans-serif;
+}
+
+TD {
+    vertical-align: top;
+    text-align: left;
+}
+
+#content P {
+    color: #3E3A1D;
+    padding-left: 18px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    margin-right: 50px;
+}
+
+/*Otsikot*/
+H1, H2, H3 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+H4, H5, H6 {
+    font-style: italic;
+}
+
+H1 {
+    margin-top: 0px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #000;
+    font-weight: normal;
+}
+
+H2 {
+    font-size: 17px;
+    line-height: 20px;
+    font-style: normal; /*border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CFD6DE; */
+    border-bottom: 0;
+    font-weight: normal;
+    padding-top: 10px;
+}
+
+H3 {
+    font-size: 11px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 0.2mm;
+}
+
+#footer {
+    display: none;
+}
+
+a {
+    text-decoration: underline;
+}

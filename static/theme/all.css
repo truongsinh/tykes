@@ -1,0 +1,390 @@
+﻿BODY {
+    background-color: #FFF;
+    height: auto;
+    left: 250px;
+    width: 800px;
+
+}
+
+BODY, TABLE TD {
+    margin: 0;
+    padding: 0;
+    font: 11px Verdana, Tahoma, Arial, Helvetica, sans-serif;
+    color: #000;
+    background: center;
+    border-spacing: 0px 0px;
+}
+
+#contenttable {
+    border-right: 1px solid #FFF;
+    width: 710px
+}
+
+#alertBox {
+
+    border: 1px solid #dee9ec;
+    padding: 10px;
+
+}
+
+#head {
+    line-height: normal;
+    display: block;
+    height: 70px;
+    width: 710px;
+    border: 1px solid #FFFFFF;
+    background-color: #ECF3F6;
+
+}
+
+#headtable {
+    width: 710px;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+#searchSubmit {
+    background: url('/tykes/static/theme/search.png') no-repeat left;
+    height: 18px;
+    width: 18px;
+    position: relative;
+    top: -3px;
+    left: -3px;
+    border: 0px;
+    cursor: pointer;
+}
+
+#logo {
+    margin-top: 8px;
+    display: block;
+    border: 0px;
+    margin-left: 3px;
+    margin-bottom: 2px;
+}
+
+#head H1 SPAN {
+    display: none;
+}
+
+/*seuratapalkki*/
+
+#path {
+    font-size: 11px;
+    line-height: 11px;
+    padding: 4px 10px 4px 10px;
+    color: #2F3131;
+    background: #DEE9e3;
+    border-top: 1px solid #FFF;
+    border-bottom: 1px solid #FFF;
+}
+
+/* Navigaatio */
+
+#navicolumn {
+    background: transparent url('/tykes/static/theme/lamk_navi_bg.gif') repeat-y;
+    width: 192px;
+
+}
+
+#navicolumn #top {
+
+    height: 14px;
+    margin: 0px;
+
+}
+
+#navi, #navi2 {
+    width: 187px;
+
+    background: url('/tykes/static/theme/lamk_navi_menu_bg.gif') repeat-y 0 0;
+    left: auto;
+    margin-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 0px;
+    padding-left: 4px;
+    line-height: 16px
+}
+
+#navi TABLE, #navi2 TABLE {
+
+    padding: 0;
+    width: 178px;
+
+    border-spacing: 0px 0px
+}
+
+#navi TABLE TR TD, #navi2 TABLE TR TD {
+    line-height: 16px padding: 0px;
+    margin: 0px;
+    border-collapse: collapse;
+    border-spacing: 0px 0px;
+    border: 2px solid #FFF;
+
+}
+
+#navi TABLE TR TD A, #navi2 TABLE TR TD A {
+    background: #dee9ec;
+    display: block;
+    margin: 0px;
+    padding: 1px 5px;
+    color: #000;
+}
+
+#navi TABLE TR TD A.selected {
+    background: #9bbdc9;
+    display: block;
+    margin: 0px;
+    padding: 1px 5px;
+    color: #000;
+}
+
+#navi TABLE TR TD A:hover {
+    background: #9bbdc9;
+}
+
+/*avattu*/
+
+#navi TABLE TR TD#opened A {
+    background: #eaeaad;
+    margin-left: 5px;
+
+}
+
+#navi TABLE TR TD#opened {
+    background: #e0e084;
+
+}
+
+.admin_bt {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #000;
+}
+
+#navi TABLE TR TD#opened A:hover {
+    background: #e0e084;
+    margin-left: 5px;
+
+}
+
+#navi TABLE TR TD#opened2 A {
+    text-indent: 20px;
+    background: #ffffff;
+}
+
+/* valittu */
+#navi TABLE TR TD#selected A {
+    font-weight: bold;
+    background: #9bbdc9;
+}
+
+/* ala navigaatio */
+#navi2 TABLE TR TD  A {
+    background: #9aa880;
+}
+
+#navi2 TABLE TR TD A:hover {
+    background: #C6D900;
+}
+
+#navi2 TABLE TR TD#selected A {
+    font-weight: bold;
+}
+
+#banner {
+    margin: 10px;
+    border: 0px;
+}
+
+#banner IMG {
+    margin-bottom: 40px;
+    border: 0px;
+}
+
+#td_bottom {
+    border-bottom: 1px solid #dee9ec
+}
+
+/* Content_Sisalto */
+
+#contenttable {
+    border-top: 1px solid #FFF;
+    border-right: #d6d6d6;
+}
+
+#contentcolumn {
+    border-right: 1px solid #dee9ec;
+    background: white;
+}
+
+#department {
+    text-align: right;
+    width: 100%;
+    display: block;
+    height: 18px;
+}
+
+#content {
+    font: inherit;
+    padding: 17px 20px 0px;
+}
+
+.leftcolumn {
+    padding-right: 10px;
+}
+
+/*Fonttimaaritykset_Fonts*/
+
+td, p, ul, ol {
+    font: 11px/16px Verdana, Tahoma, Arial, Helvetica, sans-serif;
+}
+
+td {
+    vertical-align: top;
+    text-align: left;
+}
+
+#content p {
+    color: black;
+    padding-left: 18px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    padding-right: 20px;
+}
+
+#content ul {
+    list-style-position: outside;
+    list-style-type: square;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#content ol {
+    list-style-position: outside;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#content li {
+    line-height: 14px;
+    color: black;
+}
+
+#table1 {
+    width: 477px;
+}
+
+#table1 td {
+    padding: 0px;
+    Vertical-align: middle;
+}
+
+#button_green:hover {
+    background-color: #80a519;
+    color: #000;
+    padding: 5px 6px;
+}
+
+#button_green {
+    background-color: #dee9ec;
+    color: #000;
+    padding: 5px 6px;
+}
+
+#mail {
+    height: 121px;
+    width: 250px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: right;
+    background: url('/tykes/static/theme/mail.jpg') no-repeat;
+    background-position: 10 0;
+}
+
+/*Otsikot*/
+
+h1 {
+    font: normal 22px Georgia, "georgia", "Times New Roman", Times, serif;
+    padding: 0;
+    color: #4887a3;
+}
+
+/*h1 { font: normal 22px Georgia, "georgia", "Times New Roman", Times, serif; padding: 0; color: #06315B; }*/
+h2, h2 a {
+    font: normal normal 17px Georgia, "georgia", "Times New Roman", Times, serif;
+    color: #29250B;
+    padding-top: 10px;
+}
+
+/*h3 { font: normal 11px Georgia, "georgia", "Times New Roman", Times, serif; letter-spacing: 0.2mm; color:#80a519; }*/
+h3 {
+    font: normal 11px Georgia, "georgia", "Times New Roman", Times, serif;
+    letter-spacing: 0.2mm;
+    color: #06315B;
+}
+
+h4, h5, h6 {
+    font-style: italic;
+}
+
+/*Linkit*/
+
+A {
+    color: #000000;
+    text-decoration: none;
+    border: none;
+
+}
+
+A:hover {
+    color: #4887a3;
+    text-decoration: underline;
+    border: none;
+}
+
+A:active {
+    color: #4887a3;
+    text-decoration: underline;
+    border: none;
+}
+
+#path A {
+    font-size: 11px;
+    color: #2F3131;
+}
+
+hr {
+    height: 2px;
+    width: 100%;
+    color: #b3b3b3;
+}
+
+/*LIST*/
+
+.methodList ul {
+
+    list-style: dot;
+
+}
+
+#lamk_logo {
+    float: left;
+}
+
+.inline {
+    display: inline;
+}
+
+form {
+    margin: 0px;
+}
+
+#language_chooser {
+    margin-right: 5px;
+}

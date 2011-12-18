@@ -1,0 +1,86 @@
+{% load i18n %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+	  xmlns:o="urn:schemas-microsoft-com:office:office"
+	  lang="en">
+{% block head %}
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="Keywords" content="">
+		<meta name="Description" content="">
+		<link href="{{ MEDIA_URL }}theme/all.css" rel="stylesheet" type="text/css" media="all">
+		<link href="{{ MEDIA_URL }}theme/print.css" rel="stylesheet" type="text/css" media="print">
+		<script type="text/javascript" async="" src="{{ MEDIA_URL }}theme/ga.js"></script>
+		<script type="text/javascript" src="{{ MEDIA_URL }}theme/ga.conf.js"></script>
+		<title>{% trans "Tykes website" %}</title>
+	</head>
+{% endblock %}
+<body id="lamk">
+<table id="headtable" border="0" cellpadding="0" cellspacing="0" width="710">
+	<tbody>
+	<tr>
+		<td id="head">
+			<a id="lamk_logo" href="http://www.lamk.fi/">
+				<img id="logo" src="{{ MEDIA_URL }}theme/lamk_logo.gif" alt="LAMK">
+			</a>
+
+			<div class="right">
+				{% include "language_chooser.html" %}
+				{% include "search.html" %}
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td id="path">{% include "path.html" %}</td>
+	</tr>
+	</tbody>
+</table>
+
+{% autoescape off %}
+	<table id="contenttable" cellspacing="0" cellpadding="0" width="710">
+		<tbody>
+		<tr>
+			<td id="navicolumn">
+
+				<p id="top"></p>
+
+				<!-- LEFT NAVIGATION -->
+				<!-- LEFT NAVIGATION 1-->
+				<div id="navi">{% include "navi.html" %}</div>
+				<!-- TYKES BANNER-->
+				<p id="bottom"></p>
+
+				<div id="banner">
+					<a href="{% url rss %}">
+						<img src="{{ MEDIA_URL }}theme/rss.gif" alt="RSS_FEED">
+					</a>
+					<a href="http://www.tykes.fi/"><img src="{{ MEDIA_URL }}theme/tykes.jpg"></a></div>
+
+			</td>
+
+			<td id="contentcolumn">
+
+				<!-- CONTENT STARTS HERE -->
+
+				<div id="content">
+					<img width="470" src="{{ MEDIA_URL }}theme/tykes_banner2.gif">
+
+					<h1>{% block title %}{% endblock %}</h1>
+
+					{% autoescape off %}
+						{% block content %}Coming soon{% endblock %}
+					{% endautoescape %}
+				</div>
+			</td>
+		</tr>
+		</tbody>
+	</table>
+{% endautoescape %}
+
+<div id="tc_container" style="display: none" data="ih"></div>
+{% include "footer.html" %}
+</body>
+<style type="text/css">embed[type*="application/x-shockwave-flash"], embed[src*=".swf"], object[type*="application/x-shockwave-flash"], object[codetype*="application/x-shockwave-flash"], object[src*=".swf"], object[codebase*="swflash.cab"], object[classid*="D27CDB6E-AE6D-11cf-96B8-444553540000"], object[classid*="d27cdb6e-ae6d-11cf-96b8-444553540000"], object[classid*="D27CDB6E-AE6D-11cf-96B8-444553540000"] {
+	display: none !important;
+}</style>
+</html>

@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% load i18n %}
+{% block content %}
+	<h1>{% trans "Topics" %}</h1>
+	<p>	{% trans "Workplace projects are broken down below to the subjects. How topic groups allow you to examine what kind of methods have been used to assist in the development." %}
+		<br/>
+		{% trans "This page allows you to explore the topic covered by the thesis work as and when they arise." %}
+
+	</p>
+	<h2>{% trans "Current topics" %}</h2>
+	<ul>
+		{% for topic in topics %}
+			<li>{{ topic.link }}</li>
+		{% endfor %}
+	</ul>
+{% endblock %}

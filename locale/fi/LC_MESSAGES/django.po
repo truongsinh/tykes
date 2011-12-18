@@ -1,0 +1,245 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-17 07:18-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: settings.py:77
+msgid "English"
+msgstr ""
+
+#: settings.py:78
+msgid "Finnish"
+msgstr ""
+
+#: settings.py:79
+msgid "Vietnamese"
+msgstr ""
+
+#: entry/templates/entry/instruction_detail.html:4
+#, python-format
+msgid "Experience of using %(method)s on %(topic)s"
+msgstr ""
+
+#: entry/templates/entry/method_detail.html:5
+#: entry/templates/entry/topic_detail.html:5
+#: page/templates/page/page_detail.html:4
+msgid "Change"
+msgstr ""
+
+#: entry/templates/entry/method_detail.html:10
+msgid "Read more ..."
+msgstr "Lue lisää ..."
+
+#: entry/templates/entry/method_detail.html:12
+msgid "This method has been used to develop the following themes:"
+msgstr "Tätä menetelmää on käytetty seuraavien aihepiirien kehittämisessä:"
+
+#: entry/templates/entry/method_list.html:4 templates/navi.html:18
+msgid "Methods"
+msgstr "Menetelmät"
+
+#: entry/templates/entry/method_list.html:5
+msgid ""
+"This page provides basic information for Tykes project methodology, you will "
+"find instructions for using the method as you will find information about "
+"companies or organizations to use the experience method."
+msgstr ""
+"Tämän sivun kautta saat perustiedot Tykes-hankkeissa käytetyistä "
+"menetelmistä, löydät ohjeita menetelmän käytöstä sekä löydät tietoa "
+"yritysten tai organisaatioiden menetelmän käyttökokemuksista."
+
+#: entry/templates/entry/method_list.html:6
+msgid "Current methods"
+msgstr "Nykyiset menetelmät"
+
+#: entry/templates/entry/topic_detail.html:9
+msgid "This topic has been used to develop the following themes:"
+msgstr "Aihepiirin kehittämiseen on käytetty seuraavia menetelmiä:"
+
+#: entry/templates/entry/topic_detail.html:13
+msgid "Instruction"
+msgstr ""
+
+#: entry/templates/entry/topic_detail.html:15
+msgid "Experience"
+msgstr ""
+
+#: entry/templates/entry/topic_detail.html:17
+msgid "Theses"
+msgstr ""
+
+#: entry/templates/entry/topic_detail.html:20
+msgid "Papers"
+msgstr ""
+
+#: entry/templates/entry/topic_list.html:4 templates/navi.html:9
+msgid "Topics"
+msgstr "Aihepiirit"
+
+#: entry/templates/entry/topic_list.html:5
+msgid ""
+"Workplace projects are broken down below to the subjects. How topic groups "
+"allow you to examine what kind of methods have been used to assist in the "
+"development."
+msgstr ""
+"Tykes-hankkeet on jaoteltu alla oleviin aihepiireihin. Aihepiirien kautta "
+"pääset tarkastelemaan, millaisia menetelmiä on käytetty apuna "
+"kehittämistyössä."
+
+#: entry/templates/entry/topic_list.html:7
+msgid ""
+"This page allows you to explore the topic covered by the thesis work as and "
+"when they arise."
+msgstr ""
+
+#: entry/templates/entry/topic_list.html:10
+msgid "Current topics"
+msgstr "Nykyiset aihepiirit"
+
+#: haystack/admin.py:105
+#, python-format
+msgid "0 of %(count)d selected"
+msgid_plural "of %(count)d selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: haystack/admin.py:107
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: haystack/forms.py:16
+msgid "Search"
+msgstr ""
+
+#: haystack/forms.py:89
+msgid "Search In"
+msgstr ""
+
+#: haystack/panels.py:24
+msgid "Haystack"
+msgstr ""
+
+#: haystack/panels.py:48
+msgid "Search Queries"
+msgstr ""
+
+#: haystack/templates/panels/haystack.html:5
+msgid "Query"
+msgstr ""
+
+#: haystack/templates/panels/haystack.html:6
+msgid "Backend Alias"
+msgstr ""
+
+#: haystack/templates/panels/haystack.html:7
+msgid "Timeline"
+msgstr ""
+
+#: haystack/templates/panels/haystack.html:8
+msgid "Time"
+msgstr ""
+
+#: haystack/templates/panels/haystack.html:9
+msgid "Kwargs"
+msgstr ""
+
+#: multilingual_model/forms.py:46
+#, python-format
+msgid ""
+"No translation                         provided for default language '%s'."
+msgstr ""
+
+#: multilingual_model/forms.py:51
+msgid "At least one translation should be provided."
+msgstr ""
+
+#: multilingual_model/models.py:29
+msgid "language"
+msgstr ""
+
+#: multilingual_model/models.py:192
+msgid "Untranslated"
+msgstr ""
+
+#: page/models.py:6
+msgid "Pages"
+msgstr ""
+
+#: page/models.py:9 page/models.py:37
+msgid "Name"
+msgstr ""
+
+#: page/models.py:10
+#, fuzzy
+msgid "Content"
+msgstr "Yhteystiedot"
+
+#: page/models.py:20
+msgid "Slug"
+msgstr ""
+
+#: page/models.py:38
+msgid "File"
+msgstr ""
+
+#: page/models.py:40
+msgid "Hidden"
+msgstr ""
+
+#: templates/footer.html:3
+msgid "Developed & Designed by LUAS's students"
+msgstr "Kehittämä & Suunnittelema LAMK:n opiskelijat"
+
+#: templates/footer.html:4
+msgid "Powered by Django"
+msgstr ""
+
+#: templates/layout.html:15
+msgid "Tykes website"
+msgstr ""
+
+#: templates/navi.html:5
+msgid "Home"
+msgstr ""
+
+#: templates/navi.html:27
+msgid "News"
+msgstr "Ajankohtaista"
+
+#: templates/navi.html:31
+msgid "Feedback"
+msgstr "Ota yhteyttä"
+
+#: templates/navi.html:34
+msgid "Contact"
+msgstr "Yhteystiedot"
+
+#: templates/path.html:9
+msgid "Log out"
+msgstr ""
+
+#: templates/path.html:11
+msgid "Log in"
+msgstr ""
+
+#: ~model_description/templates/page.html:4
+msgid "Edit"
+msgstr ""

@@ -1,0 +1,260 @@
+[
+	{
+		"pk":1,
+		"model":"entry.topictranslation",
+		"fields":{
+			"name":"Johtamisen kehitt\u00e4minen",
+			"language_code":"fi",
+			"content":"Johtamisen kehitt\u00e4minen on johtajuutta tukevien j\u00e4rjestelmien ja prosessien rakentamista. Siin\u00e4 lopputuloksena on organisaation tehokkuuden ja siin\u00e4 toimivien yksil\u00f6iden tyytyv\u00e4isyyden lis\u00e4\u00e4ntyminen. Hyv\u00e4t johtamisk\u00e4yt\u00e4nn\u00f6t lis\u00e4\u00e4v\u00e4t organisaation kyvykkyytt\u00e4.\r\n\r\nNykyaikainen johtaja luotsaa organisaationsa toimintaa teknologia intensiivisess\u00e4 maailmassa. Tarvitaan uudenlaista johtamista, joka tukee ihmisten v\u00e4list\u00e4 vuorovaikutusta ja auttaa tilannekohtaisissa haasteiden ratkaisussa uutta teknologiaa hy\u00f6dynt\u00e4en.\r\n\r\n\"Maailma on aivan toinen kuin vuosikymmeni\u00e4 sitten, mutta johtamista ohjaavat sata vuotta sitten syntyneet perusajatukset. Ei ihme, ett\u00e4 johtamisessa on ongelmia\", Gary Hamel toteaa.kirjassaan The Future Management. Gary Hamelin mielest\u00e4 iso osa johtamisopeista ja johtamisen ty\u00f6kaluista on keksitt\u00e4v\u00e4 uudelleen. Uudistumisen vaikeutta lis\u00e4\u00e4 se, ett\u00e4 muutoksella on kiire ja isojen yritysten pit\u00e4isi imaista muutokseen nopeasti tuhansia ihmisi\u00e4 eri puolilla maailmaa.",
+			"theses":"",
+			"papers":"",
+			"parent":1
+		}
+	},
+	{
+		"pk":2,
+		"model":"entry.topictranslation",
+		"fields":{
+			"name":"Leadership and Management Development",
+			"language_code":"en",
+			"content":"Leadership is a leadership development support systems and processes in construction. In the end result is organizational efficiency and the satisfaction of individuals increased. Good management practices will increase the organization's capabilities.\r\n\r\nModern pilots organization, operations director of intensive technology in the world. A new kind of leadership that supports the interaction between people and the context-sensitive help solve the challenges of new technology.\r\n\r\n\"The world is quite different than decades ago, but the leadership guided by a hundred years ago created the basic ideas. It's no wonder that management is a problem,\" Gary Hamel, The Future Management toteaa.kirjassaan. Gary Hamel believes that a big part of leadership doctrine and management tools have to come up again. Regeneration more difficult by the fact that the change is urgent and large enterprises should change quickly suck thousands of people around the world.",
+			"theses":"",
+			"papers":"",
+			"parent":1
+		}
+	},
+	{
+		"pk":3,
+		"model":"entry.topictranslation",
+		"fields":{
+			"name":"Nang cao quan ly lanh dao",
+			"language_code":"vi",
+			"content":"",
+			"theses":"",
+			"papers":"",
+			"parent":1
+		}
+	},
+	{
+		"pk":1,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":7,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"name":"360\u02da assessment",
+			"language_code":"en",
+			"theses":"",
+			"papers":"",
+			"parent":2,
+			"content":"360\u02da assessment will be used, for example the work of the effectiveness of management development and personnel evaluation, and cooperation skills. Assessment is used in some cases, the general workplace skills, the so-called meta-skills development, but the most common method of application is the use of leadership development."
+		}
+	},
+	{
+		"pk":2,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"name":"360\u02da-arviointi",
+			"language_code":"fi",
+			"theses":"",
+			"papers":"",
+			"parent":2,
+			"content":"360\u02da-arviointia k\u00e4ytet\u00e4\u00e4n esimerkiksi johtamisty\u00f6n tehokkuuden kehitt\u00e4miseen sek\u00e4 henkil\u00f6st\u00f6n arviointiin ja yhteisty\u00f6taitojen kehitt\u00e4miseen. Arviointia k\u00e4ytet\u00e4\u00e4n joissain tapauksissa my\u00f6s yleisten ty\u00f6el\u00e4m\u00e4taitojen eli niin sanottujen metataitojen kehitt\u00e4miseen, mutta yleisin sovellus menetelm\u00e4n k\u00e4yt\u00f6st\u00e4 on johtamisen kehitt\u00e4minen. "
+		}
+	},
+	{
+		"pk":1,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"methods/Menetelmakortti_balanced_scorecard.pdf",
+			"name":"Balanced Scorecard",
+			"language_code":"fi",
+			"theses":"",
+			"papers":"",
+			"parent":1,
+			"content":"Balanced Scorecard (lyh.BSC)  on yritysstrategian ja \u2013rakenteen yhdensuuntaistamisj\u00e4rjestelm\u00e4, sit\u00e4 voidaan k\u00e4ytt\u00e4\u00e4 perinteisesti mittausj\u00e4rjestelm\u00e4n\u00e4, mutta edistyneempi k\u00e4ytt\u00f6tapa on hy\u00f6dynt\u00e4\u00e4  sit\u00e4 strategisena johtamisj\u00e4rjestelm\u00e4n\u00e4"
+		}
+	},
+	{
+		"pk":8,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"name":"Balanced Scorecard",
+			"language_code":"en",
+			"theses":"",
+			"papers":"",
+			"parent":1,
+			"content":"Balanced Scorecard (lyh.BSC) is a corporate strategy and structure yhdensuuntaistamisj\u00e4rjestelm\u00e4, it can be used in the traditional measuring system, but more advanced operating mode is to utilize it as a strategic management system"
+		}
+	},
+	{
+		"pk":6,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"name":"Emotional intelligence leadership",
+			"language_code":"en",
+			"theses":"",
+			"papers":"",
+			"parent":3,
+			"content":"Salovey and Mayer are the first tunne\u00e4lyteorian developers. According to their definition of emotional intelligence is divided into different areas, which have their own emotional awareness and control of, their own emotions work for a certain goal, the detection of other emotions and other feelings of control. The theory is that individuals can influence their own actions or procedures to react, because the emotional intelligence skills are primarily learned ways.\r\n\r\nGoleman defines emotional intelligence aspects of the self-knowledge, motivation, self-control, empathy, and interpersonal therapy. Emotional intelligence is the ability to manage their own feelings and understand another's feelings. Feel Smart people possess the adaptability and resilience to pressure and control their own well-being. In addition, intrapersoonalliset and on the personality traits are tunne\u00e4lykk\u00e4ill\u00e4 people strong. Intrapersoonallisilla features of the purposes for example. self-awareness and interpersonal features of mm. empathy, ie the ability to read other factual and emotional messages."
+		}
+	},
+	{
+		"pk":9,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"name":"Hoc ca phe?",
+			"language_code":"vi",
+			"theses":"",
+			"papers":"",
+			"parent":4,
+			"content":""
+		}
+	},
+	{
+		"pk":4,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"methods/Ohjeet_Learning_cafen_eteneminen.pdf",
+			"name":"Learning Cafe",
+			"language_code":"fi",
+			"theses":"",
+			"papers":"",
+			"parent":4,
+			"content":"Learning Cafe on ty\u00f6skentelymenetelm\u00e4, jossa on tavoitteena oppia yhdess\u00e4. Perusajatuksena on, ett\u00e4 ty\u00f6skentely tapahtuu dialogisesti siten, ett\u00e4 jokainen osallistuja voi tuoda esiin omat ajatuksensa. Oleellista on my\u00f6s ideoiden tuottaminen ryhmiss\u00e4 ja niit\u00e4 yhdess\u00e4 reflektoiden sek\u00e4 ideoiden edelleen kehitt\u00e4minen. (HAMK 2006; Kupias 2007.) Learning Cafe on suomennettu esimerkiksi oppimiskahvilaksi (Kupias 2007). Menetelm\u00e4n keskeisen\u00e4 ajatuksena onkin, ett\u00e4 sen avulla voidaan jakaa kokemuksia, luodaan uutta tietoa ja rakennetaan yhteist\u00e4 n\u00e4kemyst\u00e4. Learning Cafe on ty\u00f6skentelymenetelm\u00e4, jonka avulla suurikokoinenkin ryhm\u00e4 saadaan toimimaan ja yhdess\u00e4 kehitt\u00e4m\u00e4\u00e4n sek\u00e4 kehittym\u00e4\u00e4n. T\u00e4m\u00e4 onnistuu aktivoimalla pienryhmi\u00e4. (J\u00e4rvensivu, Nyk\u00e4nen & Rajala 2010; vrt. Peltola 2010.)"
+		}
+	},
+	{
+		"pk":5,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"name":"Learning Cafe",
+			"language_code":"en",
+			"theses":"",
+			"papers":"",
+			"parent":4,
+			"content":"Learning Cafe is a working method, where the aim is to learn together. The general idea is that the work is carried out dialogically, so that every participant can bring out their own ideas. It is essential to the production of ideas and groups them together reflektoiden as well as the further development of ideas. (HAMK 2006; Kupias 2007.) Learning Cafe is translated, for example oppimiskahvilaksi (Kupias 2007). The central idea of \u200b\u200bthe method is that it can be used to share experiences, create new knowledge and build a common vision. Learning Cafe is a working method, which allows suurikokoinenkin group to work together and to develop and evolve. This is accomplished by activating the small groups. (Lake Side, Nyk\u00e4nen & Rajala, 2010; cf. Peltola, 2010.)"
+		}
+	},
+	{
+		"pk":3,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"methods/Tunneaelyjohtaminen_muutoksessa1.pdf",
+			"name":"Tunne\u00e4ly johtamisessa",
+			"language_code":"fi",
+			"theses":"",
+			"papers":"",
+			"parent":3,
+			"content":"Salovey ja Mayer ovat ensimm\u00e4isi\u00e4 tunne\u00e4lyteorian kehitt\u00e4ji\u00e4. Heid\u00e4n m\u00e4\u00e4ritelm\u00e4ns\u00e4 mukaan tunne\u00e4ly jakautuu eri osa-alueisiin, joita ovat omien tunteiden tiedostaminen ja hallitseminen, omien tunteiden valjastaminen tietyn p\u00e4\u00e4m\u00e4\u00e4r\u00e4n saavuttamiseksi, toisten tunteiden havaitseminen sek\u00e4 muiden tunteiden hallinta. Teorian mukaan yksil\u00f6 voi vaikuttaa omalla toiminnallaan reagointitapoihinsa, koska tunne\u00e4lyn taidot ovat p\u00e4\u00e4asiassa opittuja tapoja.\r\n\r\nGolemanin m\u00e4\u00e4ritelm\u00e4n mukaan tunne\u00e4lyn osa-alueita ovat itsetuntemus, motivoituminen, itsehallinta, empatia ja ihmissuhteiden hoito. Tunne\u00e4ly on kyky\u00e4 hallita omia tunteita ja ymm\u00e4rt\u00e4\u00e4 toisen tunteita. Tunne\u00e4lykk\u00e4\u00e4t henkil\u00f6t omaavat sopeutumis- ja paineensietokyky\u00e4 sek\u00e4 hallitsevat omaa hyvinvointiaan. Lis\u00e4ksi intrapersoonalliset- ja interpersoonalliset piirteet ovat tunne\u00e4lykk\u00e4ill\u00e4 henkil\u00f6ill\u00e4 vahvoja. Intrapersoonallisilla piirteill\u00e4 tarkoitetaan mm. itsetuntemusta ja interpersoonallisilla piirteill\u00e4 mm. empatiaa, eli kyky\u00e4 lukea toisten asia- ja tunneviestej\u00e4."
+		}
+	},
+	{
+		"pk":1,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":2,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":3,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":4,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":1,
+		"model":"entry.instructiontranslation",
+		"fields":{
+			"language_code":"fi",
+			"instruction":"instructions/Menetelmakortti_balanced_scorecard_ohjeet2.pdf",
+			"experience":"What have been the BSC to use p\u00e4\u00e4kehityskohteet projects and goals?\r\n\r\nThe development of strategic planning\r\nQuality, competitiveness, and performance development\r\nDevelop metrics and reporting, and anchoring systems approach to assess effectiveness.\r\nImprove the organization's services and to develop the productivity of work\r\nTo create a staff of well-being of a sturdy set of operations\r\nImplementation of the strategy work\r\nWhere the development stage of the process tool is used for?\r\n\r\nBSC's development process, the first cord is sitoutettava project, after which the company's mission, vision and strategy will be clarified. When a company's critical success factors have been identified such as SWOT analysis, bencmarkingilla, the current state of analysis, so it will then be discussed BSChen perspectives to be taken, and the selection of indicators, figuring out the cause-effect relationships, etc. BSCn meters and complete pruning done ever since the whole development process. \r\n\r\nWhat other tools or methods have been used this tool with the theme in this project?\r\n\r\nRisk Analysis\r\nMapping the atmosphere\r\nEPQM\r\nCurrent state analysis\r\n Labour\r\nHow effective method / tool has been the theme projects?\r\n\r\nBSC's use of management and strategy implementation tool is perceived positively, inter alia, to:\r\n\r\nObjectives of the organization, planning and implementation have become clearer\r\n The organization's success factors have come out well\r\nUsing the BSC to as part of the EFQM methodology has been improved the quality of operations.\r\nAlso negatiisia user experiences found:\r\n\r\nIt was felt that the staff it requires new thinking and approach to issues\r\nTakes hours of work by other tasks\r\nDesign a comprehensive strategy to derive the contribution would be too large\r\nWhat is taken into account in the tool use? Conditions for success?\r\n\r\n BSC project, the key to the success of particular note\r\n\r\n top management support\r\nthe organization has to be convinced of the importance of the project\r\n the company's strategic objectives must be clearly defined before the start of the BSC project\r\n Meters must lead the company's strategy\r\n staff are included in the BSC project\r\ndeployment must be observed that in the beginning of the causal relationships are indicative\r\ncausal relationships are tested during the project implementation through learning\r\ndeployment is insufficient emphasis on education, communication and information\r\nIf the BSC project can be implemented through piloting, so the company is constantly called into question its strategy and control measures will be considered as a tool.",
+			"theses":"",
+			"papers":"",
+			"parent":1
+		}
+	},
+	{
+		"pk":2,
+		"model":"entry.instructiontranslation",
+		"fields":{
+			"language_code":"fi",
+			"instruction":"instructions/Ohjeet__360_asteen_arvioinnista.pdf",
+			"experience":"",
+			"theses":"",
+			"papers":"",
+			"parent":2
+		}
+	},
+	{
+		"pk":3,
+		"model":"entry.instructiontranslation",
+		"fields":{
+			"language_code":"fi",
+			"instruction":"",
+			"experience":"",
+			"theses":"",
+			"papers":"",
+			"parent":3
+		}
+	},
+	{
+		"pk":4,
+		"model":"entry.instructiontranslation",
+		"fields":{
+			"language_code":"fi",
+			"instruction":"instructions/Ohjeet_Learning_cafen_eteneminen.pdf",
+			"experience":"Mitk\u00e4 ovat olleet menetelm\u00e4\u00e4/ty\u00f6kalua k\u00e4ytt\u00e4vien hankkeiden p\u00e4\u00e4kehityskohteet ja tavoitteet?\r\n\r\nprosessien kehitt\u00e4minen\r\njaetun johtajuuden mallin kehitt\u00e4minen\r\nmuutoksen johtaminen\r\nhiljaisen tiedon esiin tuominen\r\nty\u00f6ss\u00e4 jaksamisen lis\u00e4\u00e4ntyminen\r\noman osaamisen ja tiet\u00e4myksen esiin tuominen\r\nMiss\u00e4 kehitt\u00e4misprosessin vaiheessa menetelm\u00e4\u00e4/ty\u00f6kalua on k\u00e4ytetty?\r\n\r\nmuutosvaiheen toteuttamisen aikana ty\u00f6yhteis\u00f6ss\u00e4\r\nmotivaation lis\u00e4\u00e4miseksi prosessin aikana\r\nOnko menetelm\u00e4\u00e4/ty\u00f6kalua k\u00e4ytetty ongelman analysointiin vai ratkaisun kehitt\u00e4miseen?\r\n\r\nratkaisun kehitt\u00e4miseksi ja motivaation lis\u00e4\u00e4miseksi\r\nmahdollistaa suuressa ryhm\u00e4ss\u00e4 tapahtuvan analyysi- tai tavoitteenasetantaprosessin\r\nMit\u00e4 muita menetelmi\u00e4/ty\u00f6kaluja on k\u00e4ytetty t\u00e4m\u00e4n menetelm\u00e4n kanssa aihepiirin projekteissa?\r\n\r\nprosessikonsultointi\r\nworkshopit\r\nTuplatiimi\r\nMiten ko. menetelm\u00e4\u00e4 k\u00e4ytt\u00e4neet hankkeet kuvaavat onnistumistaan kehitt\u00e4misess\u00e4? Miten onnistumista on mitattu? Mik\u00e4 muuttui?\r\n\r\nmenetelm\u00e4ll\u00e4 saadaan ker\u00e4tty\u00e4 nopeasti ja laajasti n\u00e4kemyksi\u00e4 valituista teemoista\r\ntoisessa hankkeessa uusi jaetun johtajuuden malli on otettu k\u00e4ytt\u00f6\u00f6n ja toiminnan on kuvattu olevan avoimempaa ja l\u00e4pin\u00e4kyv\u00e4mp\u00e4\u00e4\r\nonnistumista on mitattu henkil\u00f6st\u00f6kyselyjen sek\u00e4 asiakaspalautteista saadun tiedon avulla\r\nonnistumista on mitattu my\u00f6s laadun arvioinnin perusteella\r\nTUTKIJAN ARVIOINTI:\r\n\r\nMiten toimiva menetelm\u00e4/ty\u00f6kalu on ollut aihepiirin projekteissa? Mik\u00e4 muu menetelm\u00e4/ty\u00f6kalu olisi voinut tulla kyseeseen?\r\n\r\nmenetelm\u00e4 on ollut eritt\u00e4in toimiva\r\nerilaiset ryhm\u00e4ty\u00f6menetelm\u00e4t, joissa koko henkil\u00f6st\u00f6 sitoutetaan toimimaan yhteisen tavoitteen saavuttamiseksi, olisivat olleet mahdollisia (esim. world cafe)\r\nMit\u00e4 on otettava huomioon menetelm\u00e4n/ty\u00f6kalun k\u00e4yt\u00f6ss\u00e4? Onnistumisen edellytykset?\r\n\r\nriitt\u00e4v\u00e4n suuri m\u00e4\u00e4r\u00e4 osallistujia\r\nriitt\u00e4v\u00e4sti aikaa toteutukselle\r\nselke\u00e4t keskustelun aiheet, jotta keskustelua syntyy helposti\r\ntiedon v\u00e4litt\u00e4minen osallistujille mihin keskusteluilla pyrit\u00e4\u00e4n ja mihin niit\u00e4 k\u00e4ytet\u00e4\u00e4n jatkossa\r\nkaikkien mahdollisuus osallistua ja tuoda esiin mielipiteens\u00e4 d\r\nokumentoinnin t\u00e4rkeys d\r\nokumentoinnin j\u00e4lkeen asia vied\u00e4\u00e4n koko ty\u00f6yhteis\u00f6n tietoon",
+			"theses":"",
+			"papers":"",
+			"parent":4
+		}
+	},
+	{
+		"pk":1,
+		"model":"entry.instruction",
+		"fields":{
+			"topic":1,
+			"method":1
+		}
+	},
+	{
+		"pk":2,
+		"model":"entry.instruction",
+		"fields":{
+			"topic":1,
+			"method":2
+		}
+	},
+	{
+		"pk":3,
+		"model":"entry.instruction",
+		"fields":{
+			"topic":1,
+			"method":3
+		}
+	},
+	{
+		"pk":4,
+		"model":"entry.instruction",
+		"fields":{
+			"topic":1,
+			"method":4
+		}
+	}
+]

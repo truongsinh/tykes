@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% load i18n %}
+{% block content %}
+	{% if user.is_authenticated %}
+		<div id="edit" class="right"><a href="{{ method.admin_url }}">[{% trans "Change" %}]</a></div>
+	{% endif %}
+	<h1>{{ method.name }}</h1>
+	<p>{{ method.description }}</p>
+	{% if method.full %}
+		<p><a href="{{ method.full }}">{% trans "Read more ..." %}</a></p>
+	{% endif %}
+	<h1>{% trans "This method has been used to develop the following themes:" %}</h1>
+	<ul>
+		{% for topic in method.topics.all %}
+			<li>{{ topic.link }}</li>
+		{% endfor %}
+	</ul>
+{% endblock %}

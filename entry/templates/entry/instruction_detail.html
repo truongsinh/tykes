@@ -1,0 +1,5 @@
+{% extends "layout.html" %}
+{% load i18n %}
+{% block content %}
+	<h1>{% blocktrans with method=instruction.method.link topic=instruction.topic.link %}Experience of using {{ method }} on {{ topic }}{% endblocktrans %}</h1>
+{% endblock %}
