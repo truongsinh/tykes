@@ -5,22 +5,23 @@
 		<div id="edit" class="right"><a href="{{ method.admin_url }}">[{% trans "Change" %}]</a></div>
 	{% endif %}
 	<h1>{{ method.name }}</h1>
-	<p>{{ method.description }}</p>
+	<p>{{ method.content }}</p>
 	{% if method.full %}
 		<p><a href="{{ method.full }}">{% trans "Read more ..." %}</a></p>
 	{% endif %}	
-	{% if topic.theses %}
-	<h1>{% trans "Theses related to this topic" %}</h1>
-	<p>{{ topic.theses }}</p>
+	{% if method.theses %}
+	<h1>{% trans "Theses related to this method" %}</h1>
+	<p>{{ method.theses }}</p>
 	{% endif %}
-	{% if topic.papers %}
-	<h1>{% trans "Papers related to this topic" %}</h1>
-	<p>{{ topic.papers }}</p>
+	{% if method.papers %}
+	<h1>{% trans "Papers related to this method" %}</h1>
+	<p>{{ method.papers }}</p>
 	{% endif %}
-	<h1>{% trans "This method has been used to develop the following themes:" %}</h1>
+	{% if method.instructions.all %}
+	<h1>{% trans "This method was used for development under these topics:" %}</h1>
 	<ul>
 		{% for instruction in method.instructions.all %}
-			<h2>{{ instruction.method.link }}</h2>
+			<h2>{{ instruction.topic.link }}</h2>
 			{% if instruction.instruction %}
 				<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
 			{% endif %}
@@ -34,4 +35,5 @@
 		{% endif %}
 		{% endfor %}
 	</ul>
+	{% endif %}
 {% endblock %}
