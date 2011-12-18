@@ -15,7 +15,6 @@ Native disappointment:
 Bugs:
 [*] Pagination in search
 
-
 Search engine:
 Outsource (Google, Bing...)
 Whoosh (pure python)
