@@ -24,7 +24,18 @@ elif hostname == 'TruongSinh-Hackintosh.local':
 			'NAME': os.path.join(PROJECT_ROOT, 'data/sqlite3'),
 			}
 	}
-elif hostname:
+elif hostname == 'thanh-N61Jv':
+	DEBUG = TEMPLATE_DEBUG = True
+	PROJECT_ROOT = "/home/thanh/Sites/tykes/"
+	BASE_PATH = "tykes/"
+	BASE_URL = "http://localhost:8000/tykes/"
+	DATABASES = {
+		'default': {
+			'ENGINE': 'django.db.backends.sqlite3',
+			'NAME': os.path.join(PROJECT_ROOT, 'data/sqlite3'),
+			}
+	}
+elif hostname == 'sarir':
 	DEBUG = TEMPLATE_DEBUG = True
 	PROJECT_ROOT = "/home/truongsinh/root/tykes/"
 	BASE_PATH = "tykes/"
