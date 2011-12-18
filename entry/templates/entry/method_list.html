@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% load i18n %}
+{% block content %}
+	<h1>{% trans "Methods" %}</h1>
+	<p>{% trans "This page provides basic information for Tykes project methodology, you will find instructions for using the method as you will find information about companies or organizations to use the experience method." %}</p>
+	<h2>{% trans "Current methods" %}</h2>
+	<ul>
+		{% for method in methods %}
+			<li>{{ method.link }}</li>
+		{% endfor %}
+	</ul>
+{% endblock %}

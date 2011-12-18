@@ -1,0 +1,13 @@
+<!-- yla navigaatio 2 -->
+{% load i18n %}
+{% for path in paths %}
+	{% if not forloop.first %}&gt;{% endif %}
+	<a href="{{ path.0 }}">{{ path.1 }}</a>
+{% endfor %}
+<div class="right">
+	{% if user.is_authenticated %}
+		<a href="{% url logout %}">{% trans "Log out" %}</a>
+	{% else %}
+		<a href="/tykes/admin/">{% trans "Log in" %}</a>
+	{% endif %}
+</div>

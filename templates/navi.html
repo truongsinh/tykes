@@ -1,0 +1,37 @@
+{% load i18n %}
+<table>
+	<tbody>
+	<tr>
+		<td><a href="{% url home %}">{% trans "Home" %}</a></td>
+	</tr>
+
+	<tr>
+		<td><a href="{% url topics %}">{% trans "Topics" %}</a></td>
+	</tr>
+	<!-- TOPICS START HERE-->
+	{% for topic in topics %}
+		<tr>
+			<td id="opened">{{ topic.link }}</td>
+		</tr>
+	{% endfor %}
+	<tr>
+		<td><a href="{% url methods %}">{% trans "Methods" %}</a></td>
+	</tr>
+	<!-- METHODS START HERE-->
+	{% for method in methods %}
+		<tr>
+			<td id="opened">{{ method.link }}</td>
+		</tr>
+	{% endfor %}
+	<tr>
+		<td><a href="{% url page "news" %}">{% trans "News" %}</a></td>
+	</tr>
+
+	<tr>
+		<td><a href="{% url page "feedback" %}">{% trans "Feedback" %}</a></td>
+	</tr>
+	<tr>
+		<td><a href="{% url page "contact" %}">{% trans "Contact" %}</a></td>
+	</tr>
+	</tbody>
+</table>

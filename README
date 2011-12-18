@@ -1,0 +1,19 @@
+To-do list:
+[*]RSS
+[*]Atom
+[*]Remake admin, WYSIWYG
+[*]WebSocket/Ajax
+[*]Language bug
+[*]Template
+[*] Translation for app (entry/page) and models (method/topic/instruction/page)
+
+Native disappointment:
+[*]Multilingual
+[*]Admin nested inline http://stackoverflow.com/questions/702637/django-admin-inline-inlines-or-three-model-editing-at-once
+[*]Search
+
+
+Search engine:
+Outsource (Google, Bing...)
+Whoosh (pure python)
+Xapia (C++, python bind)

@@ -1,0 +1,6 @@
+{% extends "layout.html" %}
+{% load i18n %}
+{% block content %}
+	<div id="edit" class="right"><a href="{{ page.admin_url }}">[{% trans "Change" %}]</a></div>
+	{{ page.content }}
+{% endblock %}
