@@ -1,7 +1,6 @@
 from django.core.urlresolvers import reverse
 from django.db import models
 from multilingual_model.models import MultilingualModel, MultilingualTranslation
-from SearchEngine import SearchManager
 
 class TopicTranslation(MultilingualTranslation):
 	parent = models.ForeignKey("Topic", related_name="translations")
@@ -15,7 +14,7 @@ class TopicTranslation(MultilingualTranslation):
 		return u"%s - %s: %s" % (self.parent, self.language_code, self.name)
 
 	class Meta:
-		ordering = ['last_updated']
+		ordering = ['-last_updated']
 
 class Topic(MultilingualModel):
 	def __unicode__(self):
@@ -27,7 +26,7 @@ class Topic(MultilingualModel):
 	url = property(get_absolute_url)
 
 	def get_admin_url(self):
-		return reverse('admin:core_topic_change', args=(self.id,))
+		return reverse('admin:entry_topic_change', args=(self.id,))
 
 	admin_url = property(get_admin_url)
 
@@ -50,8 +49,7 @@ class MethodTranslation(MultilingualTranslation):
 		return u"%s - %s: %s" % (self.parent, self.language_code, self.name)
 
 	class Meta:
-		ordering = ['last_updated']
-
+		ordering = ['-last_updated']
 
 class Method(MultilingualModel):
 	topics = models.ManyToManyField(Topic, through="Instruction", related_name="methods")
@@ -65,7 +63,7 @@ class Method(MultilingualModel):
 	url = property(get_absolute_url)
 
 	def get_admin_url(self):
-		return reverse('admin:core_method_change', args=(self.id,))
+		return reverse('admin:entry_method_change', args=(self.id,))
 
 	admin_url = property(get_admin_url)
 
@@ -86,6 +84,8 @@ class InstructionTranslation(MultilingualTranslation):
 	content = property(experience)
 	def __unicode__(self):
 		return u"[%s] %s" % (self.language_code, self.parent)
+	class Meta:
+		ordering = ['-last_updated']
 
 
 class Instruction(MultilingualModel):
@@ -104,6 +104,6 @@ class Instruction(MultilingualModel):
 	url = property(get_absolute_url)
 
 	def get_admin_url(self):
-		return reverse('admin:core_instruction_change', args=(self.id,))
+		return reverse('admin:entry_instruction_change', args=(self.id,))
 
 	admin_url = property(get_admin_url)

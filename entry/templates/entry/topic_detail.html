@@ -6,18 +6,26 @@
 	{% endif %}
 	<h1>{{ topic.name }}</h1>
 	<p>{{ topic.content }}</p>
-	<h1>{% trans "This topic has been used to develop the following themes:" %}</h1>
+	{% if topic.theses %}
+	<h1>{% trans "Theses related to this topic" %}</h1>
+	<p>{{ topic.theses }}</p>
+	{% endif %}
+	{% if topic.papers %}
+	<h1>{% trans "Papers related to this topic" %}</h1>
+	<p>{{ topic.papers }}</p>
+	{% endif %}
+	<h1>{% trans "The following methods were used under this topic:" %}</h1>
 	{% for instruction in topic.instructions.all %}
 		<h2>{{ instruction.method.link }}</h2>
 		{% if instruction.instruction %}
-			<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}">{% trans "Instruction" %}</a></li>
+			<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
 		{% endif %}
-		<li><a href="{{ instruction.url }}">{% trans "Experience" %}</a></li>
+		<li><a href="{{ instruction.url }}">{% trans "Method user experiences" %}</a></li>
 		{% if instruction.theses %}
-			<li><a href="{{ instruction.theses }}">{% trans "Theses" %}</a></li>
+			<li><a href="{{ instruction.theses }}">{% trans "Theses related to this instruction" %}</a></li>
 		{% endif %}
 		{% if instruction.papers %}
-			<li><a href="{{ instruction.papers }}">{% trans "Papers" %}</a></li>
+			<li><a href="{{ instruction.papers }}">{% trans "Papers related to this instruction" %}</a></li>
 		{% endif %}
 	{% endfor %}
 {% endblock %}

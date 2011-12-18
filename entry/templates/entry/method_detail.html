@@ -8,11 +8,30 @@
 	<p>{{ method.description }}</p>
 	{% if method.full %}
 		<p><a href="{{ method.full }}">{% trans "Read more ..." %}</a></p>
+	{% endif %}	
+	{% if topic.theses %}
+	<h1>{% trans "Theses related to this topic" %}</h1>
+	<p>{{ topic.theses }}</p>
+	{% endif %}
+	{% if topic.papers %}
+	<h1>{% trans "Papers related to this topic" %}</h1>
+	<p>{{ topic.papers }}</p>
 	{% endif %}
 	<h1>{% trans "This method has been used to develop the following themes:" %}</h1>
 	<ul>
-		{% for topic in method.topics.all %}
-			<li>{{ topic.link }}</li>
+		{% for instruction in method.instructions.all %}
+			<h2>{{ instruction.method.link }}</h2>
+			{% if instruction.instruction %}
+				<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
+			{% endif %}
+			<li><a href="{{ instruction.url }}">{% trans "Experiences of applying the method" %}</a></li>
+			
+		{% if instruction.theses %}
+			<li><a href="{{ instruction.theses }}">{% trans "Theses related to this instruction" %}</a></li>
+		{% endif %}
+		{% if instruction.papers %}
+			<li><a href="{{ instruction.papers }}">{% trans "Papers related to this instruction" %}</a></li>
+		{% endif %}
 		{% endfor %}
 	</ul>
 {% endblock %}

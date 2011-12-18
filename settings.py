@@ -69,7 +69,7 @@ TIME_ZONE = 'America/Chicago'
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
-LANGUAGE_CODE = 'fi'
+LANGUAGE_CODE = 'en'
 
 _ = lambda s: s
 
