@@ -51,7 +51,7 @@ elif hostname:
 # Django settings for tykes project.
 
 ADMINS = (
-# ('Your Name', 'your_email@example.com'),
+	('TruongSinh Tran', 'truongsinh.tran@gmail.com'),
 )
 
 MANAGERS = ADMINS
@@ -69,7 +69,7 @@ TIME_ZONE = 'America/Chicago'
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
-LANGUAGE_CODE = 'fi'
+LANGUAGE_CODE = 'en'
 
 _ = lambda s: s
 
@@ -170,10 +170,11 @@ INSTALLED_APPS = (
 	# Uncomment the next line to enable the admin:
 	'django.contrib.admin',
 	# Uncomment the next line to enable admin documentation:
-	# 'django.contrib.admindocs',
+	## 'django.contrib.admindocs',
 	'entry',
 	'haystack',
 	'multilingual_model',
+	'django_basic_feedback',
 	'page',
 	)
 

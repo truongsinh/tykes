@@ -32,7 +32,7 @@ class Page(MultilingualModel):
 
 class Attachment(models.Model):
 	name = models.CharField(max_length=255)
-	file = models.FileField( upload_to="attachments")
+	file = models.FileField( upload_to="attachment")
 	page = models.ForeignKey(PageTranslation, related_name="attachments")
 	hidden = models.BooleanField( )
 
