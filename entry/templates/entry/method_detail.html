@@ -7,7 +7,7 @@
 	<h1>{{ method.name }}</h1>
 	<p>{{ method.content }}</p>
 	{% if method.full %}
-		<p><a href="{{ method.full }}">{% trans "Read more ..." %}</a></p>
+		<p><a href="{{ MEDIA_URL }}{{ method.full }}">{% trans "Read more ..." %}</a></p>
 	{% endif %}	
 	{% if method.theses %}
 	<h1>{% trans "Theses related to this method" %}</h1>

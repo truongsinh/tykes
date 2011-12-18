@@ -14,6 +14,7 @@
 	<h1>{% trans "Papers related to this topic" %}</h1>
 	<p>{{ topic.papers }}</p>
 	{% endif %}
+	{% if topic.instructions.all %}
 	<h1>{% trans "The following methods were used under this topic:" %}</h1>
 	{% for instruction in topic.instructions.all %}
 		<h2>{{ instruction.method.link }}</h2>
@@ -28,4 +29,5 @@
 			<li><a href="{{ instruction.papers }}">{% trans "Papers related to this instruction" %}</a></li>
 		{% endif %}
 	{% endfor %}
+	{% endif %}
 {% endblock %}

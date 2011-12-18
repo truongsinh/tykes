@@ -12,8 +12,13 @@ Native disappointment:
 [*]Admin nested inline http://stackoverflow.com/questions/702637/django-admin-inline-inlines-or-three-model-editing-at-once
 [*]Search
 
+Bugs:
+[*] Pagination in search
+
 
 Search engine:
 Outsource (Google, Bing...)
 Whoosh (pure python)
 Xapia (C++, python bind)
+
+rsync -azvP --delete --delete-excluded --exclude=.git --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root

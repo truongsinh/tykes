@@ -41,7 +41,7 @@ class MethodTranslation(MultilingualTranslation):
 	name = models.CharField(max_length=255)
 	last_updated = models.DateTimeField(auto_now=True)
 	content = models.TextField(blank=True)	#	Short desc
-	full = models.FileField(upload_to="methods", blank=True)		   #   Full method /PDF
+	full = models.FileField(upload_to="method", blank=True)		   #   Full method /PDF
 	theses = models.TextField(blank=True)			#	List of links to theseus
 	papers = models.TextField(blank=True)			#	List of links to papers from different sources
 
@@ -76,7 +76,7 @@ class Method(MultilingualModel):
 class InstructionTranslation(MultilingualTranslation):
 	parent = models.ForeignKey("Instruction", related_name="translations")
 	last_updated = models.DateTimeField(auto_now=True)
-	instruction = models.FileField(upload_to="instructions",
+	instruction = models.FileField(upload_to="instruction",
 		blank=True)	#   Instruction of how to use method to particular topics /PDF
 	experience = models.TextField(blank=True)	 #   Experience /HTML
 	theses = models.TextField(blank=True)			#	List of links to theseus

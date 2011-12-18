@@ -51,7 +51,7 @@ elif hostname:
 # Django settings for tykes project.
 
 ADMINS = (
-# ('Your Name', 'your_email@example.com'),
+	('TruongSinh Tran', 'truongsinh.tran@gmail.com'),
 )
 
 MANAGERS = ADMINS
@@ -174,6 +174,7 @@ INSTALLED_APPS = (
 	'entry',
 	'haystack',
 	'multilingual_model',
+	'django_basic_feedback',
 	'page',
 	)
 
