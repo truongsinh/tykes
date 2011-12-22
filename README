@@ -1,5 +1,5 @@
 To-do list:
-[*]RSS
+[*]RSS TRIM
 [*]Atom
 [*]Remake admin, WYSIWYG
 [*]WebSocket/Ajax
@@ -14,7 +14,6 @@ Native disappointment:
 
 Bugs:
 [*]Pagination in search
-[*]Feedback only for registered
 [*]Switching between front and back
 [*]File browser
 [*]After first successful feedback, captcha image won't reload, but system require new captcha
@@ -43,3 +42,4 @@ Dependencies:
 pil
 
 rsync -azvP --delete --delete-excluded --exclude=.git --exclude=data --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
+rsync -azvP --delete --delete-excluded --exclude=.git --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root

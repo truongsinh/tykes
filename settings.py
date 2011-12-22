@@ -65,7 +65,9 @@ ADMINS = (
 	('TruongSinh Tran', 'truongsinh.tran@gmail.com'),
 )
 
-MANAGERS = ADMINS
+MANAGERS = (
+	('TruongSinh Tran', 'truongsinh.tran@gmail.com'),
+)
 
 
 
@@ -175,6 +177,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 	"django.core.context_processors.static",
 	"django.contrib.messages.context_processors.messages",
 	"django.core.context_processors.request",
+	"feedback.context_processor",
 )
 
 # URL prefix for static files.

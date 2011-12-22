@@ -35,6 +35,9 @@ class Topic(MultilingualModel):
 
 	link = property(get_link)
 
+	class Meta:
+		ordering = ['-translations__last_updated']
+
 
 class MethodTranslation(MultilingualTranslation):
 	parent = models.ForeignKey("Method", related_name="translations")
@@ -71,6 +74,8 @@ class Method(MultilingualModel):
 		return '<a href="%s">%s</a>' % (self.url, self.name)
 
 	link = property(get_link)
+	class Meta:
+		ordering = ['-translations__last_updated']
 
 
 class InstructionTranslation(MultilingualTranslation):
@@ -94,6 +99,7 @@ class Instruction(MultilingualModel):
 
 	class Meta:
 		unique_together = ("method", "topic")
+		ordering = ['-translations__last_updated']
 
 	def __unicode__(self):
 		return u"%s - %s" % (self.method, self.topic)

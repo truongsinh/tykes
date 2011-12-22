@@ -1,5 +1,6 @@
 from django.contrib.syndication.views import Feed
-from entry.models import Method
+from itertools import chain
+from entry.models import Method, Topic, TopicTranslation
 
 class MethodRSSFeed(Feed):
 	title = "Tykes news"
@@ -8,10 +9,11 @@ class MethodRSSFeed(Feed):
 
 	def items(self):
 		#return Method.objects.order_by('-pub_date')[:5]
-		return Method.objects.all()[:5]
+		result_list = list(chain(Method.objects.all()[:5],Topic.objects.all()[:5]))
+		return result_list
 
 	def item_title(self, item):
 		return item.name
 
 	def item_description(self, item):
-		return item.content
+		return item.content[:1000]

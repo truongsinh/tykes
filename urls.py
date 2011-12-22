@@ -22,7 +22,7 @@ urlpatterns += patterns('',
 	url(r'^tykes/captcha/', include('captcha.urls')),
 	url(r'^tykes/language/', 'django.views.i18n.set_language', name="set_language"),
 	url(r'^tykes/', include('entry.urls')),
-	url(r'^feedback/', include('feedback.urls'), name="feedback"),
+	url(r'^tykes/feedback/', include('feedback.urls'), name="feedback"),
 	url(r'^tykes/', include('page.urls')),
 
 )

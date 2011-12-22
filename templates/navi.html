@@ -29,5 +29,13 @@
 	<tr>
 		<td><a href="{% url page "contact" %}">{% trans "Contact" %}</a></td>
 	</tr>
+	{% if user.is_authenticated %}
+	<tr>
+		<td><a href="{% url admin:index %}" target="_blank">{% trans "Admin" %}</a></td>
+	</tr>
+	<tr>
+		<td id="opened"><a href="{% url admin:feedback_feedback_changelist %}" target="_blank">{% trans "Feedback" %} ({{ feedback_count }})</a></td>
+	</tr>
+	{% endif %}
 	</tbody>
 </table>
