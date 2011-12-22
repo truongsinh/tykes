@@ -5,7 +5,7 @@ from entry.models import Method, Topic
 class MethodRSSFeed(Feed):
 	title = "Tykes news"
 	link = "/sitenews/"
-	description = "Updates on changes and additions to chicagocrime.org."
+	description = "Updates on changes and additions to tekes.fi."
 
 	def items(self):
 		#return Method.objects.order_by('-pub_date')[:5]
@@ -17,3 +17,5 @@ class MethodRSSFeed(Feed):
 
 	def item_description(self, item):
 		return item.content[:1000]
+	def item_pubdate(self, item):
+		return item.last_updated

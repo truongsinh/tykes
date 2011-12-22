@@ -1,6 +1,4 @@
 To-do list:
-[*]RSS TRIM
-[*]Atom
 [*]Remake admin, WYSIWYG
 [*]WebSocket/Ajax
 [*]Language bug
@@ -41,5 +39,9 @@ Xapia (C++, python bind)
 Dependencies:
 pil
 
-rsync -azvP --delete --delete-excluded --exclude=.git --exclude=data --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
+
+chgrp -R truongsinh ~/
+find ~/ -xdev -user truongsinh -group truongsinh -type d -print -exec chmod +s {} \;
+
+rsync -azvP --delete --delete-excluded --exclude=.git --exclude=data --exclude=static --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
 rsync -azvP --delete --delete-excluded --exclude=.git --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root

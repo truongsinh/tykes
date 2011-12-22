@@ -388,3 +388,8 @@ form {
 #language_chooser {
     margin-right: 5px;
 }
+
+.flag {
+	width: 24px;
+	height: 24px;
+}
