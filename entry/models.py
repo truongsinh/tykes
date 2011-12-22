@@ -5,7 +5,6 @@ from translation.models import MultilingualModel, MultilingualTranslation
 class TopicTranslation(MultilingualTranslation):
 	parent = models.ForeignKey("Topic", related_name="translations")
 	name = models.CharField(max_length=255)
-	last_updated = models.DateTimeField(auto_now=True)
 	content = models.TextField(blank=True)
 	theses = models.TextField(blank=True)			#	List of links to theseus
 	papers = models.TextField(blank=True)			#	List of links to papers from different sources
@@ -13,10 +12,9 @@ class TopicTranslation(MultilingualTranslation):
 	def __unicode__(self):
 		return u"%s - %s: %s" % (self.parent, self.language_code, self.name)
 
-	class Meta:
-		ordering = ['-last_updated']
 
 class Topic(MultilingualModel):
+	last_updated = models.DateTimeField(auto_now=True)
 	def __unicode__(self):
 		return self.unicode_wrapper("name")
 
@@ -34,15 +32,13 @@ class Topic(MultilingualModel):
 		return '<a href="%s">%s</a>' % (self.url, self.name)
 
 	link = property(get_link)
-
 	class Meta:
-		ordering = ['-translations__last_updated']
+		ordering = ['-last_updated']
 
 
 class MethodTranslation(MultilingualTranslation):
 	parent = models.ForeignKey("Method", related_name="translations")
 	name = models.CharField(max_length=255)
-	last_updated = models.DateTimeField(auto_now=True)
 	content = models.TextField(blank=True)	#	Short desc
 	full = models.FileField(upload_to="method", blank=True)		   #   Full method /PDF
 	theses = models.TextField(blank=True)			#	List of links to theseus
@@ -51,11 +47,12 @@ class MethodTranslation(MultilingualTranslation):
 	def __unicode__(self):
 		return u"%s - %s: %s" % (self.parent, self.language_code, self.name)
 
-	class Meta:
-		ordering = ['-last_updated']
-
 class Method(MultilingualModel):
 	topics = models.ManyToManyField(Topic, through="Instruction", related_name="methods")
+
+	last_updated = models.DateTimeField(auto_now=True)
+	class Meta:
+		ordering = ['-last_updated']
 
 	def __unicode__(self):
 		return self.unicode_wrapper("name")
@@ -74,13 +71,10 @@ class Method(MultilingualModel):
 		return '<a href="%s">%s</a>' % (self.url, self.name)
 
 	link = property(get_link)
-	class Meta:
-		ordering = ['-translations__last_updated']
 
 
 class InstructionTranslation(MultilingualTranslation):
 	parent = models.ForeignKey("Instruction", related_name="translations")
-	last_updated = models.DateTimeField(auto_now=True)
 	instruction = models.FileField(upload_to="instruction",
 		blank=True)	#   Instruction of how to use method to particular topics /PDF
 	experience = models.TextField(blank=True)	 #   Experience /HTML
@@ -89,17 +83,14 @@ class InstructionTranslation(MultilingualTranslation):
 	content = property(experience)
 	def __unicode__(self):
 		return u"[%s] %s" % (self.language_code, self.parent)
-	class Meta:
-		ordering = ['-last_updated']
-
 
 class Instruction(MultilingualModel):
 	method = models.ForeignKey(Method, related_name="instructions")
 	topic = models.ForeignKey(Topic, related_name="instructions")
-
+	last_updated = models.DateTimeField(auto_now=True)
 	class Meta:
+		ordering = ['-last_updated']
 		unique_together = ("method", "topic")
-		ordering = ['-translations__last_updated']
 
 	def __unicode__(self):
 		return u"%s - %s" % (self.method, self.topic)

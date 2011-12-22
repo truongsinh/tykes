@@ -3,8 +3,6 @@
 		"pk":22,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:32:40",
-			"name":"Kest\u00e4v\u00e4 kehitys",
 			"parent":12,
 			"papers":"",
 			"content":"<p>Kest&auml;v&auml; kehitys on maailmanlaajuisesti, alueellisesti ja paikallisesti tapahtuvaa jatkuvaa ja ohjattua yhteiskunnallista muutosta, jonka p&auml;&auml;m&auml;&auml;r&auml;n&auml; on turvata nykyisille ja tuleville sukupolville hyv&auml;t el&auml;misen mahdollisuudet. T&auml;m&auml; tarkoittaa my&ouml;s, ett&auml; ymp&auml;rist&ouml;, ihminen ja talous otetaan tasavertaisesti huomioon p&auml;&auml;t&ouml;ksenteossa ja toiminnassa.</p>\r\n<h4>Ekologinen kest&auml;vyys</h4>\r\n<p>Kest&auml;v&auml;n kehityksen perusehtona on biologisen monimuotoisuuden ja ekosysteemien toimivuuden s&auml;ilytt&auml;minen sek&auml; ihmisen taloudellisen ja aineellisen toiminnan sopeuttaminen pitk&auml;ll&auml; aikav&auml;lill&auml; luonnon kestokykyyn. Kansallisten toimien lis&auml;ksi kansainv&auml;linen yhteisty&ouml; on hyvin keskeisess&auml; asemassa pyritt&auml;ess&auml; ekologiseen kest&auml;vyyteen.</p>\r\n<p>Ekologisen kest&auml;vyyden kannalta keskeist&auml; on varovaisuusperiaatteen noudattaminen. Sen mukaan ymp&auml;rist&ouml;n tilan heikkenemist&auml; est&auml;vien toimien lykk&auml;&auml;mist&auml; ei voi perustella t&auml;yden tieteellisen n&auml;yt&ouml;n puuttumisella. Ennen toimiin ryhtymist&auml; arvioidaan riskit, haitat ja kustannukset. Muita t&auml;rkeit&auml; periaatteita ovat haittojen synnyn ennalta est&auml;minen ja haittojen torjuminen niiden syntyl&auml;hteill&auml;. Lis&auml;ksi haittojen kustannukset perit&auml;&auml;n mahdollisuuksien mukaan niiden aiheuttajalta.</p>\r\n<h4>Taloudellinen kest&auml;vyys</h4>\r\n<p>Taloudellinen kest&auml;vyys on sis&auml;ll&ouml;lt&auml;&auml;n ja laadultaan tasapainoista kasvua, joka ei perustu pitk&auml;ll&auml; aikav&auml;lill&auml; velkaantumiseen tai varantojen h&auml;vitt&auml;miseen. Kest&auml;v&auml; talous on edellytys yhteiskunnan keskeisille toiminnoille. Siihen pitk&auml;j&auml;nteisesti t&auml;ht&auml;&auml;v&auml; talouspolitiikka luo otolliset olosuhteet kansallisen hyvinvoinnin vaalimiselle ja lis&auml;&auml;miselle.</p>\r\n<p>Kest&auml;v&auml;ll&auml; pohjalla oleva talous helpottaa my&ouml;s kohtaamaan vastaan tulevia uusia haasteita, kuten v&auml;est&ouml;n ik&auml;&auml;ntymisest&auml; aiheutuvia kasvavia sosiaaliturva- ja terveysmenoja. Kest&auml;v&auml; talous on sosiaalisen kest&auml;vyyden perusta. Sosiaalista kest&auml;vyytt&auml; vaalivat mekanismit taas auttavat osaltaan lievitt&auml;m&auml;&auml;n niit&auml; vaikeuksia, joita nopeasti muuttuvassa maailmantaloudessa voi synty&auml;.</p>\r\n<h4>Sosiaalinen ja kulttuurinen kest&auml;vyys</h4>\r\n<p>Sosiaalisessa ja kulttuurisessa kest&auml;vyydess&auml; keskeisen&auml; kysymyksen&auml; on taata hyvinvoinnin edellytysten siirtyminen sukupolvelta toiselle. Yh&auml; jatkuva v&auml;est&ouml;nkasvu, k&ouml;yhyys, ruoka- ja terveydenhuolto, sukupuolten v&auml;linen tasa-arvo sek&auml; koulutuksen j&auml;rjest&auml;minen ovat maailmanlaajuisia sosiaalisen kest&auml;vyyden haasteita, joilla on merkitt&auml;vi&auml; vaikutuksia ekologiseen ja taloudelliseen kest&auml;vyyteen. N&auml;ihin haasteisiin vastaaminen vaatii suuria ponnistuksia sek&auml; yksitt&auml;isilt&auml; valtioilta ett&auml; kansainv&auml;liselt&auml; yhteis&ouml;lt&auml;.</p>\r\n<p>Kest&auml;v&auml;&auml;n kehitykseen vaikuttaa olennaisesti se, kuinka taloudellinen ja muu yhteiskunnan kehitys edist&auml;&auml; maan asukkaiden hyvinvointia. Kansalaisten perushyvinvointi on yksi t&auml;rke&auml; edellytys ekologisen kest&auml;vyyden edist&auml;miselle ja sen yhteiskunnalliselle hyv&auml;ksytt&auml;vyydelle.</p>\r\n<p><em>L&auml;hde: Ymp&auml;rist&ouml;ministeri&ouml;, www.ymparisto.fi</em></p>",
@@ -16,7 +14,6 @@
 		"pk":21,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:32:03",
 			"name":"Laadunhallinta",
 			"parent":11,
 			"papers":"",
@@ -29,7 +26,6 @@
 		"pk":20,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:31:31",
 			"name":"Projektinhallinta",
 			"parent":10,
 			"papers":"",
@@ -42,7 +38,6 @@
 		"pk":19,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:19:31",
 			"name":"Henkil\u00f6st\u00f6johtaminen ja esimiesty\u00f6",
 			"parent":2,
 			"papers":"",
@@ -55,7 +50,6 @@
 		"pk":18,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:18:51",
 			"name":"Ik\u00e4johtaminen",
 			"parent":3,
 			"papers":"",
@@ -68,7 +62,6 @@
 		"pk":17,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:17:36",
 			"name":"Prosessien kehitt\u00e4minen",
 			"parent":4,
 			"papers":"",
@@ -81,7 +74,6 @@
 		"pk":16,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:16:27",
 			"name":"Tiimity\u00f6",
 			"parent":6,
 			"papers":"",
@@ -94,7 +86,6 @@
 		"pk":15,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:15:40",
 			"name":"Ty\u00f6hyvinvointi",
 			"parent":7,
 			"papers":"",
@@ -107,7 +98,6 @@
 		"pk":14,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:14:20",
 			"name":"Uuden teknologian k\u00e4ytt\u00f6\u00f6notto",
 			"parent":8,
 			"papers":"",
@@ -120,7 +110,6 @@
 		"pk":10,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:14:20",
 			"name":"Introducing a new technology",
 			"parent":8,
 			"papers":"",
@@ -133,7 +122,6 @@
 		"pk":13,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:10:48",
 			"name":"Verkostoituminen",
 			"parent":9,
 			"papers":"",
@@ -146,7 +134,6 @@
 		"pk":6,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:08:35",
 			"name":"Process development",
 			"parent":4,
 			"papers":"",
@@ -159,7 +146,6 @@
 		"pk":12,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 10:07:21",
 			"name":"Strategioiden toimeenpano",
 			"parent":5,
 			"papers":"",
@@ -172,7 +158,6 @@
 		"pk":11,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 08:00:28",
 			"name":"Networking",
 			"parent":9,
 			"papers":"",
@@ -185,7 +170,6 @@
 		"pk":9,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 07:59:46",
 			"name":"Wellbeing at work",
 			"parent":7,
 			"papers":"",
@@ -198,7 +182,6 @@
 		"pk":8,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 07:59:14",
 			"name":"Teamwork",
 			"parent":6,
 			"papers":"",
@@ -211,7 +194,6 @@
 		"pk":7,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 07:58:40",
 			"name":"Strategy implementation",
 			"parent":5,
 			"papers":"",
@@ -224,7 +206,6 @@
 		"pk":5,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 07:52:34",
 			"name":"Age management",
 			"parent":3,
 			"papers":"",
@@ -237,7 +218,6 @@
 		"pk":4,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 07:50:57",
 			"name":"Personnel management and supervisors",
 			"parent":2,
 			"papers":"",
@@ -250,7 +230,6 @@
 		"pk":2,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 07:30:10",
 			"name":"Management development",
 			"parent":1,
 			"papers":"",
@@ -263,7 +242,6 @@
 		"pk":1,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-18 07:17:12",
 			"name":"Johtamisen kehitt\u00e4minen",
 			"parent":1,
 			"papers":"",
@@ -276,7 +254,6 @@
 		"pk":3,
 		"model":"entry.topictranslation",
 		"fields":{
-			"last_updated":"2011-12-17 06:35:01",
 			"name":"Nang cao quan ly lanh dao",
 			"parent":1,
 			"papers":"",
@@ -350,7 +327,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"method/Menetelmakortti_balanced_scorecard.pdf",
-			"last_updated":"2011-12-18 10:53:04",
 			"name":"Balanced Scorecard",
 			"parent":1,
 			"papers":"",
@@ -364,7 +340,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 09:18:22",
 			"name":"Workplace counselling",
 			"parent":19,
 			"papers":"",
@@ -378,7 +353,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 09:18:01",
 			"name":"Workplace conference",
 			"parent":18,
 			"papers":"",
@@ -392,7 +366,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 09:17:45",
 			"name":"Strada methods",
 			"parent":17,
 			"papers":"",
@@ -406,7 +379,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 09:17:28",
 			"name":"Six Thinking Hats",
 			"parent":16,
 			"papers":"",
@@ -420,7 +392,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 09:17:18",
 			"name":"Risk analysis",
 			"parent":15,
 			"papers":"",
@@ -434,7 +405,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 09:16:39",
 			"name":"Process modelling",
 			"parent":14,
 			"papers":"",
@@ -448,7 +418,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 09:16:19",
 			"name":"Partner quality network concept",
 			"parent":13,
 			"papers":"",
@@ -462,7 +431,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 08:08:48",
 			"name":"Competence management",
 			"parent":12,
 			"papers":"",
@@ -476,7 +444,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 08:08:20",
 			"name":"Change laboratory",
 			"parent":11,
 			"papers":"",
@@ -490,7 +457,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 08:06:40",
 			"name":"Development discussion",
 			"parent":10,
 			"papers":"",
@@ -504,7 +470,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 08:06:18",
 			"name":"ITE self-assessment and quality control method",
 			"parent":9,
 			"papers":"",
@@ -518,7 +483,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 08:05:59",
 			"name":"Age management definition",
 			"parent":8,
 			"papers":"",
@@ -532,7 +496,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 08:05:29",
 			"name":"Human impact assessment",
 			"parent":7,
 			"papers":"",
@@ -546,7 +509,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 08:05:10",
 			"name":"Supervisor coaching",
 			"parent":6,
 			"papers":"",
@@ -560,7 +522,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 08:04:48",
 			"name":"Benchmarking",
 			"parent":5,
 			"papers":"",
@@ -574,7 +535,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-18 08:01:32",
 			"name":"Balanced Scorecard",
 			"parent":1,
 			"papers":"",
@@ -588,7 +548,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"methods/Tunneaelyjohtaminen_muutoksessa1.pdf",
-			"last_updated":"2011-12-17 06:35:01",
 			"name":"Tunne\u00e4ly johtamisessa",
 			"parent":3,
 			"papers":"",
@@ -602,7 +561,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-17 06:35:01",
 			"name":"Learning Cafe",
 			"parent":4,
 			"papers":"",
@@ -616,7 +574,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"methods/Ohjeet_Learning_cafen_eteneminen.pdf",
-			"last_updated":"2011-12-17 06:35:01",
 			"name":"Learning Cafe",
 			"parent":4,
 			"papers":"",
@@ -630,7 +587,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-17 06:35:01",
 			"name":"Hoc ca phe?",
 			"parent":4,
 			"papers":"",
@@ -644,7 +600,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-17 06:35:01",
 			"name":"Emotional intelligence leadership",
 			"parent":3,
 			"papers":"",
@@ -658,7 +613,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-17 06:35:01",
 			"name":"360\u02da-arviointi",
 			"parent":2,
 			"papers":"",
@@ -672,7 +626,6 @@
 		"model":"entry.methodtranslation",
 		"fields":{
 			"full":"",
-			"last_updated":"2011-12-17 06:35:01",
 			"name":"360\u02da assessment",
 			"parent":2,
 			"papers":"",
@@ -780,7 +733,6 @@
 		"pk":4,
 		"model":"entry.instructiontranslation",
 		"fields":{
-			"last_updated":"2011-12-18 07:06:25",
 			"parent":4,
 			"instruction":"",
 			"experience":"<p>Mitk&auml; ovat olleet menetelm&auml;&auml;/ty&ouml;kalua k&auml;ytt&auml;vien hankkeiden p&auml;&auml;kehityskohteet ja tavoitteet? prosessien kehitt&auml;minen jaetun johtajuuden mallin kehitt&auml;minen muutoksen johtaminen hiljaisen tiedon esiin tuominen ty&ouml;ss&auml; jaksamisen lis&auml;&auml;ntyminen oman osaamisen ja tiet&auml;myksen esiin tuominen Miss&auml; kehitt&auml;misprosessin vaiheessa menetelm&auml;&auml;/ty&ouml;kalua on k&auml;ytetty? muutosvaiheen toteuttamisen aikana ty&ouml;yhteis&ouml;ss&auml; motivaation lis&auml;&auml;miseksi prosessin aikana Onko menetelm&auml;&auml;/ty&ouml;kalua k&auml;ytetty ongelman analysointiin vai ratkaisun kehitt&auml;miseen? ratkaisun kehitt&auml;miseksi ja motivaation lis&auml;&auml;miseksi mahdollistaa suuressa ryhm&auml;ss&auml; tapahtuvan analyysi- tai tavoitteenasetantaprosessin Mit&auml; muita menetelmi&auml;/ty&ouml;kaluja on k&auml;ytetty t&auml;m&auml;n menetelm&auml;n kanssa aihepiirin projekteissa? prosessikonsultointi workshopit Tuplatiimi Miten ko. menetelm&auml;&auml; k&auml;ytt&auml;neet hankkeet kuvaavat onnistumistaan kehitt&auml;misess&auml;? Miten onnistumista on mitattu? Mik&auml; muuttui? menetelm&auml;ll&auml; saadaan ker&auml;tty&auml; nopeasti ja laajasti n&auml;kemyksi&auml; valituista teemoista toisessa hankkeessa uusi jaetun johtajuuden malli on otettu k&auml;ytt&ouml;&ouml;n ja toiminnan on kuvattu olevan avoimempaa ja l&auml;pin&auml;kyv&auml;mp&auml;&auml; onnistumista on mitattu henkil&ouml;st&ouml;kyselyjen sek&auml; asiakaspalautteista saadun tiedon avulla onnistumista on mitattu my&ouml;s laadun arvioinnin perusteella TUTKIJAN ARVIOINTI: Miten toimiva menetelm&auml;/ty&ouml;kalu on ollut aihepiirin projekteissa? Mik&auml; muu menetelm&auml;/ty&ouml;kalu olisi voinut tulla kyseeseen? menetelm&auml; on ollut eritt&auml;in toimiva erilaiset ryhm&auml;ty&ouml;menetelm&auml;t, joissa koko henkil&ouml;st&ouml; sitoutetaan toimimaan yhteisen tavoitteen saavuttamiseksi, olisivat olleet mahdollisia (esim. world cafe) Mit&auml; on otettava huomioon menetelm&auml;n/ty&ouml;kalun k&auml;yt&ouml;ss&auml;? Onnistumisen edellytykset? riitt&auml;v&auml;n suuri m&auml;&auml;r&auml; osallistujia riitt&auml;v&auml;sti aikaa toteutukselle selke&auml;t keskustelun aiheet, jotta keskustelua syntyy helposti tiedon v&auml;litt&auml;minen osallistujille mihin keskusteluilla pyrit&auml;&auml;n ja mihin niit&auml; k&auml;ytet&auml;&auml;n jatkossa kaikkien mahdollisuus osallistua ja tuoda esiin mielipiteens&auml; d okumentoinnin t&auml;rkeys d okumentoinnin j&auml;lkeen asia vied&auml;&auml;n koko ty&ouml;yhteis&ouml;n tietoon</p>",
@@ -793,7 +745,6 @@
 		"pk":3,
 		"model":"entry.instructiontranslation",
 		"fields":{
-			"last_updated":"2011-12-17 06:35:01",
 			"parent":3,
 			"instruction":"",
 			"experience":"",
@@ -806,7 +757,6 @@
 		"pk":2,
 		"model":"entry.instructiontranslation",
 		"fields":{
-			"last_updated":"2011-12-17 06:35:01",
 			"parent":2,
 			"instruction":"instructions/Ohjeet__360_asteen_arvioinnista.pdf",
 			"experience":"",
@@ -819,7 +769,6 @@
 		"pk":1,
 		"model":"entry.instructiontranslation",
 		"fields":{
-			"last_updated":"2011-12-17 06:35:01",
 			"parent":1,
 			"instruction":"instructions/Menetelmakortti_balanced_scorecard_ohjeet2.pdf",
 			"experience":"What have been the BSC to use p\u00e4\u00e4kehityskohteet projects and goals?\r\n\r\nThe development of strategic planning\r\nQuality, competitiveness, and performance development\r\nDevelop metrics and reporting, and anchoring systems approach to assess effectiveness.\r\nImprove the organization's services and to develop the productivity of work\r\nTo create a staff of well-being of a sturdy set of operations\r\nImplementation of the strategy work\r\nWhere the development stage of the process tool is used for?\r\n\r\nBSC's development process, the first cord is sitoutettava project, after which the company's mission, vision and strategy will be clarified. When a company's critical success factors have been identified such as SWOT analysis, bencmarkingilla, the current state of analysis, so it will then be discussed BSChen perspectives to be taken, and the selection of indicators, figuring out the cause-effect relationships, etc. BSCn meters and complete pruning done ever since the whole development process. \r\n\r\nWhat other tools or methods have been used this tool with the theme in this project?\r\n\r\nRisk Analysis\r\nMapping the atmosphere\r\nEPQM\r\nCurrent state analysis\r\n Labour\r\nHow effective method / tool has been the theme projects?\r\n\r\nBSC's use of management and strategy implementation tool is perceived positively, inter alia, to:\r\n\r\nObjectives of the organization, planning and implementation have become clearer\r\n The organization's success factors have come out well\r\nUsing the BSC to as part of the EFQM methodology has been improved the quality of operations.\r\nAlso negatiisia user experiences found:\r\n\r\nIt was felt that the staff it requires new thinking and approach to issues\r\nTakes hours of work by other tasks\r\nDesign a comprehensive strategy to derive the contribution would be too large\r\nWhat is taken into account in the tool use? Conditions for success?\r\n\r\n BSC project, the key to the success of particular note\r\n\r\n top management support\r\nthe organization has to be convinced of the importance of the project\r\n the company's strategic objectives must be clearly defined before the start of the BSC project\r\n Meters must lead the company's strategy\r\n staff are included in the BSC project\r\ndeployment must be observed that in the beginning of the causal relationships are indicative\r\ncausal relationships are tested during the project implementation through learning\r\ndeployment is insufficient emphasis on education, communication and information\r\nIf the BSC project can be implemented through piloting, so the company is constantly called into question its strategy and control measures will be considered as a tool.",

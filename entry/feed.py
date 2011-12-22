@@ -1,6 +1,6 @@
 from django.contrib.syndication.views import Feed
 from itertools import chain
-from entry.models import Method, Topic, TopicTranslation
+from entry.models import Method, Topic
 
 class MethodRSSFeed(Feed):
 	title = "Tykes news"
