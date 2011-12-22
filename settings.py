@@ -167,6 +167,16 @@ TEMPLATE_DIRS = (
 	os.path.join(PROJECT_ROOT, 'templates'),
 	)
 
+TEMPLATE_CONTEXT_PROCESSORS = (
+	"django.contrib.auth.context_processors.auth",
+	"django.core.context_processors.debug",
+	"django.core.context_processors.i18n",
+	"django.core.context_processors.media",
+	"django.core.context_processors.static",
+	"django.contrib.messages.context_processors.messages",
+	"django.core.context_processors.request",
+)
+
 # URL prefix for static files.
 # Example: "http://media.lawrence.com/static/"
 #STATIC_URL = "%s%s" % (BASE_URL, "static/")
@@ -184,8 +194,9 @@ INSTALLED_APPS = (
 	## 'django.contrib.admindocs',
 	'entry',
 	'haystack',
-	'multilingual_model',
-	'django_basic_feedback',
+	'translation',
+	'feedback',
+	'captcha',
 	'page',
 	)
 
@@ -211,8 +222,8 @@ LOGGING = {
 			},
 		}
 }
-#LOGIN_URL = "%s%s" % (BASE_PATH, 'admin/')
-LOGOUT_URL = "%s%s" % (BASE_PATH, 'admin/logout/')
+LOGIN_URL = "%s%s" % (BASE_PATH, 'login/')
+LOGOUT_URL = "%s%s" % (BASE_PATH, 'logout/')
 
 LOCALE_PATHS = (
 os.path.join(PROJECT_ROOT, 'locale'),
@@ -221,7 +232,6 @@ HAYSTACK_CONNECTIONS = {
 	'default': {
 		# TODO: SeachEngine
 		'ENGINE': 'haystack.backends.simple_backend.SimpleEngine',
-		#'ENGINE': 'haystack.backends.whoosh_backend.WhooshEngine',
 		#'ENGINE': 'haystack.backends.whoosh_backend.WhooshEngine',
 		'PATH': os.path.join(PROJECT_ROOT, 'data/index'),
 		},

@@ -1,6 +1,6 @@
 from django.contrib import admin
 from entry.models import TopicTranslation, MethodTranslation, InstructionTranslation, Topic, Instruction, Method
-from multilingual_model.admin import TranslationInline
+from translation.admin import TranslationInline
 from settings import MEDIA_URL
 
 class TopicTranslationInline(TranslationInline):

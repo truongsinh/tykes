@@ -1,1 +1,863 @@
-[{"pk": 22, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:32:40", "name": "Kest\u00e4v\u00e4 kehitys", "parent": 12, "papers": "", "content": "<p>Kest&auml;v&auml; kehitys on maailmanlaajuisesti, alueellisesti ja paikallisesti tapahtuvaa jatkuvaa ja ohjattua yhteiskunnallista muutosta, jonka p&auml;&auml;m&auml;&auml;r&auml;n&auml; on turvata nykyisille ja tuleville sukupolville hyv&auml;t el&auml;misen mahdollisuudet. T&auml;m&auml; tarkoittaa my&ouml;s, ett&auml; ymp&auml;rist&ouml;, ihminen ja talous otetaan tasavertaisesti huomioon p&auml;&auml;t&ouml;ksenteossa ja toiminnassa.</p>\r\n<h4>Ekologinen kest&auml;vyys</h4>\r\n<p>Kest&auml;v&auml;n kehityksen perusehtona on biologisen monimuotoisuuden ja ekosysteemien toimivuuden s&auml;ilytt&auml;minen sek&auml; ihmisen taloudellisen ja aineellisen toiminnan sopeuttaminen pitk&auml;ll&auml; aikav&auml;lill&auml; luonnon kestokykyyn. Kansallisten toimien lis&auml;ksi kansainv&auml;linen yhteisty&ouml; on hyvin keskeisess&auml; asemassa pyritt&auml;ess&auml; ekologiseen kest&auml;vyyteen.</p>\r\n<p>Ekologisen kest&auml;vyyden kannalta keskeist&auml; on varovaisuusperiaatteen noudattaminen. Sen mukaan ymp&auml;rist&ouml;n tilan heikkenemist&auml; est&auml;vien toimien lykk&auml;&auml;mist&auml; ei voi perustella t&auml;yden tieteellisen n&auml;yt&ouml;n puuttumisella. Ennen toimiin ryhtymist&auml; arvioidaan riskit, haitat ja kustannukset. Muita t&auml;rkeit&auml; periaatteita ovat haittojen synnyn ennalta est&auml;minen ja haittojen torjuminen niiden syntyl&auml;hteill&auml;. Lis&auml;ksi haittojen kustannukset perit&auml;&auml;n mahdollisuuksien mukaan niiden aiheuttajalta.</p>\r\n<h4>Taloudellinen kest&auml;vyys</h4>\r\n<p>Taloudellinen kest&auml;vyys on sis&auml;ll&ouml;lt&auml;&auml;n ja laadultaan tasapainoista kasvua, joka ei perustu pitk&auml;ll&auml; aikav&auml;lill&auml; velkaantumiseen tai varantojen h&auml;vitt&auml;miseen. Kest&auml;v&auml; talous on edellytys yhteiskunnan keskeisille toiminnoille. Siihen pitk&auml;j&auml;nteisesti t&auml;ht&auml;&auml;v&auml; talouspolitiikka luo otolliset olosuhteet kansallisen hyvinvoinnin vaalimiselle ja lis&auml;&auml;miselle.</p>\r\n<p>Kest&auml;v&auml;ll&auml; pohjalla oleva talous helpottaa my&ouml;s kohtaamaan vastaan tulevia uusia haasteita, kuten v&auml;est&ouml;n ik&auml;&auml;ntymisest&auml; aiheutuvia kasvavia sosiaaliturva- ja terveysmenoja. Kest&auml;v&auml; talous on sosiaalisen kest&auml;vyyden perusta. Sosiaalista kest&auml;vyytt&auml; vaalivat mekanismit taas auttavat osaltaan lievitt&auml;m&auml;&auml;n niit&auml; vaikeuksia, joita nopeasti muuttuvassa maailmantaloudessa voi synty&auml;.</p>\r\n<h4>Sosiaalinen ja kulttuurinen kest&auml;vyys</h4>\r\n<p>Sosiaalisessa ja kulttuurisessa kest&auml;vyydess&auml; keskeisen&auml; kysymyksen&auml; on taata hyvinvoinnin edellytysten siirtyminen sukupolvelta toiselle. Yh&auml; jatkuva v&auml;est&ouml;nkasvu, k&ouml;yhyys, ruoka- ja terveydenhuolto, sukupuolten v&auml;linen tasa-arvo sek&auml; koulutuksen j&auml;rjest&auml;minen ovat maailmanlaajuisia sosiaalisen kest&auml;vyyden haasteita, joilla on merkitt&auml;vi&auml; vaikutuksia ekologiseen ja taloudelliseen kest&auml;vyyteen. N&auml;ihin haasteisiin vastaaminen vaatii suuria ponnistuksia sek&auml; yksitt&auml;isilt&auml; valtioilta ett&auml; kansainv&auml;liselt&auml; yhteis&ouml;lt&auml;.</p>\r\n<p>Kest&auml;v&auml;&auml;n kehitykseen vaikuttaa olennaisesti se, kuinka taloudellinen ja muu yhteiskunnan kehitys edist&auml;&auml; maan asukkaiden hyvinvointia. Kansalaisten perushyvinvointi on yksi t&auml;rke&auml; edellytys ekologisen kest&auml;vyyden edist&auml;miselle ja sen yhteiskunnalliselle hyv&auml;ksytt&auml;vyydelle.</p>\r\n<p><em>L&auml;hde: Ymp&auml;rist&ouml;ministeri&ouml;, www.ymparisto.fi</em></p>", "theses": "", "language_code": "fi"}}, {"pk": 21, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:32:03", "name": "Laadunhallinta", "parent": 11, "papers": "", "content": "<p><span>Laadunhallintaan (quality management) kuuluvat laadunohjaus (quality control), laadunvarmistus (quality assurance) sek&auml; laadun jatkuva parantaminen (quality development). Laadunohjauksella tarkoitetaan standardin (ISO 8402) m&auml;&auml;rittelyn mukaan niiden tekniikoiden ja toimintojen joukkoa, joita k&auml;ytt&auml;m&auml;ll&auml; pyrit&auml;&auml;n t&auml;ytt&auml;m&auml;&auml;n laatuvaatimukset. Laadunvarmistuksen tavoitteena on saavuttaa sek&auml; organisaation sis&auml;isten ett&auml; ulkopuolisten asiakkaiden ja viranomaisten luottamus tavoitteiden toteutumiseen. Laadunhallinnan kehittymist&auml; voidaan seurata jatkuvasti parannettavien prosessien kautta. T&auml;ss&auml; ty&ouml;ss&auml; tarvitaan Laadunhallinnan ty&ouml;kaluja, erilaisia laatutekniikoita.</span></p>", "theses": "", "language_code": "fi"}}, {"pk": 20, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:31:31", "name": "Projektinhallinta", "parent": 10, "papers": "", "content": "<p>Projektien avulla edistet&auml;&auml;n ja kehitet&auml;&auml;n erilaisia asioita kuten esim. palveluita, koulutusta ja tutkimusta ja organisaatioiden omia sis&auml;isi&auml; kehitt&auml;misteht&auml;vi&auml; ja prosesseja. Kaikilta projekteilta edellytet&auml;&auml;n m&auml;&auml;r&auml;tty&auml; tarkoitusta tai tavoitetta ja kertaluonteisuutta. Projektitoiminta on sopiva ty&ouml;v&auml;line etenkin silloin, kun toiminta on uutta, erityisen haastavaa tai yli yksikk&ouml;- ja organisaatiorajojen ulottuvaa.</p>\r\n<p>Projekti m&auml;&auml;ritell&auml;&auml;n aikataulutetuksi, tietyill&auml; panoksilla kest&auml;viin tuloksiin pyrkiv&auml;ksi teht&auml;v&auml;kokonaisuudeksi, jonka toteuttamisesta vastaa juuri sit&auml; varten perustettu organisaatio. Projekteissa on eroja, mutta p&auml;&auml;piirteiss&auml;&auml;n niist&auml; l&ouml;ytyv&auml;t samat vaiheet. Jokaisessa vaiheessa on tyypillisi&auml; teht&auml;vi&auml;, jotka vaikuttavat projektin etenemiseen: ideavaihe, esisuunnittelu, suunnitteluvaihe, toteutus, arviointi ja tulokset.</p>", "theses": "<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/16591\" target=\"_blank\">Sivistystoimialan hankkeiden koordinointi: Lahden kaupungin perusopetus ja lukiokoulutus</a><span>&nbsp;(2010)</span></li>\r\n</ul>", "language_code": "fi"}}, {"pk": 19, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:19:31", "name": "Henkil\u00f6st\u00f6johtaminen ja esimiesty\u00f6", "parent": 2, "papers": "", "content": "<p>Henkil&ouml;st&ouml;johtaminen on osa toimintakokonaisuutta, jolla tavoitellaan organisaation tavoitteiden edist&auml;mist&auml;. Kokonaisuudessaan organisaation tavoitteiden edist&auml;minen tapahtuu jonkinlaisen ihmisn&auml;k&ouml;kulman kautta. T&auml;m&auml; n&auml;k&ouml;kulma luo perustan toimintojen suunnittelulle ja valinnalle.&nbsp; &nbsp;</p>\r\n<p>Henkil&ouml;st&ouml;johtamisen suunnitelmallinen yhdent&auml;minen organisaation strategiaan ja t&auml;m&auml;n yhteyden toteuttaminen johtamisella on keskeist&auml;, jotta suunnitelmien ja t&auml;yt&auml;nt&ouml;&ouml;npanon v&auml;lille ei j&auml;isi kuilua.</p>\r\n<p>Esimiesty&ouml;n keskeinen teht&auml;v&auml; on ty&ouml;yhteis&ouml;n t&ouml;iden j&auml;rjest&auml;minen niin, ett&auml; yksil&ouml;n ja yhteis&ouml;n osaaminen ja suoritettavat teht&auml;v&auml;t kohtaavat parhaalla mahdollisella tavalla. T&auml;m&auml; vaatii hyv&auml;&auml; oman yhteis&ouml;n tieto-taidon tuntemusta ja alttiutta joustaviin reagointeihin tilanteiden muuttuessa. Esimiehen tulee varmistaa, ett&auml; ty&ouml;yhteis&ouml;lle asetetut tavoitteet ja teht&auml;v&auml;t sek&auml; henkil&ouml;st&ouml;n mitoitus ovat tasapainossa.</p>\r\n<p>Hyvi&auml; esimiestaitoja tarvitaan muun muassa teht&auml;vien organisoinnissa, kehityskeskustelujen k&auml;ymisess&auml;, ty&ouml;suoritusten arvioinnissa ja riitt&auml;v&auml;n varhaisessa ongelmatilanteisiin puuttumisessa. Esimies ei en&auml;&auml; voi eik&auml; h&auml;nen ole tarpeenkaan hallita kaikkia ty&ouml;yhteis&ouml;ss&auml; hoidettavia teht&auml;vi&auml;. Esimiesty&ouml;ss&auml; painopiste on siirtynyt yksitt&auml;isten ty&ouml;suoritusten valvonnasta toiminnan sujuvuuden varmistamiseen niin, ett&auml; toiminnalle asetetut tavoitteet toteutuvat.</p>\r\n<p>Johtamisen oikeudenmukaisuus on todettu keskeiseksi henkil&ouml;st&ouml;n hyvinvointiin ja ty&ouml;yhteis&ouml;n toimivuuteen vaikuttavaksi tekij&auml;ksi. Oikeudenmukaisuus n&auml;kyy ty&ouml;yhteis&ouml;n j&auml;senille esimiehen tavassa organisoida, osallistua ja kantaa vastuuta ty&ouml;yhteis&ouml;n toiminnasta.</p>", "theses": "", "language_code": "fi"}}, {"pk": 18, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:18:51", "name": "Ik\u00e4johtaminen", "parent": 3, "papers": "", "content": "<p>Ik&auml;johtaminen on ty&ouml;ntekij&auml;n i&auml;n ja ik&auml;sidonnaisten tekij&ouml;iden huomioon ottamista p&auml;ivitt&auml;isjohtamisessa, ty&ouml;njaossa ja ty&ouml;skentely-ymp&auml;rist&ouml;ss&auml; niin, ett&auml; voidaan synnytt&auml;&auml; sellainen ty&ouml;paikkakulttuuri, jossa jokainen ty&ouml;ntekij&auml; - ik&auml;&auml;n katsomatta - voi kokea olevansa arvokas. (Ilmarinen, L&auml;hteenm&auml;ki &amp;, Huuhtanen 2003, 8.)</p>\r\n<p>Ik&auml;johtamisen tarkoitus on tarjota keinoja yksil&ouml;n fyysisten, henkisten ja sosiaalisten voimavarojen vahvistamiseen, edist&auml;&auml; terveytt&auml;, kehitt&auml;&auml; ammattitaitoa ja auttaa muutosten hallinnassa. Yrityksen kohdalla ik&auml;johtaminen tarjoaa keinoja eri-ik&auml;isten yhteisty&ouml;lle, ik&auml;ergonomialle, joustaville ty&ouml;aikaj&auml;rjestelyille, osa-aikaty&ouml;lle ja t&auml;sm&auml;koulutukselle. Yhteiskunnan kohdalla ik&auml;johtaminen tarjoaa keinoja korjata ik&auml;asenteita, ehk&auml;ist&auml; ik&auml;syrjint&auml;&auml;, kehitt&auml;&auml; ty&ouml;aikalains&auml;&auml;d&auml;nt&ouml;&auml; ja el&auml;keturvaa. (Ilmarinen 2006, 17.)</p>", "theses": "", "language_code": "fi"}}, {"pk": 17, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:17:36", "name": "Prosessien kehitt\u00e4minen", "parent": 4, "papers": "", "content": "<p>&rdquo;Prosessi on joukko loogisesti toisiinsa liittyvi&auml; toimintoja ja niiden toteuttamiseen tarvittavat resurssit, joiden avulla saadaan aikaan toiminnan tulokset.&rdquo;</p>\r\n<p>Prosessin ideassa l&auml;hdet&auml;&auml;n liikkeelle siit&auml;, ett&auml; on olemassa jotakin pysyv&auml;&auml; ja toistuvaa, josta voidaan sopia ja jota voidaan mallintaa ja kehitt&auml;&auml;. Prosessien tunnistamisen, mallintamisen ja kehitt&auml;misen avulla hallitaan paremmin monimutkaisia kokonaisuuksia, parannetaan toiminnan ja tuotteiden laatua sek&auml; toiminnan taloudellisuutta.&nbsp; Prosessit ovat piilossa yrityksen rakenteissa, jolloin niiden kuvaaminen ja ymm&auml;rt&auml;minen vaatii aikaa ja tutkintaa.</p>\r\n<p>Prosessien kehitt&auml;misen p&auml;&auml;vaiheita ovat; nykytilan kartoitus, prosessien analysointi sek&auml; prosessien parantaminen. Prosessin nykytilan kartoitus-vaiheessa tunnistetaan prosessit, mallinnetaan prosessit sek&auml; arvioidaan prosessien toimivuutta. Seuraavaksi selvitet&auml;&auml;n kartoitusvaiheessa havaittuja ongelmia prosessissa. Ker&auml;ttyjen tietojen pohjalta, valitaan ty&ouml;kalut ongelmien selvitt&auml;miseksi ja asetetaan mittareita, joilla kyet&auml;&auml;n ohjaamaan prosessia haluttuun suuntaan. Viimeisess&auml; vaiheessa prosessille laaditan parannussuunnitelma, joka hyv&auml;ksymisen j&auml;lkeen otetaan k&auml;ytt&ouml;&ouml;n. Kehitt&auml;misty&ouml; ei lopu prosessin ongelmakohtien selvitt&auml;miseen, vaan prosesseja kehitet&auml;&auml;n jatkuvasti. Prosesseille asetetuilla mittareilla ja tavoitteilla prosessien toimivuutta seurataan s&auml;&auml;nn&ouml;llisesti ja uusi kehitysty&ouml; aloitetaan, mik&auml;li uudistustarpeita ilmenee. (Lecklin 2006, s. 134&ndash;135)</p>", "theses": "<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/24660\" target=\"_blank\">Prosessien yhteistoiminnallinen kehitt&auml;minen Tykes-hankkeissa</a><span>&nbsp;(2010)</span></li>\r\n</ul>", "language_code": "fi"}}, {"pk": 16, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:16:27", "name": "Tiimity\u00f6", "parent": 6, "papers": "", "content": "<p>Tiimi on pieni joukko ihmisi&auml;, joilla on toisiaan t&auml;ydent&auml;vi&auml; taitoja, jotka ovat sitoutuneet yhteiseen p&auml;&auml;m&auml;&auml;r&auml;&auml;n ja yhteiseen toimintamalliin ja jotka pit&auml;v&auml;t itse&auml;&auml;n yhteisvastuullisena suorituksistaan\" (Katzenbach &amp; Smith 1993)</p>\r\n<p>\"Tiimi on ryhm&auml; yksil&ouml;it&auml;, jotka toimivat yhdess&auml; tuottaakseen tuotteita tai palveluita, joista he ovat yhteisesti vastuussa\"\" (Mohrman et al 1997)</p>\r\n<p>\"Tiimi on ryhm&auml; ihmisi&auml;, jotka ovat hyvin riippuvaisia toisistaan pyrkimyksess&auml;&auml;n saavuttaa yhteinen tavoite tai saada joku teht&auml;v&auml; suoritetuksi\" (Parker 1994)</p>\r\n<p>(Lainaukset: Pertti Frilander. 1997. Ty&ouml;organisaation tiimiytt&auml;minen ja tiimity&ouml;n kehitt&auml;minen)</p>\r\n<p>Ennen kuin tiimitoimintaa k&auml;ynnistet&auml;&auml;n, t&auml;ytyy muutostarve ensin tunnistaa. T&auml;m&auml;n j&auml;lkeen tiimi voidaan rakentaa ja tiimi voi aloittaa toimintansa. Tiimity&ouml;skentelytaitoa voidaan pit&auml;&auml; ty&ouml;ntekij&auml;n perusosaamisena. Tiimity&ouml;taitoja voidaan oppia ja kehitt&auml;&auml; tiimity&ouml;n ohessa.&nbsp; Yleens&auml; tiimien kehitt&auml;minen on yksi t&auml;rkeimmist&auml; asioista tavoitteiden saavuttamiseksi ja l&auml;hes kaikissa organisaatioissa, joissa tiimitoimintaa k&auml;ytet&auml;&auml;n kehitysty&ouml;n l&auml;pivienniss&auml;, kehitet&auml;&auml;n my&ouml;s tiimitoimintaa itse&auml;&auml;n. Tiimitoiminnan kehitt&auml;misell&auml; saadaan tiimity&ouml;n sis&auml;ll&ouml;n tasoa nostettua.</p>", "theses": "", "language_code": "fi"}}, {"pk": 15, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:15:40", "name": "Ty\u00f6hyvinvointi", "parent": 7, "papers": "", "content": "<p>Ty&ouml;hyvinvointia yll&auml;pit&auml;v&auml; toiminta on kokonaisuus, jossa yhdistyv&auml;t yksil&ouml;n, ty&ouml;yhteis&ouml;n, ty&ouml;ymp&auml;rist&ouml;n ja osaamisen toiminta-alueet. Ty&ouml;hyvinvointiin panostaminen miellet&auml;&auml;n nyky&auml;&auml;n yksil&ouml;keskeisen toiminnan sijaan ty&ouml;yhteis&ouml;keskeiseksi toiminnaksi, jossa kehitt&auml;mistoimet suunnataan koko ty&ouml;yhteis&ouml;lle. Se on johdon ja ty&ouml;ntekij&ouml;iden yhteist&auml; osaamisen kehitt&auml;mist&auml; ja toimenpiteit&auml;, joilla ty&ouml;hyvinvoinnin n&auml;k&ouml;kulma liitet&auml;&auml;n jokap&auml;iv&auml;iseen toimintaan.</p>\r\n<p>Ty&ouml;hyvinvointiin vaikuttavat monet tekij&auml;t - erityisesti johtaminen, osaaminen sek&auml; ty&ouml;yhteis&ouml;n ja ty&ouml;n kehitt&auml;minen. Esimiesty&ouml;n laadulla on suuri vaikutus ty&ouml;ntekij&ouml;iden ty&ouml;hyvinvointiin. Ty&ouml;hyvinvoinnin johtaminen on henkil&ouml;st&ouml;n osaamisen pitk&auml;j&auml;nteist&auml; kehitt&auml;mist&auml; ja strategista henkil&ouml;st&ouml;suunnittelua, mutta my&ouml;s arkista esimiesty&ouml;t&auml;.</p>\r\n<p>Ty&ouml;el&auml;m&auml;tutkimusten mukaan ty&ouml;ss&auml; voidaan sit&auml; paremmin, mit&auml; vahvempi on tunne oman ty&ouml;n hallinnasta. Ty&ouml;aika-autonomiasta, jossa ty&ouml;yhteis&ouml;n j&auml;senet voivat m&auml;&auml;r&auml;tyiss&auml; rajoissa yhteisesti sopia esimerkiksi ty&ouml;vuorojen sijoittumisesta, ty&ouml;p&auml;iv&auml;n pituudesta ja lomien ajankohdista, on saatu hyvi&auml; tuloksia. Kaikki ty&ouml;ajan joustoa edist&auml;v&auml;t k&auml;yt&auml;nn&ouml;t helpottavat ty&ouml;n ja perhe-el&auml;m&auml;n yhteensovittamisessa ja auttavat ty&ouml;ntekij&auml;&auml; keskittym&auml;&auml;n ty&ouml;aikana t&auml;ysipainoisesti ty&ouml;teht&auml;vien hoitamiseen.</p>", "theses": "", "language_code": "fi"}}, {"pk": 14, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:14:20", "name": "Uuden teknologian k\u00e4ytt\u00f6\u00f6notto", "parent": 8, "papers": "", "content": "<p>Uuden teknologian k&auml;ytt&ouml;&ouml;notolla tarkoitetaan kaikkia niit&auml; toimintoja, jotka liittyv&auml;t uuden teknologisen j&auml;rjestelm&auml;n hankintaan ty&ouml;organisaatioissa. Hyv&auml; k&auml;ytett&auml;vyys taas tekee j&auml;rjestelm&auml;st&auml; hy&ouml;dyllisen ja k&auml;ytt&auml;j&auml;yst&auml;v&auml;llisen.</p>\r\n<p>Uuden teknologian sovellukset vaikuttavat ty&ouml;prosesseihin organisaation sis&auml;ll&auml; ja yhteisty&ouml;h&ouml;n organisaatioiden v&auml;lill&auml;. K&auml;ytt&ouml;&ouml;notossa ei riit&auml;, ett&auml; henkil&ouml;st&ouml; vain opettelee k&auml;ytt&auml;m&auml;&auml;n uusia laitteita ja ohjelmia. Teknologiset innovaatiot edellytt&auml;v&auml;t my&ouml;s sosiaalisia innovaatioita. Jos uudella teknologialla halutaan vaikuttaa toiminnan laatuun, on teknologian k&auml;ytt&ouml;&ouml;nottoon liitett&auml;v&auml; toiminnan kehitt&auml;minen yleisemmin.</p>\r\n<p>L&auml;ht&ouml;kohtana ei pit&auml;isi olla teknologian k&auml;ytt&ouml;&ouml;notto, vaan prosessien ja palvelujen kehitt&auml;minen teknologiaa hy&ouml;dynt&auml;en.</p>", "theses": "", "language_code": "fi"}}, {"pk": 10, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:14:20", "name": "Introducing a new technology", "parent": 8, "papers": "", "content": "<p>&lsquo;Introducing a new technology&rsquo; refers to all the functions related to acquiring a new technological system in a workplace organisation. Good usability makes a system useful and user-friendly.</p>\r\n<p>New technologies affect work processes within the organisation and cooperation between organisations. In introducing a new technology, it is not enough for employees just to learn how to use the new equipment and software. Technological innovations require social innovations as well. If a new technology is to influence the quality of operations, the introduction of that new technology must be accompanied by a more general development of operations.</p>\r\n<p>The approach should not be just to adopt a new technology but also to improve processes and services using the new technology as a tool.</p>", "theses": "<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/29036\" target=\"_blank\">Ryhm&auml;l&auml;&auml;ke-esittelyiden ajanvarausprosessin kehitt&auml;minen ja uuden teknologian k&auml;ytt&ouml;&ouml;notto : case P&auml;ij&auml;t-H&auml;meen sosiaali- ja terveysyhtym&auml;, keskussairaalan konservatiivinen tulosalue</a><span>&nbsp;(2011)</span></li>\r\n</ul>", "language_code": "en"}}, {"pk": 13, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:10:48", "name": "Verkostoituminen", "parent": 9, "papers": "", "content": "<p>Yritysten verkostoituminen on kahden tai useamman yrityksen tiivist&auml; yhteisty&ouml;t&auml;. Verkosto on organisaatiomuoto, jolla haetaan joustavuutta ja tehokkuutta. Verkoston toiminta perustuu kumppanuuksiin ja verkosto on yritystenv&auml;linen hierarkkisesti ohjattu yhteis&ouml;, jota leimaa luottamus.</p>\r\n<p>Kumppanuus on yhteisty&ouml;n&auml; luottamuksellinen, tasapuolinen ja avoin toimintatapa. Se on tietoinen strateginen valinta. Kumppanuus edellytt&auml;&auml; yhteist&auml; strategiaa ja luottamusta. Mit&auml; paremmin tietop&auml;&auml;oma jaetaan, sit&auml; enemm&auml;n verkosto tuottaa lis&auml;arvoa.</p>\r\n<p>Verkostoitumalla haetaan yhteisty&ouml;n kautta parempaa taitotietokokoonpanoa tai edullisempaa tuotantomallia kuin yksitt&auml;inen yritys kykenisi saavuttamaan. Verkostona toimiminen on kuitenkin uudenlainen toimintatapa. Verkostot vaativat johtamista sek&auml; ylh&auml;&auml;lt&auml; ett&auml; yrityksen suunnasta. T&auml;ll&ouml;in puhutaan verkosto-osaamisesta, joka on yrityksen sis&auml;isen tehokkuuden ja ulkoisen tehollisuuden johtamista. Verkosto-osaajalla on kyky mukautua ja vastata kysynt&auml;&auml;n ja siten verkosto-osaajalle on tunnusomaista erinomainen tuloksentekokyky.</p>", "theses": "<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/30178\" target=\"_blank\">Verkoston kehitt&auml;misen menetelm&auml;t ja niiden k&auml;ytt&ouml; ty&ouml;el&auml;m&auml;n kehitt&auml;mishankkeissa</a><span>&nbsp;(2011)</span></li>\r\n</ul>", "language_code": "fi"}}, {"pk": 6, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:08:35", "name": "Process development", "parent": 4, "papers": "", "content": "<p>A process is a series of logically interconnected functions and the resources needed to implement them, which produce operating results.</p>\r\n<p>The idea of a process is that there is something that is permanent and repeated; something that can be agreed on, modelled and developed. Identifying, modelling and developing processes is a way of analysing complex phenomena, of improving the quality of operations and products, and of improving profitability. Processes are often embedded in the structures of an enterprise, and it takes time and research to describe and understand them.</p>\r\n<p>The principal stages in process development are: present state survey, process analysis, and process improvement. At the present state survey stage, existing processes are identified and modelled, and their effectiveness is evaluated. Next, problems found in the processes at the survey stage are explored. Tools to solve these problems are chosen on the basis of information gathered, and indicators are set to guide the process in the desired direction. At the last stage, a process improvement plan is drawn up, approved and then implemented. However, development does not stop with troubleshooting; process development is a continuous undertaking. Process effectiveness is monitored constantly using the indicators and targets set, and new development projects are launched as and when needed. (Lecklin 2006, pp. 134&ndash;135)</p>", "theses": "<p>s</p>", "language_code": "en"}}, {"pk": 12, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 10:07:21", "name": "Strategioiden toimeenpano", "parent": 5, "papers": "", "content": "<p>Strategioiden toimeenpanossa on t&auml;rke&auml;&auml; tiet&auml;&auml; seuraavat kolme asiaa&nbsp;mit&auml; pit&auml;&auml; tehd&auml;, miten tehd&auml;&auml;n se, mit&auml; pit&auml;&auml; tehd&auml; ja kuka tekee.</p>\r\n<p>Strategian toimeenpano eli strategian muuttaminen todeksi on todettu t&auml;rke&auml;ksi haasteeksi viimeaikaisissa tutkimuksissa. Osallistamalla laajemmin ja ennakkoluulottomammin organisaation eri toimijaryhmi&auml; strategisten asioiden k&auml;sittelyyn ja konkretisointiin, p&auml;&auml;st&auml;&auml;n strategioiden toteuttamisessa parempaan lopputulokseen sek&auml; yksil&ouml;- ett&auml; organisaatiotasolla. T&auml;ll&ouml;in on my&ouml;s erilaisten osallistavien ty&ouml;kalujen tuntemus tarpeen.</p>\r\n<p><span><span style=\"font-size: medium;\"><br /></span></span></p>", "theses": "<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/16084\" target=\"_blank\">Strategian toimeenpanon menetelm&auml;t Tykes-projekteissa</a><span>&nbsp;(2010)</span></li>\r\n</ul>", "language_code": "fi"}}, {"pk": 11, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 08:00:28", "name": "Networking", "parent": 9, "papers": "", "content": "<p>Corporate networking refers to close cooperation between two or more enterprises. A network is a form of organisation geared towards flexibility and efficiency. Networking is based on partnerships, and a network is a hierarchically governed intercorporate community based on trust.</p>\r\n<p>Partnership is a confidential and transparent relationship between equal partners. Entering into a partnership is a conscious strategic choice, and as such requires a shared strategy and mutual trust. The better the members of the network share their knowledge capital, the more added value the network will generate.</p>\r\n<p>The purpose of networking is to achieve a better portfolio of knowledge and skills or a more affordable production model than an individual enterprise could manage on its own. However, networking is a new way of doing business that requires leadership both from above and from the enterprises involved. The term used for this is &lsquo;networking competence&rsquo;, which involves the management of both the enterprise&rsquo;s internal efficiency and its external effectiveness. A networking expert can adapt to and respond to demand and therefore typically demonstrates excellent financial performance.</p>", "theses": "", "language_code": "en"}}, {"pk": 9, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 07:59:46", "name": "Wellbeing at work", "parent": 7, "papers": "", "content": "<p>Activities to maintain wellbeing at work affect individuals, the workplace community, the working environment and competence. Investments in wellbeing at work have come to be seen more as a community activity where development measures are aimed at the workplace community as a whole, rather than measures aimed at individuals. Wellbeing at work involves development and actions by management and employees both addressing the aspect of wellbeing at work in their day-to-day work.</p>\r\n<p>Many factors affect wellbeing at work&nbsp;&ndash; particularly management, competence and development of the workplace community and the content of the work. The quality of the work of supervisors has a significant impact on the wellbeing at work of employees. Managing wellbeing at work is part of the long-term development of personnel competence and strategic HR planning, but it is also an aspect of the day-to-day work of a supervisor.</p>\r\n<p>According to studies on working life, the more an employee feels in control of his/her own job, the better he/she feels at work. Autonomous working hours, a concept in which members of a workplace community may agree amongst themselves for instance on shift assignments, the length of the working day and the timing of holidays, within given limits, has produced good results. All practices that increase flexibility in working hours make it easier to reconcile work and family life, helping employees to focus on their job duties while they are at work.</p>", "theses": "", "language_code": "en"}}, {"pk": 8, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 07:59:14", "name": "Teamwork", "parent": 6, "papers": "", "content": "<p>A team is a small group of people with mutually complementary skills who have committed to a shared goal and a common operating procedure and who assume joint responsibility for their performance. (Katzenbach &amp; Smith 1993.)</p>\r\n<p>A team is a group of individuals who act together to produce products or services for which they share responsibility. (Mohrman et al. 1997.)</p>\r\n<p>A team is a group of people who are highly dependent on one another in their aim to achieve a shared goal or to perform a task. (Parker 1994.)</p>\r\n<p>(Quoted in: Pertti Frilander. 1997. <em>Ty&ouml;organisaation tiimiytt&auml;minen ja tiimity&ouml;n kehitt&auml;minen</em>)</p>\r\n<p>Before teamwork can begin, a need for change must be identified. Then the team can be set up and go into action. Teamwork may be considered a basic employee skill. Teamwork skills can be learned and developed on the job. Team development is one of the most important aspects of achieving goals, and almost all organisations that use teamwork for development purposes also develop the teamwork itself. Teamwork development improves the quality of the content of the teamwork.</p>", "theses": "", "language_code": "en"}}, {"pk": 7, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 07:58:40", "name": "Strategy implementation", "parent": 5, "papers": "", "content": "<p>The following three things are important to know in implementing strategies: what to do, how to do it and who should do it.</p>\r\n<p>Strategy implementation, or putting a strategy into practice, has been identified in recent research as a major challenge. Involving various groups of actors in the organisation more extensively and more openly in processing strategic matters and in putting strategy into practice will achieve a better end result in strategy implementation with regard to both individuals and the organisation as a whole. A knowledge of various participation tools is necessary for this purpose.</p>", "theses": "", "language_code": "en"}}, {"pk": 5, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 07:52:34", "name": "Age management", "parent": 3, "papers": "", "content": "<p>Age management involves taking employee age and age-related factors into account in day-to-day management, division of duties and the workplace environment so as to create a workplace culture where every employee&nbsp;&ndash; irrespective of age&nbsp;&ndash; can feel valuable. (Ilmarinen, L&auml;hteenm&auml;ki &amp;, Huuhtanen 2003, p. 8.)</p>\r\n<p>The purpose of age management is to offer ways for reinforcing the physical, mental and social resources of individuals, to promote health, to improve professional skills and to assist in change management. For an enterprise, age management offers ways for providing help for cooperation between employees of different ages, age-specific ergonomics, flexible working hours, part-time work and customised training. For society at large, age management involves ways of correcting attitudes towards old age, preventing age discrimination, developing working hours legislation and improving pension coverage. (Ilmarinen 2006, p. 17.)</p>", "theses": "", "language_code": "en"}}, {"pk": 4, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 07:50:57", "name": "Personnel management and supervisors", "parent": 2, "papers": "", "content": "<p>Personnel management is part of a range of management functions to promote the goals of the organisation. Promoting the goals of the organisation on the whole incorporates a human aspect. This aspect provides the foundation for planning and selecting functions. &nbsp;</p>\r\n<p>Systematic harmonisation of personnel management with the organisation&rsquo;s strategy and putting this into practice through management is vital for avoiding a mismatch between plans and implementation.</p>\r\n<p>The key task for supervisors is to organise the work of the workplace community so that the competence of the individual and the community can be paired with the tasks to be performed in the best possible way. This requires a high awareness of the knowledge and skills of one&rsquo;s own workplace community and the capacity to react flexibly as situations change. A supervisor must ensure that the goals and duties of the workplace community are in balance with its human resources.</p>\r\n<p>Good supervisor skills are needed for instance in organising assignments, in conducting development discussions, in evaluating job performances and in early intervention in case of problems. A supervisor can no longer master all of the duties performed in his/her workplace community, and does not need to. The focus in the work of a supervisor has shifted from supervising individual job performance to ensuring that everything runs smoothly so that the goals set are attained.</p>\r\n<p>Fairness in leadership has been identified as a key factor in personnel wellbeing and the smooth running of a workplace community. Fairness manifests itself to employees in the supervisor&rsquo;s way of organising work and of participating in and assuming responsibility for the operation of the workplace community.</p>", "theses": "", "language_code": "en"}}, {"pk": 2, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 07:30:10", "name": "Management development", "parent": 1, "papers": "", "content": "<p>Management development is the building of systems and processes that support management. The end result is increased efficiency in the organisation and increased satisfaction for the individuals employed in it. Good management practices boost the competence of the organisation.</p>\r\n<p>A modern manager is adept at navigating the actions of an organisation in a technology-intensive world. A new kind of management is needed to sustain personal interaction and to resolve situational challenges by leveraging new technology.</p>\r\n<p>The world is very different from what it was decades ago, yet management is still governed by precepts created a century ago. No wonder then that there are management problems, as Gary Hamel notes in his book <em>The Future Management.</em> Hamel considers that most of today&rsquo;s management doctrines and tools need to be reinvented. What makes this renewal process difficult is that change is urgently needed and that large corporations need to bring thousands of people all over the world on board quickly.</p>", "theses": "", "language_code": "en"}}, {"pk": 1, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-18 07:17:12", "name": "Johtamisen kehitt\u00e4minen", "parent": 1, "papers": "", "content": "<p>Johtamisen kehitt&auml;minen on johtajuutta tukevien j&auml;rjestelmien ja prosessien rakentamista. Siin&auml; lopputuloksena on organisaation tehokkuuden ja siin&auml; toimivien yksil&ouml;iden tyytyv&auml;isyyden lis&auml;&auml;ntyminen. Hyv&auml;t johtamisk&auml;yt&auml;nn&ouml;t lis&auml;&auml;v&auml;t organisaation kyvykkyytt&auml;.</p>\r\n<p>Nykyaikainen johtaja luotsaa organisaationsa toimintaa teknologia intensiivisess&auml; maailmassa. Tarvitaan uudenlaista johtamista, joka tukee ihmisten v&auml;list&auml; vuorovaikutusta ja auttaa tilannekohtaisissa haasteiden ratkaisussa uutta teknologiaa hy&ouml;dynt&auml;en.</p>\r\n<p>\"Maailma on aivan toinen kuin vuosikymmeni&auml; sitten, mutta johtamista ohjaavat sata vuotta sitten syntyneet perusajatukset. Ei ihme, ett&auml; johtamisessa on ongelmia\", Gary Hamel toteaa.kirjassaan The Future Management. Gary Hamelin mielest&auml; iso osa johtamisopeista ja johtamisen ty&ouml;kaluista on keksitt&auml;v&auml; uudelleen. Uudistumisen vaikeutta lis&auml;&auml; se, ett&auml; muutoksella on kiire ja isojen yritysten pit&auml;isi imaista muutokseen nopeasti tuhansia ihmisi&auml; eri puolilla maailmaa.</p>", "theses": "", "language_code": "fi"}}, {"pk": 3, "model": "entry.topictranslation", "fields": {"last_updated": "2011-12-17 06:35:01", "name": "Nang cao quan ly lanh dao", "parent": 1, "papers": "", "content": "", "theses": "", "language_code": "vi"}}, {"pk": 1, "model": "entry.topic", "fields": {}}, {"pk": 2, "model": "entry.topic", "fields": {}}, {"pk": 3, "model": "entry.topic", "fields": {}}, {"pk": 4, "model": "entry.topic", "fields": {}}, {"pk": 5, "model": "entry.topic", "fields": {}}, {"pk": 6, "model": "entry.topic", "fields": {}}, {"pk": 7, "model": "entry.topic", "fields": {}}, {"pk": 8, "model": "entry.topic", "fields": {}}, {"pk": 9, "model": "entry.topic", "fields": {}}, {"pk": 10, "model": "entry.topic", "fields": {}}, {"pk": 11, "model": "entry.topic", "fields": {}}, {"pk": 12, "model": "entry.topic", "fields": {}}, {"pk": 1, "model": "entry.methodtranslation", "fields": {"full": "method/Menetelmakortti_balanced_scorecard.pdf", "last_updated": "2011-12-18 10:53:04", "name": "Balanced Scorecard", "parent": 1, "papers": "", "content": "<p>Balanced Scorecard (lyh.BSC) on yritysstrategian ja &ndash;rakenteen yhdensuuntaistamisj&auml;rjestelm&auml;, sit&auml; voidaan k&auml;ytt&auml;&auml; perinteisesti mittausj&auml;rjestelm&auml;n&auml;, mutta edistyneempi k&auml;ytt&ouml;tapa on hy&ouml;dynt&auml;&auml; sit&auml; strategisena johtamisj&auml;rjestelm&auml;n&auml;</p>", "theses": "", "language_code": "fi"}}, {"pk": 24, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 09:18:22", "name": "Workplace counselling", "parent": 19, "papers": "", "content": "<p>Workplace counselling is in many cases professional support provided by an outside person. The point in this is to explore various procedures basically for finding solutions for a problematic situation at work. The workplace counsellor provides support for the participant in exploring the situation, in seeking new, more creative solutions and in taking control of the situation. Workplace counselling is a discussion on an equal footing about work-related problems.</p>\r\n<p>Workplace counselling is a learning event based on interaction and trust. It is goal-oriented from both the organisation&rsquo;s and the employee&rsquo;s point of view. Workplace counselling consists of the participant going through material related to a problem in his/her own job or in a forthcoming situation. The object of workplace counselling is the participant&rsquo;s relationship to his/her job. The counselling relationship is the core of the workplace counselling process. The counsellor must on no account give ready-made answers to the participant.</p>", "theses": "", "language_code": "en"}}, {"pk": 23, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 09:18:01", "name": "Workplace conference", "parent": 18, "papers": "", "content": "<p>The workplace conference method is a cooperative and participatory development method based on dialogue. A workplace conference draws on group interaction and brainstorming. It consists of a series of meetings involving the various levels of the organisation as comprehensively as possible and people representing diverse job duties. The aim is to achieve an interactive situation among the participants on an equal footing and to build a shared plan of action.</p>", "theses": "", "language_code": "en"}}, {"pk": 22, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 09:17:45", "name": "Strada methods", "parent": 17, "papers": "", "content": "<p>Strada methods are group work methods that make it easier to communicate, adopt and apply strategy at various levels of the organisation. The methods are based on group interaction, games and simulations.</p>", "theses": "", "language_code": "en"}}, {"pk": 21, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 09:17:28", "name": "Six Thinking Hats", "parent": 16, "papers": "", "content": "<p>The Six Thinking Hats method is a tool for thinking, discussion and creativity. In this method, the participant is invited to put on one of six imaginary hats of different colours and to explore his/her thoughts through this.</p>\r\n<p>The Six Thinking Hats method is a role-playing method. When the participant assumes the role required for the particular hat he/she is wearing, his/her thinking changes to adapt to this. Putting on different hats and assuming different roles shifts the focus to different things.</p>", "theses": "", "language_code": "en"}}, {"pk": 20, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 09:17:18", "name": "Risk analysis", "parent": 15, "papers": "", "content": "<p>Risk identification, analysis and management constitute an important part of an enterprise&rsquo;s occupational safety.</p>\r\n<p>The purpose of risk analysis is to identify hazards at the workplace, to determine threshold values and to assess risk severity.</p>", "theses": "", "language_code": "en"}}, {"pk": 19, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 09:16:39", "name": "Process modelling", "parent": 14, "papers": "", "content": "<p>The purpose of process recognition, modelling and development is to achieve better quality in the subject organisation, to consolidate operating practices, to increase efficiency, to take customer needs better into account, to reduce the number of errors made, and to improve cost-efficiency and flexibility.</p>", "theses": "", "language_code": "en"}}, {"pk": 18, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 09:16:19", "name": "Partner quality network concept", "parent": 13, "papers": "", "content": "<p>The Partner quality network concept is a consultation product in workbook form, bringing together the key items that enterprises should take into account when building a network.</p>\r\n<p>Enterprises can follow the outline in the workbook to build up a business network, to plan and develop their operations and to reinforce partnerships. The workbook also contains an outline of things to note when dismantling a network.</p>\r\n<p>A description of the operating practices of the network can be generated in the course of the process, and this description can later be used as a &lsquo;quality manual&rsquo; for the network.</p>", "theses": "", "language_code": "en"}}, {"pk": 17, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 08:08:48", "name": "Competence management", "parent": 12, "papers": "", "content": "<p>A. COMPETENCE MAP</p>\r\n<p>A competence map is a single A4 sheet with a summary of competences. The first column contains competences relevant for the work processes of a particular occupation, department or process, core skills common to all employees, and personal skills. The following columns contain the job duties related to each competence area. There are on average 5 to 7 competence areas related to each work process, and there may be 3 to 8 job duties.</p>\r\n<p>B. PERSONAL COMPETENCE ASSESSMENT FORM</p>\r\n<p>A personal competence assessment form may be drawn up on the basis of the competence map. Using this form, employees can evaluate their own competence and the supervisor can evaluate the employee&rsquo;s competence. Discussing these evaluations between supervisor and employee will result in a shared conception of the current level of competence and of competence needs.</p>\r\n<p>C. COMPETENCE MATRIX</p>\r\n<p>To support competence management by supervisors, a competence matrix may be drawn up; this enables the supervisor to see at one glance what the competence levels are in his/her area of responsibility and to locate any competence gaps. The matrix also reveals if any particular expertise is only possessed by one employee.</p>", "theses": "", "language_code": "en"}}, {"pk": 16, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 08:08:20", "name": "Change laboratory", "parent": 11, "papers": "", "content": "<p>The change laboratory is a participatory development method through which a workplace community can engage in longer-term development of operations instead of day-to-day troubleshooting. The change laboratory particularly addresses the need to change the historically evolved operating concept of a particular workplace community&nbsp;&ndash; the operating logic through which its strategic targets are pursued. The method serves to create a vision of a future operating concept and to find practical solutions for current problems so as to be conducive to establishing that future operating concept. The change laboratory thus combines development projects related to everyday work and strategic planning into one development framework.</p>\r\n<p>In the change laboratory, employees are cast as experts, researchers and developers of their own work. The analysis models and development tools of the change laboratory help employees to see in a new way the big picture into which their jobs fit. Specifically, the focus is on how problems in day-to-day work reflect the established structures of the operation of the organisation, changes in those structures and the evolution of the object of the work of the organisation.</p>\r\n<p>The change laboratory is not a tool for implementing ready-made, known solutions or for tinkering with existing operations; instead, its purpose is to identify the conflicts inherent in the historically evolved operating structures, to analyse them and to find new, innovative solutions to them.</p>", "theses": "", "language_code": "en"}}, {"pk": 15, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 08:06:40", "name": "Development discussion", "parent": 10, "papers": "", "content": "<p>A development discussion is a pre-arranged and planned talk between a supervisor and an employee which is goal-oriented, systematic and regular.</p>\r\n<p>(Juuti &amp; Vuorela 2002)</p>\r\n<p>Development discussions are regular talks between supervisor and employee concerning the employee&rsquo;s job, work situation, competence and their improvement. Such a discussion may be held for instance twice a year, and about one hour should be reserved for it. One of the purposes of development discussions is to explore the employees&rsquo; motivation and commitment as well as their development needs. Development discussions form part of the HR management of an enterprise. A successful development discussion requires the active participation of both parties in an open and confidential exchange of views. The employee&rsquo;s self-evaluation and constructive feedback from the supervisor are essential components of a development discussion.</p>\r\n<p>The aim of the development discussion is to create an encouraging workplace atmosphere and to boost performance. Another important goal is to get employees to analyse their own actions. Development discussions involve employees in the development of their own jobs. Development and guidance used to be top-down processes, but nowadays things are talked over by employee and supervisor together so that employees may influence their own work and workplace environment. An open and honest discussion makes employees feel part of the team and the organisation and to feel able to contribute to the prosperity of the enterprise. In the best case, development discussions encourage active thinking, pursuit of improvement and above all increased motivation.</p>", "theses": "", "language_code": "en"}}, {"pk": 14, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 08:06:18", "name": "ITE self-assessment and quality control method", "parent": 9, "papers": "", "content": "<p>The ITE method is a self-assessment and quality management method for a workplace unit. Self-assessment refers to a method where a service provider or supplier systematically evaluates his/her own work and the operations and practices of his/her own work group or workplace community. In ITE evaluation, the individual is the subject.</p>\r\n<p>The tools of ITE are a 25-point evaluation form and evaluation instructions, an Excel worksheet for compiling and analysing the self-assessment responses, and a planning form for further action and monitoring. There is also a fourth tool, a checklist that can be used not only for internal assessment but also for peer review and external evaluation.</p>\r\n<p>The ITE method was developed specifically for workplace communities in the social welfare and health care services. The method is suitable for parallel use with other evaluations and standards.</p>", "theses": "", "language_code": "en"}}, {"pk": 13, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 08:05:59", "name": "Age management definition", "parent": 8, "papers": "", "content": "<p>When the organisation and management have accurate information about which things ageing affects and which things not, problems caused by ageing can be avoided. Information is also needed on how young and elderly people differ, and it must be established what prompts biased attitudes. Once accurate information is available in the organisation and there is a will to find constructive and effective solutions, the correct attitude to ageing employees has been found.</p>", "theses": "", "language_code": "en"}}, {"pk": 12, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 08:05:29", "name": "Human impact assessment", "parent": 7, "papers": "", "content": "<p>Human impact assessment (HIA) is a process whose purpose is to anticipate significant impacts on human health and wellbeing that would be caused by the implementation of particular projects, plans or decisions.</p>\r\n<p>Unlike conventional evaluations, HIA is anticipatory by nature, as it involves assessing the potential impact of a project still at the planning stage. Participation is considered an important part of the information production process required for this assessment. All interest groups whom the project would affect must be involved in the assessment.</p>\r\n<p>HIA is a tool for planning and decision-making, and it can help find new perspectives on the impact of decisions while bringing the current situation and target situations more clearly into focus. Considering options for solutions at the planning stage helps estimate the attainment of targets and weigh the pros and cons of the various options.</p>", "theses": "", "language_code": "en"}}, {"pk": 11, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 08:05:10", "name": "Supervisor coaching", "parent": 6, "papers": "", "content": "<p>Supervisor coaching is a development method suitable for the supervisor team or management group in an organisation. Supervisor coaching may consist for instance of workplace seminars bringing the group members together several times in the course of a year. The extent of the development project and the scope and content of the supervisor coaching are determined by the nature of the proposed change in the organisation.</p>\r\n<p>The purpose of the coaching programme is to increase the participants&rsquo; understanding of the nature of leadership, to clarify the role of the supervisor and to support supervisors in their duties while providing them with the faculties needed for their day-to-day management of personnel and the workplace community.</p>", "theses": "", "language_code": "en"}}, {"pk": 10, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 08:04:48", "name": "Benchmarking", "parent": 5, "papers": "", "content": "<p>Benchmarking may be defined in various ways, and there are different descriptions of its content, such as &lsquo;influence analysis&rsquo;, &lsquo;comparative analysis&rsquo; and &lsquo;comparative development&rsquo;.<strong></strong></p>\r\n<p>&nbsp;It is also referred to as &lsquo;peer review&rsquo;. The concept of &lsquo;benchmarking&rsquo; is, however, well-established enough to be unambiguous.</p>", "theses": "", "language_code": "en"}}, {"pk": 8, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-18 08:01:32", "name": "Balanced Scorecard", "parent": 1, "papers": "", "content": "<p>Balanced Scorecard (BSC) is a system for coordinating corporate strategy and structure; it can be used as a conventional measurement system, but a more advanced application is to use it as a strategic management system.</p>", "theses": "", "language_code": "en"}}, {"pk": 3, "model": "entry.methodtranslation", "fields": {"full": "methods/Tunneaelyjohtaminen_muutoksessa1.pdf", "last_updated": "2011-12-17 06:35:01", "name": "Tunne\u00e4ly johtamisessa", "parent": 3, "papers": "", "content": "Salovey ja Mayer ovat ensimm\u00e4isi\u00e4 tunne\u00e4lyteorian kehitt\u00e4ji\u00e4. Heid\u00e4n m\u00e4\u00e4ritelm\u00e4ns\u00e4 mukaan tunne\u00e4ly jakautuu eri osa-alueisiin, joita ovat omien tunteiden tiedostaminen ja hallitseminen, omien tunteiden valjastaminen tietyn p\u00e4\u00e4m\u00e4\u00e4r\u00e4n saavuttamiseksi, toisten tunteiden havaitseminen sek\u00e4 muiden tunteiden hallinta. Teorian mukaan yksil\u00f6 voi vaikuttaa omalla toiminnallaan reagointitapoihinsa, koska tunne\u00e4lyn taidot ovat p\u00e4\u00e4asiassa opittuja tapoja.\r\n\r\nGolemanin m\u00e4\u00e4ritelm\u00e4n mukaan tunne\u00e4lyn osa-alueita ovat itsetuntemus, motivoituminen, itsehallinta, empatia ja ihmissuhteiden hoito. Tunne\u00e4ly on kyky\u00e4 hallita omia tunteita ja ymm\u00e4rt\u00e4\u00e4 toisen tunteita. Tunne\u00e4lykk\u00e4\u00e4t henkil\u00f6t omaavat sopeutumis- ja paineensietokyky\u00e4 sek\u00e4 hallitsevat omaa hyvinvointiaan. Lis\u00e4ksi intrapersoonalliset- ja interpersoonalliset piirteet ovat tunne\u00e4lykk\u00e4ill\u00e4 henkil\u00f6ill\u00e4 vahvoja. Intrapersoonallisilla piirteill\u00e4 tarkoitetaan mm. itsetuntemusta ja interpersoonallisilla piirteill\u00e4 mm. empatiaa, eli kyky\u00e4 lukea toisten asia- ja tunneviestej\u00e4.", "theses": "", "language_code": "fi"}}, {"pk": 5, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-17 06:35:01", "name": "Learning Cafe", "parent": 4, "papers": "", "content": "Learning Cafe is a working method, where the aim is to learn together. The general idea is that the work is carried out dialogically, so that every participant can bring out their own ideas. It is essential to the production of ideas and groups them together reflektoiden as well as the further development of ideas. (HAMK 2006; Kupias 2007.) Learning Cafe is translated, for example oppimiskahvilaksi (Kupias 2007). The central idea of \u200b\u200bthe method is that it can be used to share experiences, create new knowledge and build a common vision. Learning Cafe is a working method, which allows suurikokoinenkin group to work together and to develop and evolve. This is accomplished by activating the small groups. (Lake Side, Nyk\u00e4nen & Rajala, 2010; cf. Peltola, 2010.)", "theses": "", "language_code": "en"}}, {"pk": 4, "model": "entry.methodtranslation", "fields": {"full": "methods/Ohjeet_Learning_cafen_eteneminen.pdf", "last_updated": "2011-12-17 06:35:01", "name": "Learning Cafe", "parent": 4, "papers": "", "content": "Learning Cafe on ty\u00f6skentelymenetelm\u00e4, jossa on tavoitteena oppia yhdess\u00e4. Perusajatuksena on, ett\u00e4 ty\u00f6skentely tapahtuu dialogisesti siten, ett\u00e4 jokainen osallistuja voi tuoda esiin omat ajatuksensa. Oleellista on my\u00f6s ideoiden tuottaminen ryhmiss\u00e4 ja niit\u00e4 yhdess\u00e4 reflektoiden sek\u00e4 ideoiden edelleen kehitt\u00e4minen. (HAMK 2006; Kupias 2007.) Learning Cafe on suomennettu esimerkiksi oppimiskahvilaksi (Kupias 2007). Menetelm\u00e4n keskeisen\u00e4 ajatuksena onkin, ett\u00e4 sen avulla voidaan jakaa kokemuksia, luodaan uutta tietoa ja rakennetaan yhteist\u00e4 n\u00e4kemyst\u00e4. Learning Cafe on ty\u00f6skentelymenetelm\u00e4, jonka avulla suurikokoinenkin ryhm\u00e4 saadaan toimimaan ja yhdess\u00e4 kehitt\u00e4m\u00e4\u00e4n sek\u00e4 kehittym\u00e4\u00e4n. T\u00e4m\u00e4 onnistuu aktivoimalla pienryhmi\u00e4. (J\u00e4rvensivu, Nyk\u00e4nen & Rajala 2010; vrt. Peltola 2010.)", "theses": "", "language_code": "fi"}}, {"pk": 9, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-17 06:35:01", "name": "Hoc ca phe?", "parent": 4, "papers": "", "content": "", "theses": "", "language_code": "vi"}}, {"pk": 6, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-17 06:35:01", "name": "Emotional intelligence leadership", "parent": 3, "papers": "", "content": "Salovey and Mayer are the first tunne\u00e4lyteorian developers. According to their definition of emotional intelligence is divided into different areas, which have their own emotional awareness and control of, their own emotions work for a certain goal, the detection of other emotions and other feelings of control. The theory is that individuals can influence their own actions or procedures to react, because the emotional intelligence skills are primarily learned ways.\r\n\r\nGoleman defines emotional intelligence aspects of the self-knowledge, motivation, self-control, empathy, and interpersonal therapy. Emotional intelligence is the ability to manage their own feelings and understand another's feelings. Feel Smart people possess the adaptability and resilience to pressure and control their own well-being. In addition, intrapersoonalliset and on the personality traits are tunne\u00e4lykk\u00e4ill\u00e4 people strong. Intrapersoonallisilla features of the purposes for example. self-awareness and interpersonal features of mm. empathy, ie the ability to read other factual and emotional messages.", "theses": "", "language_code": "en"}}, {"pk": 2, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-17 06:35:01", "name": "360\u02da-arviointi", "parent": 2, "papers": "", "content": "360\u02da-arviointia k\u00e4ytet\u00e4\u00e4n esimerkiksi johtamisty\u00f6n tehokkuuden kehitt\u00e4miseen sek\u00e4 henkil\u00f6st\u00f6n arviointiin ja yhteisty\u00f6taitojen kehitt\u00e4miseen. Arviointia k\u00e4ytet\u00e4\u00e4n joissain tapauksissa my\u00f6s yleisten ty\u00f6el\u00e4m\u00e4taitojen eli niin sanottujen metataitojen kehitt\u00e4miseen, mutta yleisin sovellus menetelm\u00e4n k\u00e4yt\u00f6st\u00e4 on johtamisen kehitt\u00e4minen. ", "theses": "", "language_code": "fi"}}, {"pk": 7, "model": "entry.methodtranslation", "fields": {"full": "", "last_updated": "2011-12-17 06:35:01", "name": "360\u02da assessment", "parent": 2, "papers": "", "content": "360\u02da assessment will be used, for example the work of the effectiveness of management development and personnel evaluation, and cooperation skills. Assessment is used in some cases, the general workplace skills, the so-called meta-skills development, but the most common method of application is the use of leadership development.", "theses": "", "language_code": "en"}}, {"pk": 1, "model": "entry.method", "fields": {}}, {"pk": 2, "model": "entry.method", "fields": {}}, {"pk": 3, "model": "entry.method", "fields": {}}, {"pk": 4, "model": "entry.method", "fields": {}}, {"pk": 5, "model": "entry.method", "fields": {}}, {"pk": 6, "model": "entry.method", "fields": {}}, {"pk": 7, "model": "entry.method", "fields": {}}, {"pk": 8, "model": "entry.method", "fields": {}}, {"pk": 9, "model": "entry.method", "fields": {}}, {"pk": 10, "model": "entry.method", "fields": {}}, {"pk": 11, "model": "entry.method", "fields": {}}, {"pk": 12, "model": "entry.method", "fields": {}}, {"pk": 13, "model": "entry.method", "fields": {}}, {"pk": 14, "model": "entry.method", "fields": {}}, {"pk": 15, "model": "entry.method", "fields": {}}, {"pk": 16, "model": "entry.method", "fields": {}}, {"pk": 17, "model": "entry.method", "fields": {}}, {"pk": 18, "model": "entry.method", "fields": {}}, {"pk": 19, "model": "entry.method", "fields": {}}, {"pk": 4, "model": "entry.instructiontranslation", "fields": {"last_updated": "2011-12-18 07:06:25", "parent": 4, "instruction": "", "experience": "<p>Mitk&auml; ovat olleet menetelm&auml;&auml;/ty&ouml;kalua k&auml;ytt&auml;vien hankkeiden p&auml;&auml;kehityskohteet ja tavoitteet? prosessien kehitt&auml;minen jaetun johtajuuden mallin kehitt&auml;minen muutoksen johtaminen hiljaisen tiedon esiin tuominen ty&ouml;ss&auml; jaksamisen lis&auml;&auml;ntyminen oman osaamisen ja tiet&auml;myksen esiin tuominen Miss&auml; kehitt&auml;misprosessin vaiheessa menetelm&auml;&auml;/ty&ouml;kalua on k&auml;ytetty? muutosvaiheen toteuttamisen aikana ty&ouml;yhteis&ouml;ss&auml; motivaation lis&auml;&auml;miseksi prosessin aikana Onko menetelm&auml;&auml;/ty&ouml;kalua k&auml;ytetty ongelman analysointiin vai ratkaisun kehitt&auml;miseen? ratkaisun kehitt&auml;miseksi ja motivaation lis&auml;&auml;miseksi mahdollistaa suuressa ryhm&auml;ss&auml; tapahtuvan analyysi- tai tavoitteenasetantaprosessin Mit&auml; muita menetelmi&auml;/ty&ouml;kaluja on k&auml;ytetty t&auml;m&auml;n menetelm&auml;n kanssa aihepiirin projekteissa? prosessikonsultointi workshopit Tuplatiimi Miten ko. menetelm&auml;&auml; k&auml;ytt&auml;neet hankkeet kuvaavat onnistumistaan kehitt&auml;misess&auml;? Miten onnistumista on mitattu? Mik&auml; muuttui? menetelm&auml;ll&auml; saadaan ker&auml;tty&auml; nopeasti ja laajasti n&auml;kemyksi&auml; valituista teemoista toisessa hankkeessa uusi jaetun johtajuuden malli on otettu k&auml;ytt&ouml;&ouml;n ja toiminnan on kuvattu olevan avoimempaa ja l&auml;pin&auml;kyv&auml;mp&auml;&auml; onnistumista on mitattu henkil&ouml;st&ouml;kyselyjen sek&auml; asiakaspalautteista saadun tiedon avulla onnistumista on mitattu my&ouml;s laadun arvioinnin perusteella TUTKIJAN ARVIOINTI: Miten toimiva menetelm&auml;/ty&ouml;kalu on ollut aihepiirin projekteissa? Mik&auml; muu menetelm&auml;/ty&ouml;kalu olisi voinut tulla kyseeseen? menetelm&auml; on ollut eritt&auml;in toimiva erilaiset ryhm&auml;ty&ouml;menetelm&auml;t, joissa koko henkil&ouml;st&ouml; sitoutetaan toimimaan yhteisen tavoitteen saavuttamiseksi, olisivat olleet mahdollisia (esim. world cafe) Mit&auml; on otettava huomioon menetelm&auml;n/ty&ouml;kalun k&auml;yt&ouml;ss&auml;? Onnistumisen edellytykset? riitt&auml;v&auml;n suuri m&auml;&auml;r&auml; osallistujia riitt&auml;v&auml;sti aikaa toteutukselle selke&auml;t keskustelun aiheet, jotta keskustelua syntyy helposti tiedon v&auml;litt&auml;minen osallistujille mihin keskusteluilla pyrit&auml;&auml;n ja mihin niit&auml; k&auml;ytet&auml;&auml;n jatkossa kaikkien mahdollisuus osallistua ja tuoda esiin mielipiteens&auml; d okumentoinnin t&auml;rkeys d okumentoinnin j&auml;lkeen asia vied&auml;&auml;n koko ty&ouml;yhteis&ouml;n tietoon</p>", "theses": "", "papers": "", "language_code": "fi"}}, {"pk": 3, "model": "entry.instructiontranslation", "fields": {"last_updated": "2011-12-17 06:35:01", "parent": 3, "instruction": "", "experience": "", "theses": "", "papers": "", "language_code": "fi"}}, {"pk": 2, "model": "entry.instructiontranslation", "fields": {"last_updated": "2011-12-17 06:35:01", "parent": 2, "instruction": "instructions/Ohjeet__360_asteen_arvioinnista.pdf", "experience": "", "theses": "", "papers": "", "language_code": "fi"}}, {"pk": 1, "model": "entry.instructiontranslation", "fields": {"last_updated": "2011-12-17 06:35:01", "parent": 1, "instruction": "instructions/Menetelmakortti_balanced_scorecard_ohjeet2.pdf", "experience": "What have been the BSC to use p\u00e4\u00e4kehityskohteet projects and goals?\r\n\r\nThe development of strategic planning\r\nQuality, competitiveness, and performance development\r\nDevelop metrics and reporting, and anchoring systems approach to assess effectiveness.\r\nImprove the organization's services and to develop the productivity of work\r\nTo create a staff of well-being of a sturdy set of operations\r\nImplementation of the strategy work\r\nWhere the development stage of the process tool is used for?\r\n\r\nBSC's development process, the first cord is sitoutettava project, after which the company's mission, vision and strategy will be clarified. When a company's critical success factors have been identified such as SWOT analysis, bencmarkingilla, the current state of analysis, so it will then be discussed BSChen perspectives to be taken, and the selection of indicators, figuring out the cause-effect relationships, etc. BSCn meters and complete pruning done ever since the whole development process. \r\n\r\nWhat other tools or methods have been used this tool with the theme in this project?\r\n\r\nRisk Analysis\r\nMapping the atmosphere\r\nEPQM\r\nCurrent state analysis\r\n Labour\r\nHow effective method / tool has been the theme projects?\r\n\r\nBSC's use of management and strategy implementation tool is perceived positively, inter alia, to:\r\n\r\nObjectives of the organization, planning and implementation have become clearer\r\n The organization's success factors have come out well\r\nUsing the BSC to as part of the EFQM methodology has been improved the quality of operations.\r\nAlso negatiisia user experiences found:\r\n\r\nIt was felt that the staff it requires new thinking and approach to issues\r\nTakes hours of work by other tasks\r\nDesign a comprehensive strategy to derive the contribution would be too large\r\nWhat is taken into account in the tool use? Conditions for success?\r\n\r\n BSC project, the key to the success of particular note\r\n\r\n top management support\r\nthe organization has to be convinced of the importance of the project\r\n the company's strategic objectives must be clearly defined before the start of the BSC project\r\n Meters must lead the company's strategy\r\n staff are included in the BSC project\r\ndeployment must be observed that in the beginning of the causal relationships are indicative\r\ncausal relationships are tested during the project implementation through learning\r\ndeployment is insufficient emphasis on education, communication and information\r\nIf the BSC project can be implemented through piloting, so the company is constantly called into question its strategy and control measures will be considered as a tool.", "theses": "", "papers": "", "language_code": "fi"}}, {"pk": 1, "model": "entry.instruction", "fields": {"topic": 1, "method": 1}}, {"pk": 2, "model": "entry.instruction", "fields": {"topic": 1, "method": 2}}, {"pk": 3, "model": "entry.instruction", "fields": {"topic": 1, "method": 3}}, {"pk": 4, "model": "entry.instruction", "fields": {"topic": 1, "method": 4}}]
+[
+	{
+		"pk":22,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:32:40",
+			"name":"Kest\u00e4v\u00e4 kehitys",
+			"parent":12,
+			"papers":"",
+			"content":"<p>Kest&auml;v&auml; kehitys on maailmanlaajuisesti, alueellisesti ja paikallisesti tapahtuvaa jatkuvaa ja ohjattua yhteiskunnallista muutosta, jonka p&auml;&auml;m&auml;&auml;r&auml;n&auml; on turvata nykyisille ja tuleville sukupolville hyv&auml;t el&auml;misen mahdollisuudet. T&auml;m&auml; tarkoittaa my&ouml;s, ett&auml; ymp&auml;rist&ouml;, ihminen ja talous otetaan tasavertaisesti huomioon p&auml;&auml;t&ouml;ksenteossa ja toiminnassa.</p>\r\n<h4>Ekologinen kest&auml;vyys</h4>\r\n<p>Kest&auml;v&auml;n kehityksen perusehtona on biologisen monimuotoisuuden ja ekosysteemien toimivuuden s&auml;ilytt&auml;minen sek&auml; ihmisen taloudellisen ja aineellisen toiminnan sopeuttaminen pitk&auml;ll&auml; aikav&auml;lill&auml; luonnon kestokykyyn. Kansallisten toimien lis&auml;ksi kansainv&auml;linen yhteisty&ouml; on hyvin keskeisess&auml; asemassa pyritt&auml;ess&auml; ekologiseen kest&auml;vyyteen.</p>\r\n<p>Ekologisen kest&auml;vyyden kannalta keskeist&auml; on varovaisuusperiaatteen noudattaminen. Sen mukaan ymp&auml;rist&ouml;n tilan heikkenemist&auml; est&auml;vien toimien lykk&auml;&auml;mist&auml; ei voi perustella t&auml;yden tieteellisen n&auml;yt&ouml;n puuttumisella. Ennen toimiin ryhtymist&auml; arvioidaan riskit, haitat ja kustannukset. Muita t&auml;rkeit&auml; periaatteita ovat haittojen synnyn ennalta est&auml;minen ja haittojen torjuminen niiden syntyl&auml;hteill&auml;. Lis&auml;ksi haittojen kustannukset perit&auml;&auml;n mahdollisuuksien mukaan niiden aiheuttajalta.</p>\r\n<h4>Taloudellinen kest&auml;vyys</h4>\r\n<p>Taloudellinen kest&auml;vyys on sis&auml;ll&ouml;lt&auml;&auml;n ja laadultaan tasapainoista kasvua, joka ei perustu pitk&auml;ll&auml; aikav&auml;lill&auml; velkaantumiseen tai varantojen h&auml;vitt&auml;miseen. Kest&auml;v&auml; talous on edellytys yhteiskunnan keskeisille toiminnoille. Siihen pitk&auml;j&auml;nteisesti t&auml;ht&auml;&auml;v&auml; talouspolitiikka luo otolliset olosuhteet kansallisen hyvinvoinnin vaalimiselle ja lis&auml;&auml;miselle.</p>\r\n<p>Kest&auml;v&auml;ll&auml; pohjalla oleva talous helpottaa my&ouml;s kohtaamaan vastaan tulevia uusia haasteita, kuten v&auml;est&ouml;n ik&auml;&auml;ntymisest&auml; aiheutuvia kasvavia sosiaaliturva- ja terveysmenoja. Kest&auml;v&auml; talous on sosiaalisen kest&auml;vyyden perusta. Sosiaalista kest&auml;vyytt&auml; vaalivat mekanismit taas auttavat osaltaan lievitt&auml;m&auml;&auml;n niit&auml; vaikeuksia, joita nopeasti muuttuvassa maailmantaloudessa voi synty&auml;.</p>\r\n<h4>Sosiaalinen ja kulttuurinen kest&auml;vyys</h4>\r\n<p>Sosiaalisessa ja kulttuurisessa kest&auml;vyydess&auml; keskeisen&auml; kysymyksen&auml; on taata hyvinvoinnin edellytysten siirtyminen sukupolvelta toiselle. Yh&auml; jatkuva v&auml;est&ouml;nkasvu, k&ouml;yhyys, ruoka- ja terveydenhuolto, sukupuolten v&auml;linen tasa-arvo sek&auml; koulutuksen j&auml;rjest&auml;minen ovat maailmanlaajuisia sosiaalisen kest&auml;vyyden haasteita, joilla on merkitt&auml;vi&auml; vaikutuksia ekologiseen ja taloudelliseen kest&auml;vyyteen. N&auml;ihin haasteisiin vastaaminen vaatii suuria ponnistuksia sek&auml; yksitt&auml;isilt&auml; valtioilta ett&auml; kansainv&auml;liselt&auml; yhteis&ouml;lt&auml;.</p>\r\n<p>Kest&auml;v&auml;&auml;n kehitykseen vaikuttaa olennaisesti se, kuinka taloudellinen ja muu yhteiskunnan kehitys edist&auml;&auml; maan asukkaiden hyvinvointia. Kansalaisten perushyvinvointi on yksi t&auml;rke&auml; edellytys ekologisen kest&auml;vyyden edist&auml;miselle ja sen yhteiskunnalliselle hyv&auml;ksytt&auml;vyydelle.</p>\r\n<p><em>L&auml;hde: Ymp&auml;rist&ouml;ministeri&ouml;, www.ymparisto.fi</em></p>",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":21,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:32:03",
+			"name":"Laadunhallinta",
+			"parent":11,
+			"papers":"",
+			"content":"<p><span>Laadunhallintaan (quality management) kuuluvat laadunohjaus (quality control), laadunvarmistus (quality assurance) sek&auml; laadun jatkuva parantaminen (quality development). Laadunohjauksella tarkoitetaan standardin (ISO 8402) m&auml;&auml;rittelyn mukaan niiden tekniikoiden ja toimintojen joukkoa, joita k&auml;ytt&auml;m&auml;ll&auml; pyrit&auml;&auml;n t&auml;ytt&auml;m&auml;&auml;n laatuvaatimukset. Laadunvarmistuksen tavoitteena on saavuttaa sek&auml; organisaation sis&auml;isten ett&auml; ulkopuolisten asiakkaiden ja viranomaisten luottamus tavoitteiden toteutumiseen. Laadunhallinnan kehittymist&auml; voidaan seurata jatkuvasti parannettavien prosessien kautta. T&auml;ss&auml; ty&ouml;ss&auml; tarvitaan Laadunhallinnan ty&ouml;kaluja, erilaisia laatutekniikoita.</span></p>",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":20,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:31:31",
+			"name":"Projektinhallinta",
+			"parent":10,
+			"papers":"",
+			"content":"<p>Projektien avulla edistet&auml;&auml;n ja kehitet&auml;&auml;n erilaisia asioita kuten esim. palveluita, koulutusta ja tutkimusta ja organisaatioiden omia sis&auml;isi&auml; kehitt&auml;misteht&auml;vi&auml; ja prosesseja. Kaikilta projekteilta edellytet&auml;&auml;n m&auml;&auml;r&auml;tty&auml; tarkoitusta tai tavoitetta ja kertaluonteisuutta. Projektitoiminta on sopiva ty&ouml;v&auml;line etenkin silloin, kun toiminta on uutta, erityisen haastavaa tai yli yksikk&ouml;- ja organisaatiorajojen ulottuvaa.</p>\r\n<p>Projekti m&auml;&auml;ritell&auml;&auml;n aikataulutetuksi, tietyill&auml; panoksilla kest&auml;viin tuloksiin pyrkiv&auml;ksi teht&auml;v&auml;kokonaisuudeksi, jonka toteuttamisesta vastaa juuri sit&auml; varten perustettu organisaatio. Projekteissa on eroja, mutta p&auml;&auml;piirteiss&auml;&auml;n niist&auml; l&ouml;ytyv&auml;t samat vaiheet. Jokaisessa vaiheessa on tyypillisi&auml; teht&auml;vi&auml;, jotka vaikuttavat projektin etenemiseen: ideavaihe, esisuunnittelu, suunnitteluvaihe, toteutus, arviointi ja tulokset.</p>",
+			"theses":"<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/16591\" target=\"_blank\">Sivistystoimialan hankkeiden koordinointi: Lahden kaupungin perusopetus ja lukiokoulutus</a><span>&nbsp;(2010)</span></li>\r\n</ul>",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":19,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:19:31",
+			"name":"Henkil\u00f6st\u00f6johtaminen ja esimiesty\u00f6",
+			"parent":2,
+			"papers":"",
+			"content":"<p>Henkil&ouml;st&ouml;johtaminen on osa toimintakokonaisuutta, jolla tavoitellaan organisaation tavoitteiden edist&auml;mist&auml;. Kokonaisuudessaan organisaation tavoitteiden edist&auml;minen tapahtuu jonkinlaisen ihmisn&auml;k&ouml;kulman kautta. T&auml;m&auml; n&auml;k&ouml;kulma luo perustan toimintojen suunnittelulle ja valinnalle.&nbsp; &nbsp;</p>\r\n<p>Henkil&ouml;st&ouml;johtamisen suunnitelmallinen yhdent&auml;minen organisaation strategiaan ja t&auml;m&auml;n yhteyden toteuttaminen johtamisella on keskeist&auml;, jotta suunnitelmien ja t&auml;yt&auml;nt&ouml;&ouml;npanon v&auml;lille ei j&auml;isi kuilua.</p>\r\n<p>Esimiesty&ouml;n keskeinen teht&auml;v&auml; on ty&ouml;yhteis&ouml;n t&ouml;iden j&auml;rjest&auml;minen niin, ett&auml; yksil&ouml;n ja yhteis&ouml;n osaaminen ja suoritettavat teht&auml;v&auml;t kohtaavat parhaalla mahdollisella tavalla. T&auml;m&auml; vaatii hyv&auml;&auml; oman yhteis&ouml;n tieto-taidon tuntemusta ja alttiutta joustaviin reagointeihin tilanteiden muuttuessa. Esimiehen tulee varmistaa, ett&auml; ty&ouml;yhteis&ouml;lle asetetut tavoitteet ja teht&auml;v&auml;t sek&auml; henkil&ouml;st&ouml;n mitoitus ovat tasapainossa.</p>\r\n<p>Hyvi&auml; esimiestaitoja tarvitaan muun muassa teht&auml;vien organisoinnissa, kehityskeskustelujen k&auml;ymisess&auml;, ty&ouml;suoritusten arvioinnissa ja riitt&auml;v&auml;n varhaisessa ongelmatilanteisiin puuttumisessa. Esimies ei en&auml;&auml; voi eik&auml; h&auml;nen ole tarpeenkaan hallita kaikkia ty&ouml;yhteis&ouml;ss&auml; hoidettavia teht&auml;vi&auml;. Esimiesty&ouml;ss&auml; painopiste on siirtynyt yksitt&auml;isten ty&ouml;suoritusten valvonnasta toiminnan sujuvuuden varmistamiseen niin, ett&auml; toiminnalle asetetut tavoitteet toteutuvat.</p>\r\n<p>Johtamisen oikeudenmukaisuus on todettu keskeiseksi henkil&ouml;st&ouml;n hyvinvointiin ja ty&ouml;yhteis&ouml;n toimivuuteen vaikuttavaksi tekij&auml;ksi. Oikeudenmukaisuus n&auml;kyy ty&ouml;yhteis&ouml;n j&auml;senille esimiehen tavassa organisoida, osallistua ja kantaa vastuuta ty&ouml;yhteis&ouml;n toiminnasta.</p>",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":18,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:18:51",
+			"name":"Ik\u00e4johtaminen",
+			"parent":3,
+			"papers":"",
+			"content":"<p>Ik&auml;johtaminen on ty&ouml;ntekij&auml;n i&auml;n ja ik&auml;sidonnaisten tekij&ouml;iden huomioon ottamista p&auml;ivitt&auml;isjohtamisessa, ty&ouml;njaossa ja ty&ouml;skentely-ymp&auml;rist&ouml;ss&auml; niin, ett&auml; voidaan synnytt&auml;&auml; sellainen ty&ouml;paikkakulttuuri, jossa jokainen ty&ouml;ntekij&auml; - ik&auml;&auml;n katsomatta - voi kokea olevansa arvokas. (Ilmarinen, L&auml;hteenm&auml;ki &amp;, Huuhtanen 2003, 8.)</p>\r\n<p>Ik&auml;johtamisen tarkoitus on tarjota keinoja yksil&ouml;n fyysisten, henkisten ja sosiaalisten voimavarojen vahvistamiseen, edist&auml;&auml; terveytt&auml;, kehitt&auml;&auml; ammattitaitoa ja auttaa muutosten hallinnassa. Yrityksen kohdalla ik&auml;johtaminen tarjoaa keinoja eri-ik&auml;isten yhteisty&ouml;lle, ik&auml;ergonomialle, joustaville ty&ouml;aikaj&auml;rjestelyille, osa-aikaty&ouml;lle ja t&auml;sm&auml;koulutukselle. Yhteiskunnan kohdalla ik&auml;johtaminen tarjoaa keinoja korjata ik&auml;asenteita, ehk&auml;ist&auml; ik&auml;syrjint&auml;&auml;, kehitt&auml;&auml; ty&ouml;aikalains&auml;&auml;d&auml;nt&ouml;&auml; ja el&auml;keturvaa. (Ilmarinen 2006, 17.)</p>",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":17,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:17:36",
+			"name":"Prosessien kehitt\u00e4minen",
+			"parent":4,
+			"papers":"",
+			"content":"<p>&rdquo;Prosessi on joukko loogisesti toisiinsa liittyvi&auml; toimintoja ja niiden toteuttamiseen tarvittavat resurssit, joiden avulla saadaan aikaan toiminnan tulokset.&rdquo;</p>\r\n<p>Prosessin ideassa l&auml;hdet&auml;&auml;n liikkeelle siit&auml;, ett&auml; on olemassa jotakin pysyv&auml;&auml; ja toistuvaa, josta voidaan sopia ja jota voidaan mallintaa ja kehitt&auml;&auml;. Prosessien tunnistamisen, mallintamisen ja kehitt&auml;misen avulla hallitaan paremmin monimutkaisia kokonaisuuksia, parannetaan toiminnan ja tuotteiden laatua sek&auml; toiminnan taloudellisuutta.&nbsp; Prosessit ovat piilossa yrityksen rakenteissa, jolloin niiden kuvaaminen ja ymm&auml;rt&auml;minen vaatii aikaa ja tutkintaa.</p>\r\n<p>Prosessien kehitt&auml;misen p&auml;&auml;vaiheita ovat; nykytilan kartoitus, prosessien analysointi sek&auml; prosessien parantaminen. Prosessin nykytilan kartoitus-vaiheessa tunnistetaan prosessit, mallinnetaan prosessit sek&auml; arvioidaan prosessien toimivuutta. Seuraavaksi selvitet&auml;&auml;n kartoitusvaiheessa havaittuja ongelmia prosessissa. Ker&auml;ttyjen tietojen pohjalta, valitaan ty&ouml;kalut ongelmien selvitt&auml;miseksi ja asetetaan mittareita, joilla kyet&auml;&auml;n ohjaamaan prosessia haluttuun suuntaan. Viimeisess&auml; vaiheessa prosessille laaditan parannussuunnitelma, joka hyv&auml;ksymisen j&auml;lkeen otetaan k&auml;ytt&ouml;&ouml;n. Kehitt&auml;misty&ouml; ei lopu prosessin ongelmakohtien selvitt&auml;miseen, vaan prosesseja kehitet&auml;&auml;n jatkuvasti. Prosesseille asetetuilla mittareilla ja tavoitteilla prosessien toimivuutta seurataan s&auml;&auml;nn&ouml;llisesti ja uusi kehitysty&ouml; aloitetaan, mik&auml;li uudistustarpeita ilmenee. (Lecklin 2006, s. 134&ndash;135)</p>",
+			"theses":"<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/24660\" target=\"_blank\">Prosessien yhteistoiminnallinen kehitt&auml;minen Tykes-hankkeissa</a><span>&nbsp;(2010)</span></li>\r\n</ul>",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":16,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:16:27",
+			"name":"Tiimity\u00f6",
+			"parent":6,
+			"papers":"",
+			"content":"<p>Tiimi on pieni joukko ihmisi&auml;, joilla on toisiaan t&auml;ydent&auml;vi&auml; taitoja, jotka ovat sitoutuneet yhteiseen p&auml;&auml;m&auml;&auml;r&auml;&auml;n ja yhteiseen toimintamalliin ja jotka pit&auml;v&auml;t itse&auml;&auml;n yhteisvastuullisena suorituksistaan\" (Katzenbach &amp; Smith 1993)</p>\r\n<p>\"Tiimi on ryhm&auml; yksil&ouml;it&auml;, jotka toimivat yhdess&auml; tuottaakseen tuotteita tai palveluita, joista he ovat yhteisesti vastuussa\"\" (Mohrman et al 1997)</p>\r\n<p>\"Tiimi on ryhm&auml; ihmisi&auml;, jotka ovat hyvin riippuvaisia toisistaan pyrkimyksess&auml;&auml;n saavuttaa yhteinen tavoite tai saada joku teht&auml;v&auml; suoritetuksi\" (Parker 1994)</p>\r\n<p>(Lainaukset: Pertti Frilander. 1997. Ty&ouml;organisaation tiimiytt&auml;minen ja tiimity&ouml;n kehitt&auml;minen)</p>\r\n<p>Ennen kuin tiimitoimintaa k&auml;ynnistet&auml;&auml;n, t&auml;ytyy muutostarve ensin tunnistaa. T&auml;m&auml;n j&auml;lkeen tiimi voidaan rakentaa ja tiimi voi aloittaa toimintansa. Tiimity&ouml;skentelytaitoa voidaan pit&auml;&auml; ty&ouml;ntekij&auml;n perusosaamisena. Tiimity&ouml;taitoja voidaan oppia ja kehitt&auml;&auml; tiimity&ouml;n ohessa.&nbsp; Yleens&auml; tiimien kehitt&auml;minen on yksi t&auml;rkeimmist&auml; asioista tavoitteiden saavuttamiseksi ja l&auml;hes kaikissa organisaatioissa, joissa tiimitoimintaa k&auml;ytet&auml;&auml;n kehitysty&ouml;n l&auml;pivienniss&auml;, kehitet&auml;&auml;n my&ouml;s tiimitoimintaa itse&auml;&auml;n. Tiimitoiminnan kehitt&auml;misell&auml; saadaan tiimity&ouml;n sis&auml;ll&ouml;n tasoa nostettua.</p>",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":15,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:15:40",
+			"name":"Ty\u00f6hyvinvointi",
+			"parent":7,
+			"papers":"",
+			"content":"<p>Ty&ouml;hyvinvointia yll&auml;pit&auml;v&auml; toiminta on kokonaisuus, jossa yhdistyv&auml;t yksil&ouml;n, ty&ouml;yhteis&ouml;n, ty&ouml;ymp&auml;rist&ouml;n ja osaamisen toiminta-alueet. Ty&ouml;hyvinvointiin panostaminen miellet&auml;&auml;n nyky&auml;&auml;n yksil&ouml;keskeisen toiminnan sijaan ty&ouml;yhteis&ouml;keskeiseksi toiminnaksi, jossa kehitt&auml;mistoimet suunnataan koko ty&ouml;yhteis&ouml;lle. Se on johdon ja ty&ouml;ntekij&ouml;iden yhteist&auml; osaamisen kehitt&auml;mist&auml; ja toimenpiteit&auml;, joilla ty&ouml;hyvinvoinnin n&auml;k&ouml;kulma liitet&auml;&auml;n jokap&auml;iv&auml;iseen toimintaan.</p>\r\n<p>Ty&ouml;hyvinvointiin vaikuttavat monet tekij&auml;t - erityisesti johtaminen, osaaminen sek&auml; ty&ouml;yhteis&ouml;n ja ty&ouml;n kehitt&auml;minen. Esimiesty&ouml;n laadulla on suuri vaikutus ty&ouml;ntekij&ouml;iden ty&ouml;hyvinvointiin. Ty&ouml;hyvinvoinnin johtaminen on henkil&ouml;st&ouml;n osaamisen pitk&auml;j&auml;nteist&auml; kehitt&auml;mist&auml; ja strategista henkil&ouml;st&ouml;suunnittelua, mutta my&ouml;s arkista esimiesty&ouml;t&auml;.</p>\r\n<p>Ty&ouml;el&auml;m&auml;tutkimusten mukaan ty&ouml;ss&auml; voidaan sit&auml; paremmin, mit&auml; vahvempi on tunne oman ty&ouml;n hallinnasta. Ty&ouml;aika-autonomiasta, jossa ty&ouml;yhteis&ouml;n j&auml;senet voivat m&auml;&auml;r&auml;tyiss&auml; rajoissa yhteisesti sopia esimerkiksi ty&ouml;vuorojen sijoittumisesta, ty&ouml;p&auml;iv&auml;n pituudesta ja lomien ajankohdista, on saatu hyvi&auml; tuloksia. Kaikki ty&ouml;ajan joustoa edist&auml;v&auml;t k&auml;yt&auml;nn&ouml;t helpottavat ty&ouml;n ja perhe-el&auml;m&auml;n yhteensovittamisessa ja auttavat ty&ouml;ntekij&auml;&auml; keskittym&auml;&auml;n ty&ouml;aikana t&auml;ysipainoisesti ty&ouml;teht&auml;vien hoitamiseen.</p>",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":14,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:14:20",
+			"name":"Uuden teknologian k\u00e4ytt\u00f6\u00f6notto",
+			"parent":8,
+			"papers":"",
+			"content":"<p>Uuden teknologian k&auml;ytt&ouml;&ouml;notolla tarkoitetaan kaikkia niit&auml; toimintoja, jotka liittyv&auml;t uuden teknologisen j&auml;rjestelm&auml;n hankintaan ty&ouml;organisaatioissa. Hyv&auml; k&auml;ytett&auml;vyys taas tekee j&auml;rjestelm&auml;st&auml; hy&ouml;dyllisen ja k&auml;ytt&auml;j&auml;yst&auml;v&auml;llisen.</p>\r\n<p>Uuden teknologian sovellukset vaikuttavat ty&ouml;prosesseihin organisaation sis&auml;ll&auml; ja yhteisty&ouml;h&ouml;n organisaatioiden v&auml;lill&auml;. K&auml;ytt&ouml;&ouml;notossa ei riit&auml;, ett&auml; henkil&ouml;st&ouml; vain opettelee k&auml;ytt&auml;m&auml;&auml;n uusia laitteita ja ohjelmia. Teknologiset innovaatiot edellytt&auml;v&auml;t my&ouml;s sosiaalisia innovaatioita. Jos uudella teknologialla halutaan vaikuttaa toiminnan laatuun, on teknologian k&auml;ytt&ouml;&ouml;nottoon liitett&auml;v&auml; toiminnan kehitt&auml;minen yleisemmin.</p>\r\n<p>L&auml;ht&ouml;kohtana ei pit&auml;isi olla teknologian k&auml;ytt&ouml;&ouml;notto, vaan prosessien ja palvelujen kehitt&auml;minen teknologiaa hy&ouml;dynt&auml;en.</p>",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":10,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:14:20",
+			"name":"Introducing a new technology",
+			"parent":8,
+			"papers":"",
+			"content":"<p>&lsquo;Introducing a new technology&rsquo; refers to all the functions related to acquiring a new technological system in a workplace organisation. Good usability makes a system useful and user-friendly.</p>\r\n<p>New technologies affect work processes within the organisation and cooperation between organisations. In introducing a new technology, it is not enough for employees just to learn how to use the new equipment and software. Technological innovations require social innovations as well. If a new technology is to influence the quality of operations, the introduction of that new technology must be accompanied by a more general development of operations.</p>\r\n<p>The approach should not be just to adopt a new technology but also to improve processes and services using the new technology as a tool.</p>",
+			"theses":"<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/29036\" target=\"_blank\">Ryhm&auml;l&auml;&auml;ke-esittelyiden ajanvarausprosessin kehitt&auml;minen ja uuden teknologian k&auml;ytt&ouml;&ouml;notto : case P&auml;ij&auml;t-H&auml;meen sosiaali- ja terveysyhtym&auml;, keskussairaalan konservatiivinen tulosalue</a><span>&nbsp;(2011)</span></li>\r\n</ul>",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":13,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:10:48",
+			"name":"Verkostoituminen",
+			"parent":9,
+			"papers":"",
+			"content":"<p>Yritysten verkostoituminen on kahden tai useamman yrityksen tiivist&auml; yhteisty&ouml;t&auml;. Verkosto on organisaatiomuoto, jolla haetaan joustavuutta ja tehokkuutta. Verkoston toiminta perustuu kumppanuuksiin ja verkosto on yritystenv&auml;linen hierarkkisesti ohjattu yhteis&ouml;, jota leimaa luottamus.</p>\r\n<p>Kumppanuus on yhteisty&ouml;n&auml; luottamuksellinen, tasapuolinen ja avoin toimintatapa. Se on tietoinen strateginen valinta. Kumppanuus edellytt&auml;&auml; yhteist&auml; strategiaa ja luottamusta. Mit&auml; paremmin tietop&auml;&auml;oma jaetaan, sit&auml; enemm&auml;n verkosto tuottaa lis&auml;arvoa.</p>\r\n<p>Verkostoitumalla haetaan yhteisty&ouml;n kautta parempaa taitotietokokoonpanoa tai edullisempaa tuotantomallia kuin yksitt&auml;inen yritys kykenisi saavuttamaan. Verkostona toimiminen on kuitenkin uudenlainen toimintatapa. Verkostot vaativat johtamista sek&auml; ylh&auml;&auml;lt&auml; ett&auml; yrityksen suunnasta. T&auml;ll&ouml;in puhutaan verkosto-osaamisesta, joka on yrityksen sis&auml;isen tehokkuuden ja ulkoisen tehollisuuden johtamista. Verkosto-osaajalla on kyky mukautua ja vastata kysynt&auml;&auml;n ja siten verkosto-osaajalle on tunnusomaista erinomainen tuloksentekokyky.</p>",
+			"theses":"<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/30178\" target=\"_blank\">Verkoston kehitt&auml;misen menetelm&auml;t ja niiden k&auml;ytt&ouml; ty&ouml;el&auml;m&auml;n kehitt&auml;mishankkeissa</a><span>&nbsp;(2011)</span></li>\r\n</ul>",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":6,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:08:35",
+			"name":"Process development",
+			"parent":4,
+			"papers":"",
+			"content":"<p>A process is a series of logically interconnected functions and the resources needed to implement them, which produce operating results.</p>\r\n<p>The idea of a process is that there is something that is permanent and repeated; something that can be agreed on, modelled and developed. Identifying, modelling and developing processes is a way of analysing complex phenomena, of improving the quality of operations and products, and of improving profitability. Processes are often embedded in the structures of an enterprise, and it takes time and research to describe and understand them.</p>\r\n<p>The principal stages in process development are: present state survey, process analysis, and process improvement. At the present state survey stage, existing processes are identified and modelled, and their effectiveness is evaluated. Next, problems found in the processes at the survey stage are explored. Tools to solve these problems are chosen on the basis of information gathered, and indicators are set to guide the process in the desired direction. At the last stage, a process improvement plan is drawn up, approved and then implemented. However, development does not stop with troubleshooting; process development is a continuous undertaking. Process effectiveness is monitored constantly using the indicators and targets set, and new development projects are launched as and when needed. (Lecklin 2006, pp. 134&ndash;135)</p>",
+			"theses":"<p>s</p>",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":12,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 10:07:21",
+			"name":"Strategioiden toimeenpano",
+			"parent":5,
+			"papers":"",
+			"content":"<p>Strategioiden toimeenpanossa on t&auml;rke&auml;&auml; tiet&auml;&auml; seuraavat kolme asiaa&nbsp;mit&auml; pit&auml;&auml; tehd&auml;, miten tehd&auml;&auml;n se, mit&auml; pit&auml;&auml; tehd&auml; ja kuka tekee.</p>\r\n<p>Strategian toimeenpano eli strategian muuttaminen todeksi on todettu t&auml;rke&auml;ksi haasteeksi viimeaikaisissa tutkimuksissa. Osallistamalla laajemmin ja ennakkoluulottomammin organisaation eri toimijaryhmi&auml; strategisten asioiden k&auml;sittelyyn ja konkretisointiin, p&auml;&auml;st&auml;&auml;n strategioiden toteuttamisessa parempaan lopputulokseen sek&auml; yksil&ouml;- ett&auml; organisaatiotasolla. T&auml;ll&ouml;in on my&ouml;s erilaisten osallistavien ty&ouml;kalujen tuntemus tarpeen.</p>\r\n<p><span><span style=\"font-size: medium;\"><br /></span></span></p>",
+			"theses":"<ul>\r\n<li><a href=\"https://publications.theseus.fi/handle/10024/16084\" target=\"_blank\">Strategian toimeenpanon menetelm&auml;t Tykes-projekteissa</a><span>&nbsp;(2010)</span></li>\r\n</ul>",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":11,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 08:00:28",
+			"name":"Networking",
+			"parent":9,
+			"papers":"",
+			"content":"<p>Corporate networking refers to close cooperation between two or more enterprises. A network is a form of organisation geared towards flexibility and efficiency. Networking is based on partnerships, and a network is a hierarchically governed intercorporate community based on trust.</p>\r\n<p>Partnership is a confidential and transparent relationship between equal partners. Entering into a partnership is a conscious strategic choice, and as such requires a shared strategy and mutual trust. The better the members of the network share their knowledge capital, the more added value the network will generate.</p>\r\n<p>The purpose of networking is to achieve a better portfolio of knowledge and skills or a more affordable production model than an individual enterprise could manage on its own. However, networking is a new way of doing business that requires leadership both from above and from the enterprises involved. The term used for this is &lsquo;networking competence&rsquo;, which involves the management of both the enterprise&rsquo;s internal efficiency and its external effectiveness. A networking expert can adapt to and respond to demand and therefore typically demonstrates excellent financial performance.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":9,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 07:59:46",
+			"name":"Wellbeing at work",
+			"parent":7,
+			"papers":"",
+			"content":"<p>Activities to maintain wellbeing at work affect individuals, the workplace community, the working environment and competence. Investments in wellbeing at work have come to be seen more as a community activity where development measures are aimed at the workplace community as a whole, rather than measures aimed at individuals. Wellbeing at work involves development and actions by management and employees both addressing the aspect of wellbeing at work in their day-to-day work.</p>\r\n<p>Many factors affect wellbeing at work&nbsp;&ndash; particularly management, competence and development of the workplace community and the content of the work. The quality of the work of supervisors has a significant impact on the wellbeing at work of employees. Managing wellbeing at work is part of the long-term development of personnel competence and strategic HR planning, but it is also an aspect of the day-to-day work of a supervisor.</p>\r\n<p>According to studies on working life, the more an employee feels in control of his/her own job, the better he/she feels at work. Autonomous working hours, a concept in which members of a workplace community may agree amongst themselves for instance on shift assignments, the length of the working day and the timing of holidays, within given limits, has produced good results. All practices that increase flexibility in working hours make it easier to reconcile work and family life, helping employees to focus on their job duties while they are at work.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":8,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 07:59:14",
+			"name":"Teamwork",
+			"parent":6,
+			"papers":"",
+			"content":"<p>A team is a small group of people with mutually complementary skills who have committed to a shared goal and a common operating procedure and who assume joint responsibility for their performance. (Katzenbach &amp; Smith 1993.)</p>\r\n<p>A team is a group of individuals who act together to produce products or services for which they share responsibility. (Mohrman et al. 1997.)</p>\r\n<p>A team is a group of people who are highly dependent on one another in their aim to achieve a shared goal or to perform a task. (Parker 1994.)</p>\r\n<p>(Quoted in: Pertti Frilander. 1997. <em>Ty&ouml;organisaation tiimiytt&auml;minen ja tiimity&ouml;n kehitt&auml;minen</em>)</p>\r\n<p>Before teamwork can begin, a need for change must be identified. Then the team can be set up and go into action. Teamwork may be considered a basic employee skill. Teamwork skills can be learned and developed on the job. Team development is one of the most important aspects of achieving goals, and almost all organisations that use teamwork for development purposes also develop the teamwork itself. Teamwork development improves the quality of the content of the teamwork.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":7,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 07:58:40",
+			"name":"Strategy implementation",
+			"parent":5,
+			"papers":"",
+			"content":"<p>The following three things are important to know in implementing strategies: what to do, how to do it and who should do it.</p>\r\n<p>Strategy implementation, or putting a strategy into practice, has been identified in recent research as a major challenge. Involving various groups of actors in the organisation more extensively and more openly in processing strategic matters and in putting strategy into practice will achieve a better end result in strategy implementation with regard to both individuals and the organisation as a whole. A knowledge of various participation tools is necessary for this purpose.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":5,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 07:52:34",
+			"name":"Age management",
+			"parent":3,
+			"papers":"",
+			"content":"<p>Age management involves taking employee age and age-related factors into account in day-to-day management, division of duties and the workplace environment so as to create a workplace culture where every employee&nbsp;&ndash; irrespective of age&nbsp;&ndash; can feel valuable. (Ilmarinen, L&auml;hteenm&auml;ki &amp;, Huuhtanen 2003, p. 8.)</p>\r\n<p>The purpose of age management is to offer ways for reinforcing the physical, mental and social resources of individuals, to promote health, to improve professional skills and to assist in change management. For an enterprise, age management offers ways for providing help for cooperation between employees of different ages, age-specific ergonomics, flexible working hours, part-time work and customised training. For society at large, age management involves ways of correcting attitudes towards old age, preventing age discrimination, developing working hours legislation and improving pension coverage. (Ilmarinen 2006, p. 17.)</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":4,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 07:50:57",
+			"name":"Personnel management and supervisors",
+			"parent":2,
+			"papers":"",
+			"content":"<p>Personnel management is part of a range of management functions to promote the goals of the organisation. Promoting the goals of the organisation on the whole incorporates a human aspect. This aspect provides the foundation for planning and selecting functions. &nbsp;</p>\r\n<p>Systematic harmonisation of personnel management with the organisation&rsquo;s strategy and putting this into practice through management is vital for avoiding a mismatch between plans and implementation.</p>\r\n<p>The key task for supervisors is to organise the work of the workplace community so that the competence of the individual and the community can be paired with the tasks to be performed in the best possible way. This requires a high awareness of the knowledge and skills of one&rsquo;s own workplace community and the capacity to react flexibly as situations change. A supervisor must ensure that the goals and duties of the workplace community are in balance with its human resources.</p>\r\n<p>Good supervisor skills are needed for instance in organising assignments, in conducting development discussions, in evaluating job performances and in early intervention in case of problems. A supervisor can no longer master all of the duties performed in his/her workplace community, and does not need to. The focus in the work of a supervisor has shifted from supervising individual job performance to ensuring that everything runs smoothly so that the goals set are attained.</p>\r\n<p>Fairness in leadership has been identified as a key factor in personnel wellbeing and the smooth running of a workplace community. Fairness manifests itself to employees in the supervisor&rsquo;s way of organising work and of participating in and assuming responsibility for the operation of the workplace community.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":2,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 07:30:10",
+			"name":"Management development",
+			"parent":1,
+			"papers":"",
+			"content":"<p>Management development is the building of systems and processes that support management. The end result is increased efficiency in the organisation and increased satisfaction for the individuals employed in it. Good management practices boost the competence of the organisation.</p>\r\n<p>A modern manager is adept at navigating the actions of an organisation in a technology-intensive world. A new kind of management is needed to sustain personal interaction and to resolve situational challenges by leveraging new technology.</p>\r\n<p>The world is very different from what it was decades ago, yet management is still governed by precepts created a century ago. No wonder then that there are management problems, as Gary Hamel notes in his book <em>The Future Management.</em> Hamel considers that most of today&rsquo;s management doctrines and tools need to be reinvented. What makes this renewal process difficult is that change is urgently needed and that large corporations need to bring thousands of people all over the world on board quickly.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":1,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-18 07:17:12",
+			"name":"Johtamisen kehitt\u00e4minen",
+			"parent":1,
+			"papers":"",
+			"content":"<p>Johtamisen kehitt&auml;minen on johtajuutta tukevien j&auml;rjestelmien ja prosessien rakentamista. Siin&auml; lopputuloksena on organisaation tehokkuuden ja siin&auml; toimivien yksil&ouml;iden tyytyv&auml;isyyden lis&auml;&auml;ntyminen. Hyv&auml;t johtamisk&auml;yt&auml;nn&ouml;t lis&auml;&auml;v&auml;t organisaation kyvykkyytt&auml;.</p>\r\n<p>Nykyaikainen johtaja luotsaa organisaationsa toimintaa teknologia intensiivisess&auml; maailmassa. Tarvitaan uudenlaista johtamista, joka tukee ihmisten v&auml;list&auml; vuorovaikutusta ja auttaa tilannekohtaisissa haasteiden ratkaisussa uutta teknologiaa hy&ouml;dynt&auml;en.</p>\r\n<p>\"Maailma on aivan toinen kuin vuosikymmeni&auml; sitten, mutta johtamista ohjaavat sata vuotta sitten syntyneet perusajatukset. Ei ihme, ett&auml; johtamisessa on ongelmia\", Gary Hamel toteaa.kirjassaan The Future Management. Gary Hamelin mielest&auml; iso osa johtamisopeista ja johtamisen ty&ouml;kaluista on keksitt&auml;v&auml; uudelleen. Uudistumisen vaikeutta lis&auml;&auml; se, ett&auml; muutoksella on kiire ja isojen yritysten pit&auml;isi imaista muutokseen nopeasti tuhansia ihmisi&auml; eri puolilla maailmaa.</p>",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":3,
+		"model":"entry.topictranslation",
+		"fields":{
+			"last_updated":"2011-12-17 06:35:01",
+			"name":"Nang cao quan ly lanh dao",
+			"parent":1,
+			"papers":"",
+			"content":"",
+			"theses":"",
+			"language_code":"vi"
+		}
+	},
+	{
+		"pk":1,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":2,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":3,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":4,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":5,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":6,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":7,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":8,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":9,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":10,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":11,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":12,
+		"model":"entry.topic",
+		"fields":{}
+	},
+	{
+		"pk":1,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"method/Menetelmakortti_balanced_scorecard.pdf",
+			"last_updated":"2011-12-18 10:53:04",
+			"name":"Balanced Scorecard",
+			"parent":1,
+			"papers":"",
+			"content":"<p>Balanced Scorecard (lyh.BSC) on yritysstrategian ja &ndash;rakenteen yhdensuuntaistamisj&auml;rjestelm&auml;, sit&auml; voidaan k&auml;ytt&auml;&auml; perinteisesti mittausj&auml;rjestelm&auml;n&auml;, mutta edistyneempi k&auml;ytt&ouml;tapa on hy&ouml;dynt&auml;&auml; sit&auml; strategisena johtamisj&auml;rjestelm&auml;n&auml;</p>",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":24,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 09:18:22",
+			"name":"Workplace counselling",
+			"parent":19,
+			"papers":"",
+			"content":"<p>Workplace counselling is in many cases professional support provided by an outside person. The point in this is to explore various procedures basically for finding solutions for a problematic situation at work. The workplace counsellor provides support for the participant in exploring the situation, in seeking new, more creative solutions and in taking control of the situation. Workplace counselling is a discussion on an equal footing about work-related problems.</p>\r\n<p>Workplace counselling is a learning event based on interaction and trust. It is goal-oriented from both the organisation&rsquo;s and the employee&rsquo;s point of view. Workplace counselling consists of the participant going through material related to a problem in his/her own job or in a forthcoming situation. The object of workplace counselling is the participant&rsquo;s relationship to his/her job. The counselling relationship is the core of the workplace counselling process. The counsellor must on no account give ready-made answers to the participant.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":23,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 09:18:01",
+			"name":"Workplace conference",
+			"parent":18,
+			"papers":"",
+			"content":"<p>The workplace conference method is a cooperative and participatory development method based on dialogue. A workplace conference draws on group interaction and brainstorming. It consists of a series of meetings involving the various levels of the organisation as comprehensively as possible and people representing diverse job duties. The aim is to achieve an interactive situation among the participants on an equal footing and to build a shared plan of action.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":22,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 09:17:45",
+			"name":"Strada methods",
+			"parent":17,
+			"papers":"",
+			"content":"<p>Strada methods are group work methods that make it easier to communicate, adopt and apply strategy at various levels of the organisation. The methods are based on group interaction, games and simulations.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":21,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 09:17:28",
+			"name":"Six Thinking Hats",
+			"parent":16,
+			"papers":"",
+			"content":"<p>The Six Thinking Hats method is a tool for thinking, discussion and creativity. In this method, the participant is invited to put on one of six imaginary hats of different colours and to explore his/her thoughts through this.</p>\r\n<p>The Six Thinking Hats method is a role-playing method. When the participant assumes the role required for the particular hat he/she is wearing, his/her thinking changes to adapt to this. Putting on different hats and assuming different roles shifts the focus to different things.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":20,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 09:17:18",
+			"name":"Risk analysis",
+			"parent":15,
+			"papers":"",
+			"content":"<p>Risk identification, analysis and management constitute an important part of an enterprise&rsquo;s occupational safety.</p>\r\n<p>The purpose of risk analysis is to identify hazards at the workplace, to determine threshold values and to assess risk severity.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":19,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 09:16:39",
+			"name":"Process modelling",
+			"parent":14,
+			"papers":"",
+			"content":"<p>The purpose of process recognition, modelling and development is to achieve better quality in the subject organisation, to consolidate operating practices, to increase efficiency, to take customer needs better into account, to reduce the number of errors made, and to improve cost-efficiency and flexibility.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":18,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 09:16:19",
+			"name":"Partner quality network concept",
+			"parent":13,
+			"papers":"",
+			"content":"<p>The Partner quality network concept is a consultation product in workbook form, bringing together the key items that enterprises should take into account when building a network.</p>\r\n<p>Enterprises can follow the outline in the workbook to build up a business network, to plan and develop their operations and to reinforce partnerships. The workbook also contains an outline of things to note when dismantling a network.</p>\r\n<p>A description of the operating practices of the network can be generated in the course of the process, and this description can later be used as a &lsquo;quality manual&rsquo; for the network.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":17,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 08:08:48",
+			"name":"Competence management",
+			"parent":12,
+			"papers":"",
+			"content":"<p>A. COMPETENCE MAP</p>\r\n<p>A competence map is a single A4 sheet with a summary of competences. The first column contains competences relevant for the work processes of a particular occupation, department or process, core skills common to all employees, and personal skills. The following columns contain the job duties related to each competence area. There are on average 5 to 7 competence areas related to each work process, and there may be 3 to 8 job duties.</p>\r\n<p>B. PERSONAL COMPETENCE ASSESSMENT FORM</p>\r\n<p>A personal competence assessment form may be drawn up on the basis of the competence map. Using this form, employees can evaluate their own competence and the supervisor can evaluate the employee&rsquo;s competence. Discussing these evaluations between supervisor and employee will result in a shared conception of the current level of competence and of competence needs.</p>\r\n<p>C. COMPETENCE MATRIX</p>\r\n<p>To support competence management by supervisors, a competence matrix may be drawn up; this enables the supervisor to see at one glance what the competence levels are in his/her area of responsibility and to locate any competence gaps. The matrix also reveals if any particular expertise is only possessed by one employee.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":16,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 08:08:20",
+			"name":"Change laboratory",
+			"parent":11,
+			"papers":"",
+			"content":"<p>The change laboratory is a participatory development method through which a workplace community can engage in longer-term development of operations instead of day-to-day troubleshooting. The change laboratory particularly addresses the need to change the historically evolved operating concept of a particular workplace community&nbsp;&ndash; the operating logic through which its strategic targets are pursued. The method serves to create a vision of a future operating concept and to find practical solutions for current problems so as to be conducive to establishing that future operating concept. The change laboratory thus combines development projects related to everyday work and strategic planning into one development framework.</p>\r\n<p>In the change laboratory, employees are cast as experts, researchers and developers of their own work. The analysis models and development tools of the change laboratory help employees to see in a new way the big picture into which their jobs fit. Specifically, the focus is on how problems in day-to-day work reflect the established structures of the operation of the organisation, changes in those structures and the evolution of the object of the work of the organisation.</p>\r\n<p>The change laboratory is not a tool for implementing ready-made, known solutions or for tinkering with existing operations; instead, its purpose is to identify the conflicts inherent in the historically evolved operating structures, to analyse them and to find new, innovative solutions to them.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":15,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 08:06:40",
+			"name":"Development discussion",
+			"parent":10,
+			"papers":"",
+			"content":"<p>A development discussion is a pre-arranged and planned talk between a supervisor and an employee which is goal-oriented, systematic and regular.</p>\r\n<p>(Juuti &amp; Vuorela 2002)</p>\r\n<p>Development discussions are regular talks between supervisor and employee concerning the employee&rsquo;s job, work situation, competence and their improvement. Such a discussion may be held for instance twice a year, and about one hour should be reserved for it. One of the purposes of development discussions is to explore the employees&rsquo; motivation and commitment as well as their development needs. Development discussions form part of the HR management of an enterprise. A successful development discussion requires the active participation of both parties in an open and confidential exchange of views. The employee&rsquo;s self-evaluation and constructive feedback from the supervisor are essential components of a development discussion.</p>\r\n<p>The aim of the development discussion is to create an encouraging workplace atmosphere and to boost performance. Another important goal is to get employees to analyse their own actions. Development discussions involve employees in the development of their own jobs. Development and guidance used to be top-down processes, but nowadays things are talked over by employee and supervisor together so that employees may influence their own work and workplace environment. An open and honest discussion makes employees feel part of the team and the organisation and to feel able to contribute to the prosperity of the enterprise. In the best case, development discussions encourage active thinking, pursuit of improvement and above all increased motivation.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":14,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 08:06:18",
+			"name":"ITE self-assessment and quality control method",
+			"parent":9,
+			"papers":"",
+			"content":"<p>The ITE method is a self-assessment and quality management method for a workplace unit. Self-assessment refers to a method where a service provider or supplier systematically evaluates his/her own work and the operations and practices of his/her own work group or workplace community. In ITE evaluation, the individual is the subject.</p>\r\n<p>The tools of ITE are a 25-point evaluation form and evaluation instructions, an Excel worksheet for compiling and analysing the self-assessment responses, and a planning form for further action and monitoring. There is also a fourth tool, a checklist that can be used not only for internal assessment but also for peer review and external evaluation.</p>\r\n<p>The ITE method was developed specifically for workplace communities in the social welfare and health care services. The method is suitable for parallel use with other evaluations and standards.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":13,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 08:05:59",
+			"name":"Age management definition",
+			"parent":8,
+			"papers":"",
+			"content":"<p>When the organisation and management have accurate information about which things ageing affects and which things not, problems caused by ageing can be avoided. Information is also needed on how young and elderly people differ, and it must be established what prompts biased attitudes. Once accurate information is available in the organisation and there is a will to find constructive and effective solutions, the correct attitude to ageing employees has been found.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":12,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 08:05:29",
+			"name":"Human impact assessment",
+			"parent":7,
+			"papers":"",
+			"content":"<p>Human impact assessment (HIA) is a process whose purpose is to anticipate significant impacts on human health and wellbeing that would be caused by the implementation of particular projects, plans or decisions.</p>\r\n<p>Unlike conventional evaluations, HIA is anticipatory by nature, as it involves assessing the potential impact of a project still at the planning stage. Participation is considered an important part of the information production process required for this assessment. All interest groups whom the project would affect must be involved in the assessment.</p>\r\n<p>HIA is a tool for planning and decision-making, and it can help find new perspectives on the impact of decisions while bringing the current situation and target situations more clearly into focus. Considering options for solutions at the planning stage helps estimate the attainment of targets and weigh the pros and cons of the various options.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":11,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 08:05:10",
+			"name":"Supervisor coaching",
+			"parent":6,
+			"papers":"",
+			"content":"<p>Supervisor coaching is a development method suitable for the supervisor team or management group in an organisation. Supervisor coaching may consist for instance of workplace seminars bringing the group members together several times in the course of a year. The extent of the development project and the scope and content of the supervisor coaching are determined by the nature of the proposed change in the organisation.</p>\r\n<p>The purpose of the coaching programme is to increase the participants&rsquo; understanding of the nature of leadership, to clarify the role of the supervisor and to support supervisors in their duties while providing them with the faculties needed for their day-to-day management of personnel and the workplace community.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":10,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 08:04:48",
+			"name":"Benchmarking",
+			"parent":5,
+			"papers":"",
+			"content":"<p>Benchmarking may be defined in various ways, and there are different descriptions of its content, such as &lsquo;influence analysis&rsquo;, &lsquo;comparative analysis&rsquo; and &lsquo;comparative development&rsquo;.<strong></strong></p>\r\n<p>&nbsp;It is also referred to as &lsquo;peer review&rsquo;. The concept of &lsquo;benchmarking&rsquo; is, however, well-established enough to be unambiguous.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":8,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-18 08:01:32",
+			"name":"Balanced Scorecard",
+			"parent":1,
+			"papers":"",
+			"content":"<p>Balanced Scorecard (BSC) is a system for coordinating corporate strategy and structure; it can be used as a conventional measurement system, but a more advanced application is to use it as a strategic management system.</p>",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":3,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"methods/Tunneaelyjohtaminen_muutoksessa1.pdf",
+			"last_updated":"2011-12-17 06:35:01",
+			"name":"Tunne\u00e4ly johtamisessa",
+			"parent":3,
+			"papers":"",
+			"content":"Salovey ja Mayer ovat ensimm\u00e4isi\u00e4 tunne\u00e4lyteorian kehitt\u00e4ji\u00e4. Heid\u00e4n m\u00e4\u00e4ritelm\u00e4ns\u00e4 mukaan tunne\u00e4ly jakautuu eri osa-alueisiin, joita ovat omien tunteiden tiedostaminen ja hallitseminen, omien tunteiden valjastaminen tietyn p\u00e4\u00e4m\u00e4\u00e4r\u00e4n saavuttamiseksi, toisten tunteiden havaitseminen sek\u00e4 muiden tunteiden hallinta. Teorian mukaan yksil\u00f6 voi vaikuttaa omalla toiminnallaan reagointitapoihinsa, koska tunne\u00e4lyn taidot ovat p\u00e4\u00e4asiassa opittuja tapoja.\r\n\r\nGolemanin m\u00e4\u00e4ritelm\u00e4n mukaan tunne\u00e4lyn osa-alueita ovat itsetuntemus, motivoituminen, itsehallinta, empatia ja ihmissuhteiden hoito. Tunne\u00e4ly on kyky\u00e4 hallita omia tunteita ja ymm\u00e4rt\u00e4\u00e4 toisen tunteita. Tunne\u00e4lykk\u00e4\u00e4t henkil\u00f6t omaavat sopeutumis- ja paineensietokyky\u00e4 sek\u00e4 hallitsevat omaa hyvinvointiaan. Lis\u00e4ksi intrapersoonalliset- ja interpersoonalliset piirteet ovat tunne\u00e4lykk\u00e4ill\u00e4 henkil\u00f6ill\u00e4 vahvoja. Intrapersoonallisilla piirteill\u00e4 tarkoitetaan mm. itsetuntemusta ja interpersoonallisilla piirteill\u00e4 mm. empatiaa, eli kyky\u00e4 lukea toisten asia- ja tunneviestej\u00e4.",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":5,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-17 06:35:01",
+			"name":"Learning Cafe",
+			"parent":4,
+			"papers":"",
+			"content":"Learning Cafe is a working method, where the aim is to learn together. The general idea is that the work is carried out dialogically, so that every participant can bring out their own ideas. It is essential to the production of ideas and groups them together reflektoiden as well as the further development of ideas. (HAMK 2006; Kupias 2007.) Learning Cafe is translated, for example oppimiskahvilaksi (Kupias 2007). The central idea of \u200b\u200bthe method is that it can be used to share experiences, create new knowledge and build a common vision. Learning Cafe is a working method, which allows suurikokoinenkin group to work together and to develop and evolve. This is accomplished by activating the small groups. (Lake Side, Nyk\u00e4nen & Rajala, 2010; cf. Peltola, 2010.)",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":4,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"methods/Ohjeet_Learning_cafen_eteneminen.pdf",
+			"last_updated":"2011-12-17 06:35:01",
+			"name":"Learning Cafe",
+			"parent":4,
+			"papers":"",
+			"content":"Learning Cafe on ty\u00f6skentelymenetelm\u00e4, jossa on tavoitteena oppia yhdess\u00e4. Perusajatuksena on, ett\u00e4 ty\u00f6skentely tapahtuu dialogisesti siten, ett\u00e4 jokainen osallistuja voi tuoda esiin omat ajatuksensa. Oleellista on my\u00f6s ideoiden tuottaminen ryhmiss\u00e4 ja niit\u00e4 yhdess\u00e4 reflektoiden sek\u00e4 ideoiden edelleen kehitt\u00e4minen. (HAMK 2006; Kupias 2007.) Learning Cafe on suomennettu esimerkiksi oppimiskahvilaksi (Kupias 2007). Menetelm\u00e4n keskeisen\u00e4 ajatuksena onkin, ett\u00e4 sen avulla voidaan jakaa kokemuksia, luodaan uutta tietoa ja rakennetaan yhteist\u00e4 n\u00e4kemyst\u00e4. Learning Cafe on ty\u00f6skentelymenetelm\u00e4, jonka avulla suurikokoinenkin ryhm\u00e4 saadaan toimimaan ja yhdess\u00e4 kehitt\u00e4m\u00e4\u00e4n sek\u00e4 kehittym\u00e4\u00e4n. T\u00e4m\u00e4 onnistuu aktivoimalla pienryhmi\u00e4. (J\u00e4rvensivu, Nyk\u00e4nen & Rajala 2010; vrt. Peltola 2010.)",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":9,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-17 06:35:01",
+			"name":"Hoc ca phe?",
+			"parent":4,
+			"papers":"",
+			"content":"",
+			"theses":"",
+			"language_code":"vi"
+		}
+	},
+	{
+		"pk":6,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-17 06:35:01",
+			"name":"Emotional intelligence leadership",
+			"parent":3,
+			"papers":"",
+			"content":"Salovey and Mayer are the first tunne\u00e4lyteorian developers. According to their definition of emotional intelligence is divided into different areas, which have their own emotional awareness and control of, their own emotions work for a certain goal, the detection of other emotions and other feelings of control. The theory is that individuals can influence their own actions or procedures to react, because the emotional intelligence skills are primarily learned ways.\r\n\r\nGoleman defines emotional intelligence aspects of the self-knowledge, motivation, self-control, empathy, and interpersonal therapy. Emotional intelligence is the ability to manage their own feelings and understand another's feelings. Feel Smart people possess the adaptability and resilience to pressure and control their own well-being. In addition, intrapersoonalliset and on the personality traits are tunne\u00e4lykk\u00e4ill\u00e4 people strong. Intrapersoonallisilla features of the purposes for example. self-awareness and interpersonal features of mm. empathy, ie the ability to read other factual and emotional messages.",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":2,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-17 06:35:01",
+			"name":"360\u02da-arviointi",
+			"parent":2,
+			"papers":"",
+			"content":"360\u02da-arviointia k\u00e4ytet\u00e4\u00e4n esimerkiksi johtamisty\u00f6n tehokkuuden kehitt\u00e4miseen sek\u00e4 henkil\u00f6st\u00f6n arviointiin ja yhteisty\u00f6taitojen kehitt\u00e4miseen. Arviointia k\u00e4ytet\u00e4\u00e4n joissain tapauksissa my\u00f6s yleisten ty\u00f6el\u00e4m\u00e4taitojen eli niin sanottujen metataitojen kehitt\u00e4miseen, mutta yleisin sovellus menetelm\u00e4n k\u00e4yt\u00f6st\u00e4 on johtamisen kehitt\u00e4minen. ",
+			"theses":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":7,
+		"model":"entry.methodtranslation",
+		"fields":{
+			"full":"",
+			"last_updated":"2011-12-17 06:35:01",
+			"name":"360\u02da assessment",
+			"parent":2,
+			"papers":"",
+			"content":"360\u02da assessment will be used, for example the work of the effectiveness of management development and personnel evaluation, and cooperation skills. Assessment is used in some cases, the general workplace skills, the so-called meta-skills development, but the most common method of application is the use of leadership development.",
+			"theses":"",
+			"language_code":"en"
+		}
+	},
+	{
+		"pk":1,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":2,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":3,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":4,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":5,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":6,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":7,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":8,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":9,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":10,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":11,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":12,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":13,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":14,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":15,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":16,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":17,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":18,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":19,
+		"model":"entry.method",
+		"fields":{}
+	},
+	{
+		"pk":4,
+		"model":"entry.instructiontranslation",
+		"fields":{
+			"last_updated":"2011-12-18 07:06:25",
+			"parent":4,
+			"instruction":"",
+			"experience":"<p>Mitk&auml; ovat olleet menetelm&auml;&auml;/ty&ouml;kalua k&auml;ytt&auml;vien hankkeiden p&auml;&auml;kehityskohteet ja tavoitteet? prosessien kehitt&auml;minen jaetun johtajuuden mallin kehitt&auml;minen muutoksen johtaminen hiljaisen tiedon esiin tuominen ty&ouml;ss&auml; jaksamisen lis&auml;&auml;ntyminen oman osaamisen ja tiet&auml;myksen esiin tuominen Miss&auml; kehitt&auml;misprosessin vaiheessa menetelm&auml;&auml;/ty&ouml;kalua on k&auml;ytetty? muutosvaiheen toteuttamisen aikana ty&ouml;yhteis&ouml;ss&auml; motivaation lis&auml;&auml;miseksi prosessin aikana Onko menetelm&auml;&auml;/ty&ouml;kalua k&auml;ytetty ongelman analysointiin vai ratkaisun kehitt&auml;miseen? ratkaisun kehitt&auml;miseksi ja motivaation lis&auml;&auml;miseksi mahdollistaa suuressa ryhm&auml;ss&auml; tapahtuvan analyysi- tai tavoitteenasetantaprosessin Mit&auml; muita menetelmi&auml;/ty&ouml;kaluja on k&auml;ytetty t&auml;m&auml;n menetelm&auml;n kanssa aihepiirin projekteissa? prosessikonsultointi workshopit Tuplatiimi Miten ko. menetelm&auml;&auml; k&auml;ytt&auml;neet hankkeet kuvaavat onnistumistaan kehitt&auml;misess&auml;? Miten onnistumista on mitattu? Mik&auml; muuttui? menetelm&auml;ll&auml; saadaan ker&auml;tty&auml; nopeasti ja laajasti n&auml;kemyksi&auml; valituista teemoista toisessa hankkeessa uusi jaetun johtajuuden malli on otettu k&auml;ytt&ouml;&ouml;n ja toiminnan on kuvattu olevan avoimempaa ja l&auml;pin&auml;kyv&auml;mp&auml;&auml; onnistumista on mitattu henkil&ouml;st&ouml;kyselyjen sek&auml; asiakaspalautteista saadun tiedon avulla onnistumista on mitattu my&ouml;s laadun arvioinnin perusteella TUTKIJAN ARVIOINTI: Miten toimiva menetelm&auml;/ty&ouml;kalu on ollut aihepiirin projekteissa? Mik&auml; muu menetelm&auml;/ty&ouml;kalu olisi voinut tulla kyseeseen? menetelm&auml; on ollut eritt&auml;in toimiva erilaiset ryhm&auml;ty&ouml;menetelm&auml;t, joissa koko henkil&ouml;st&ouml; sitoutetaan toimimaan yhteisen tavoitteen saavuttamiseksi, olisivat olleet mahdollisia (esim. world cafe) Mit&auml; on otettava huomioon menetelm&auml;n/ty&ouml;kalun k&auml;yt&ouml;ss&auml;? Onnistumisen edellytykset? riitt&auml;v&auml;n suuri m&auml;&auml;r&auml; osallistujia riitt&auml;v&auml;sti aikaa toteutukselle selke&auml;t keskustelun aiheet, jotta keskustelua syntyy helposti tiedon v&auml;litt&auml;minen osallistujille mihin keskusteluilla pyrit&auml;&auml;n ja mihin niit&auml; k&auml;ytet&auml;&auml;n jatkossa kaikkien mahdollisuus osallistua ja tuoda esiin mielipiteens&auml; d okumentoinnin t&auml;rkeys d okumentoinnin j&auml;lkeen asia vied&auml;&auml;n koko ty&ouml;yhteis&ouml;n tietoon</p>",
+			"theses":"",
+			"papers":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":3,
+		"model":"entry.instructiontranslation",
+		"fields":{
+			"last_updated":"2011-12-17 06:35:01",
+			"parent":3,
+			"instruction":"",
+			"experience":"",
+			"theses":"",
+			"papers":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":2,
+		"model":"entry.instructiontranslation",
+		"fields":{
+			"last_updated":"2011-12-17 06:35:01",
+			"parent":2,
+			"instruction":"instructions/Ohjeet__360_asteen_arvioinnista.pdf",
+			"experience":"",
+			"theses":"",
+			"papers":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":1,
+		"model":"entry.instructiontranslation",
+		"fields":{
+			"last_updated":"2011-12-17 06:35:01",
+			"parent":1,
+			"instruction":"instructions/Menetelmakortti_balanced_scorecard_ohjeet2.pdf",
+			"experience":"What have been the BSC to use p\u00e4\u00e4kehityskohteet projects and goals?\r\n\r\nThe development of strategic planning\r\nQuality, competitiveness, and performance development\r\nDevelop metrics and reporting, and anchoring systems approach to assess effectiveness.\r\nImprove the organization's services and to develop the productivity of work\r\nTo create a staff of well-being of a sturdy set of operations\r\nImplementation of the strategy work\r\nWhere the development stage of the process tool is used for?\r\n\r\nBSC's development process, the first cord is sitoutettava project, after which the company's mission, vision and strategy will be clarified. When a company's critical success factors have been identified such as SWOT analysis, bencmarkingilla, the current state of analysis, so it will then be discussed BSChen perspectives to be taken, and the selection of indicators, figuring out the cause-effect relationships, etc. BSCn meters and complete pruning done ever since the whole development process. \r\n\r\nWhat other tools or methods have been used this tool with the theme in this project?\r\n\r\nRisk Analysis\r\nMapping the atmosphere\r\nEPQM\r\nCurrent state analysis\r\n Labour\r\nHow effective method / tool has been the theme projects?\r\n\r\nBSC's use of management and strategy implementation tool is perceived positively, inter alia, to:\r\n\r\nObjectives of the organization, planning and implementation have become clearer\r\n The organization's success factors have come out well\r\nUsing the BSC to as part of the EFQM methodology has been improved the quality of operations.\r\nAlso negatiisia user experiences found:\r\n\r\nIt was felt that the staff it requires new thinking and approach to issues\r\nTakes hours of work by other tasks\r\nDesign a comprehensive strategy to derive the contribution would be too large\r\nWhat is taken into account in the tool use? Conditions for success?\r\n\r\n BSC project, the key to the success of particular note\r\n\r\n top management support\r\nthe organization has to be convinced of the importance of the project\r\n the company's strategic objectives must be clearly defined before the start of the BSC project\r\n Meters must lead the company's strategy\r\n staff are included in the BSC project\r\ndeployment must be observed that in the beginning of the causal relationships are indicative\r\ncausal relationships are tested during the project implementation through learning\r\ndeployment is insufficient emphasis on education, communication and information\r\nIf the BSC project can be implemented through piloting, so the company is constantly called into question its strategy and control measures will be considered as a tool.",
+			"theses":"",
+			"papers":"",
+			"language_code":"fi"
+		}
+	},
+	{
+		"pk":1,
+		"model":"entry.instruction",
+		"fields":{
+			"topic":1,
+			"method":1
+		}
+	},
+	{
+		"pk":2,
+		"model":"entry.instruction",
+		"fields":{
+			"topic":1,
+			"method":2
+		}
+	},
+	{
+		"pk":3,
+		"model":"entry.instruction",
+		"fields":{
+			"topic":1,
+			"method":3
+		}
+	},
+	{
+		"pk":4,
+		"model":"entry.instruction",
+		"fields":{
+			"topic":1,
+			"method":4
+		}
+	}
+]

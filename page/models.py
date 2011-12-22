@@ -1,6 +1,6 @@
 from django.core.urlresolvers import reverse
 from django.db import models
-from multilingual_model.models import MultilingualModel, MultilingualTranslation
+from translation.models import MultilingualModel, MultilingualTranslation
 # Create your models here.
 class PageTranslation(MultilingualTranslation):
 	parent = models.ForeignKey("Page", related_name="translations")

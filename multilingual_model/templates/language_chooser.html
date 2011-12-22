@@ -1,7 +1,0 @@
-{% for lang in LANGUAGES reversed %}
-	<form id="language_chooser" class="inline right" action="{% url set_language %}" method="post">
-		{% csrf_token %}
-		<div style='display:none'><input type='hidden' name='language' value="{{ lang.0 }}"/></div>
-		<input type="image" src="{{ MEDIA_URL }}theme/{{ lang.0 }}.png"/>
-	</form>
-{% endfor %}

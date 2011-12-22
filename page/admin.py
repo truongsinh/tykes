@@ -1,6 +1,6 @@
 from django.contrib import admin
 from page.models import PageTranslation, Page, Attachment
-from multilingual_model.admin import TranslationInline
+from translation.admin import TranslationInline
 from settings import MEDIA_URL
 
 class AttachmentInline(admin.TabularInline):
