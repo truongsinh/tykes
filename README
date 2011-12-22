@@ -13,7 +13,25 @@ Native disappointment:
 [*]Search
 
 Bugs:
-[*] Pagination in search
+[*]Pagination in search
+[*]Feedback only for registered
+[*]Switching between front and back
+[*]File browser
+[*]Cross-browser compatibility
+	[*]Firefox
+	[*]IE
+	[*]Chrome
+	[*]Mobile?
+		[*]
+	[*]
+		[*]Tablet
+
+Low priority:
+[*]Javascript un-supported
+
+[*]Different feedback email
+
+TODO: British
 
 Search engine:
 Outsource (Google, Bing...)

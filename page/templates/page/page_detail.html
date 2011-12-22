@@ -1,6 +1,8 @@
 {% extends "layout.html" %}
 {% load i18n %}
 {% block content %}
+	{% if user.is_authenticated %}
 	<div id="edit" class="right"><a href="{{ page.admin_url }}">[{% trans "Change" %}]</a></div>
+	{% endif %}
 	{{ page.content }}
 {% endblock %}

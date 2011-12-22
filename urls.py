@@ -22,6 +22,6 @@ urlpatterns += patterns('',
 	url(r'^tykes/language/', 'django.views.i18n.set_language', name="set_language"),
 	url(r'^tykes/', include('entry.urls')),
 	url(r'^feedback/', include('django_basic_feedback.urls'), name="feedback"),
-	url(r'^tykes/p/', include('page.urls')),
+	url(r'^tykes/', include('page.urls')),
 
 )
