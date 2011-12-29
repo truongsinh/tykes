@@ -1,17 +1,17 @@
 ﻿BODY {
-    background-color: #FFF;
-    height: auto;
-    left: 250px;
-    width: 800px;
+	text-align: center;
 
+}
+#body {
+	margin: 0 auto;
+	width: 800px;
+	text-align:left;
 }
 
 BODY, TABLE TD {
     margin: 0;
     padding: 0;
     font: 11px Verdana, Tahoma, Arial, Helvetica, sans-serif;
-    color: #000;
-    background: center;
     border-spacing: 0px 0px;
 }
 
