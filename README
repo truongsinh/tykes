@@ -43,5 +43,5 @@ pil
 chgrp -R truongsinh ~/
 find ~/ -xdev -user truongsinh -group truongsinh -type d -print -exec chmod +s {} \;
 
-rsync -azvP --delete --delete-excluded --exclude=.git --exclude=data --exclude=static --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
-rsync -azvP --delete --delete-excluded --exclude=.git --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
+rsync -azvP --delete --exclude=.git --exclude=data --exclude=static --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
+rsync -azvP --delete --exclude=.git --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
