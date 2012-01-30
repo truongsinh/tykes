@@ -106,6 +106,7 @@ a.selector-clearall {
     background: url(../img/admin/selector-removeall.gif) left center no-repeat;
 }
 
+
 /* STACKED SELECTORS */
 
 .stacked {
@@ -153,6 +154,7 @@ a.selector-clearall {
 .stacked .selector-remove {
     background-image: url(../img/admin/selector_stacked-remove.gif);
 }
+
 
 /* DATE AND TIME */
 

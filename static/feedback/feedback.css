@@ -4,6 +4,7 @@
 	left: 0;
 	top: 10px;
 	z-index: 100;
+	display: inline;
 }
 #feedback_tab
 {
@@ -19,7 +20,7 @@
 #feedback_tab button
 {
 	height: 30px;
-	width: 95px;
+	width: 100px;
 	padding-top: 3px;
 	padding-bottom: 8px;
 	padding-right: 10px;

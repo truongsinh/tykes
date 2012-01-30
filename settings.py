@@ -4,42 +4,42 @@ hostname = socket.gethostname()
 if hostname == 'truongsinh-HP-Compaq-6520s':
 	DEBUG = TEMPLATE_DEBUG = True
 	PROJECT_ROOT = "/home/truongsinh/Dropbox/Sites/tykes/"
-	BASE_PATH = "tykes/"
-	BASE_URL = "http://localhost:8000/tykes/"
+	BASE_PATH = ""
+	BASE_URL = "http://localhost:9000/"
 	DATABASES = {
 		'default': {
 			'ENGINE': 'django.db.backends.sqlite3',
-			'NAME': os.path.join(PROJECT_ROOT, 'data/sqlite3'),
+			'NAME': os.path.join(PROJECT_ROOT, 'data/.sqlite3'),
 
 			}
 	}
 elif hostname == 'TruongSinh-Hackintosh.local':
 	DEBUG = TEMPLATE_DEBUG = True
 	PROJECT_ROOT = "/Users/truongsinh/Sites/tykes/"
-	BASE_PATH = "tykes/"
-	BASE_URL = "http://localhost:8000/tykes/"
+	BASE_PATH = ""
+	BASE_URL = "http://localhost:9000/"
 	DATABASES = {
 		'default': {
 			'ENGINE': 'django.db.backends.sqlite3',
-			'NAME': os.path.join(PROJECT_ROOT, 'data/sqlite3'),
+			'NAME': os.path.join(PROJECT_ROOT, 'data/.sqlite3'),
 			}
 	}
 elif hostname == 'thanh-N61Jv':
 	DEBUG = TEMPLATE_DEBUG = True
 	PROJECT_ROOT = "/home/thanh/Sites/tykes/"
-	BASE_PATH = "tykes/"
-	BASE_URL = "http://localhost:8000/tykes/"
+	BASE_PATH = ""
+	BASE_URL = "http://localhost:9000/"
 	DATABASES = {
 		'default': {
 			'ENGINE': 'django.db.backends.sqlite3',
-			'NAME': os.path.join(PROJECT_ROOT, 'data/sqlite3'),
+			'NAME': os.path.join(PROJECT_ROOT, 'data/.sqlite3'),
 			}
 	}
 elif hostname == 'sarir':
 	DEBUG = TEMPLATE_DEBUG = True
 	PROJECT_ROOT = "/home/truongsinh/root/tykes/"
-	BASE_PATH = "tykes/"
-	BASE_URL = "http://sinhlinh.net:9000/tykes/"
+	BASE_PATH = ""
+	BASE_URL = "http://sinhlinh.net:9000/"
 	DATABASES = {
 		'default': {
 			#	'''
@@ -52,7 +52,7 @@ elif hostname == 'sarir':
 			#	'''
 			'ENGINE': 'django.db.backends.sqlite3',
 			# Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-			'NAME': '/home/truongsinh/root/tykes/data/sqlite3',
+			'NAME': '/home/truongsinh/root/tykes/data/.sqlite3',
 			'USER': 'truongsinh', # Not used with sqlite3.
 			'PASSWORD': '&', # Not used with sqlite3.
 			'HOST': 'db.doraemontimes.com', # Set to empty string for localhost. Not used with sqlite3.
@@ -109,23 +109,23 @@ os.path.join(PROJECT_ROOT, 'fixtures/'),
 )
 # Absolute filesystem path to the directory that will hold user-uploaded files.
 # Example: "/home/media/media.lawrence.com/media/"
-MEDIA_ROOT = os.path.join(PROJECT_ROOT, 'static/')
+MEDIA_ROOT = os.path.join(PROJECT_ROOT, 'data/')
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash.
 # Examples: "http://media.lawrence.com/media/", "http://example.com/media/"
-MEDIA_URL = "%s%s" % (BASE_URL, "static/")
+MEDIA_URL = "%s%s" % (BASE_URL, "data/")
 
 # Absolute path to the directory static files should be collected to.
 # Don't put anything in this directory yourself; store your static files
 # in apps' "static/" subdirectories and in STATICFILES_DIRS.
 # Example: "/home/media/media.lawrence.com/static/"
-#STATIC_ROOT = os.path.join(PROJECT_ROOT, 'static/')
+STATIC_ROOT = os.path.join(PROJECT_ROOT, 'static/')
 
 # URL prefix for admin static files -- CSS, JavaScript and images.
 # Make sure to use a trailing slash.
 # Examples: "http://foo.com/static/admin/", "/static/admin/".
-ADMIN_MEDIA_PREFIX = '/tykes/static/admin/'
+ADMIN_MEDIA_PREFIX = '/static/admin/'
 
 # Additional locations of static files
 STATICFILES_DIRS = (
@@ -160,6 +160,7 @@ MIDDLEWARE_CLASSES = (
 	'django.contrib.auth.middleware.AuthenticationMiddleware',
 	'django.contrib.messages.middleware.MessageMiddleware',
 	'django.middleware.locale.LocaleMiddleware',
+	#'django_pyjamas.PyjamasMiddleware',
 
 	)
 
@@ -182,8 +183,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 
 # URL prefix for static files.
 # Example: "http://media.lawrence.com/static/"
-#STATIC_URL = "%s%s" % (BASE_URL, "static/")
-STATIC_URL = "http://media.lawrence.com/static/"
+STATIC_URL = "%s%s" % (BASE_URL, "static/")
 INSTALLED_APPS = (
 	'django.contrib.auth',
 	'django.contrib.contenttypes',
@@ -201,6 +201,7 @@ INSTALLED_APPS = (
 	'feedback',
 	'captcha',
 	'page',
+	'ckeditor',
 	)
 
 # A sample logging configuration. The only tangible logging
@@ -239,3 +240,6 @@ HAYSTACK_CONNECTIONS = {
 		'PATH': os.path.join(PROJECT_ROOT, 'data/index'),
 		},
 }
+
+CKEDITOR_MEDIA_PREFIX = "/static/ckeditor/"
+CKEDITOR_UPLOAD_PATH = os.path.join(PROJECT_ROOT, 'data/media/')
