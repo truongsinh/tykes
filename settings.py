@@ -3,7 +3,7 @@ import socket
 hostname = socket.gethostname()
 if hostname == 'truongsinh-HP-Compaq-6520s':
 	DEBUG = TEMPLATE_DEBUG = True
-	PROJECT_ROOT = "/home/truongsinh/Dropbox/Sites/tykes/"
+	PROJECT_ROOT = "/home/truongsinh/Code/tykes/"
 	BASE_PATH = ""
 	BASE_URL = "http://localhost:9000/"
 	DATABASES = {

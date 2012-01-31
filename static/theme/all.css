@@ -393,3 +393,7 @@ form {
 	width: 24px;
 	height: 24px;
 }
+#footer {
+    text-align: center;
+    margin: 24px;
+}
