@@ -50,7 +50,7 @@ BODY, TABLE TD {
 }
 
 #searchSubmit {
-    background: url('/tykes/static/theme/search.png') no-repeat left;
+    background: url('/static/theme/search.png') no-repeat left;
     height: 18px;
     width: 18px;
     position: relative;
@@ -87,7 +87,7 @@ BODY, TABLE TD {
 /* Navigaatio */
 
 #navicolumn {
-    background: transparent url('/tykes/static/theme/lamk_navi_bg.gif') repeat-y;
+    background: transparent url('/static/theme/lamk_navi_bg.gif') repeat-y;
     width: 192px;
 
 }
@@ -102,7 +102,7 @@ BODY, TABLE TD {
 #navi, #navi2 {
     width: 187px;
 
-    background: url('/tykes/static/theme/lamk_navi_menu_bg.gif') repeat-y 0 0;
+    background: url('/static/theme/lamk_navi_menu_bg.gif') repeat-y 0 0;
     left: auto;
     margin-left: 5px;
     padding-top: 2px;
@@ -303,7 +303,7 @@ td {
     display: table-cell;
     vertical-align: middle;
     text-align: right;
-    background: url('/tykes/static/theme/mail.jpg') no-repeat;
+    background: url('/static/theme/mail.jpg') no-repeat;
     background-position: 10 0;
 }
 
@@ -392,4 +392,8 @@ form {
 .flag {
 	width: 24px;
 	height: 24px;
+}
+#footer {
+    text-align: center;
+    margin: 24px;
 }

@@ -1,9 +1,35 @@
 {% load i18n %}
+<!-- TODO: Goddamn IE! -->
+<style type="text/css">
+	#feedback_widget {
+		/* Netscape 4, IE 4.x-5.0/Win and other lesser browsers will use this */
+		position: absolute;
+		/* TODO: overlay main
+		right: 20px; bottom: 10px;
+		*/
+	}
+	body > div#feedback_widget {
+		/* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
+		position: fixed;
+	}
+</style>
+<!--[if gte IE 5.5]>
+<![if lt IE 7]>
+<style type="text/css">
+div#feedback_widget {
+  /* IE5.5+/Win - this is more specific than the IE 5.0 version */
+  right: auto; bottom: auto;
+  left: expression( ( -20 - feedback_widget.offsetWidth + ( document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.clientWidth ) + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+  top: expression( ( -10 - feedback_widget.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+</style>
+<![endif]>
+<![endif]-->
 <div id="feedback_widget">
 	<div id="feedback_tab" class="feedback_toggle">
 		<button type="button">{% trans 'Feedback' %}</button>
 	</div>
-	<div class="feedback_toggle" id="feedback_panel">
+	<div id="feedback_panel" class="feedback_toggle">
 		<p>{% trans 'Please provide feedback about this page:' %}</p>
 		<form id="feedback_form" method="post" action="{% url feedback %}">
 			{% csrf_token %}
