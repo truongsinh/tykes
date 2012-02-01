@@ -49,3 +49,9 @@ rsync -azvP --delete --exclude=.git --exclude=data --exclude=.idea /Users/truong
 rsync -azvP --delete --exclude=.git --exclude=data --exclude=.idea /home/truongsinh/Code/tykes sinhlinh.net:root
 
 ssh tykes@sinhlinh.net killall python
+
+
+
+rsync -azvP --delete --exclude=.git --exclude=data --exclude=.idea /home/truongsinh/Code/tykes sinhlinh.net:root \
+&& ssh tykes@sinhlinh.net killall python \
+&& git push
