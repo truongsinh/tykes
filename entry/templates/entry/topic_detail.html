@@ -21,6 +21,7 @@
 	{% endif %}
 	{% if topic.instructions.all %}
 	<h1>{% trans "The following methods were used under this topic:" %}</h1>
+	<div style="width:477px; height:1px; border-bottom:1px solid #DEE9EC"></div>
 	{% for instruction in topic.instructions.all %}
 		<div>
 		{% if user.is_authenticated %}
@@ -28,6 +29,7 @@
 		{% endif %}
 		<h2>{{ instruction.method.link }}</h2>
 		</div>
+		<ul style="margin-left: 50px">
 		{% if instruction.instruction %}
 			<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
 		{% endif %}
@@ -40,6 +42,8 @@
 		{% if instruction.papers %}
 			<li><a href="{{ instruction.papers }}">{% trans "Papers related to this instruction" %}</a></li>
 		{% endif %}
+		</ul>
+		<div style="width:477px; height:1px; border-bottom:1px solid #DEE9EC"></div>
 	{% endfor %}
 	{% endif %}
 {% endblock %}

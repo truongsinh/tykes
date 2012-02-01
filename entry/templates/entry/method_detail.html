@@ -24,7 +24,7 @@
 	{% endif %}
 	{% if method.instructions.all %}
 	<h1>{% trans "This method was used for development under these topics:" %}</h1>
-	<ul>
+	<div style="width:477px; height:1px; border-bottom:1px solid #DEE9EC"></div>
 		{% for instruction in method.instructions.all %}
 			<div>
 				{% if user.is_authenticated %}
@@ -32,20 +32,21 @@
 				{% endif %}
 				<h2>{{ instruction.topic.link }}</h2>
 			</div>
+			<ul style="margin-left: 50px">
 			{% if instruction.instruction %}
 				<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
 			{% endif %}
 			{% if instruction.experience %}
 			<li><a href="{{ instruction.url }}">{% trans "Experiences of applying the method" %}</a></li>
 			{% endif %}
-			
-		{% if instruction.theses %}
-			<li><a href="{{ instruction.theses }}">{% trans "Theses related to this instruction" %}</a></li>
-		{% endif %}
-		{% if instruction.papers %}
-			<li><a href="{{ instruction.papers }}">{% trans "Papers related to this instruction" %}</a></li>
-		{% endif %}
+			{% if instruction.theses %}
+				<li><a href="{{ instruction.theses }}">{% trans "Theses related to this instruction" %}</a></li>
+			{% endif %}
+			{% if instruction.papers %}
+				<li><a href="{{ instruction.papers }}">{% trans "Papers related to this instruction" %}</a></li>
+			{% endif %}
+			</ul>
+			<div style="width:477px; height:1px; border-bottom:1px solid #DEE9EC"></div>
 		{% endfor %}
-	</ul>
 	{% endif %}
 {% endblock %}

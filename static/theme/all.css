@@ -318,6 +318,7 @@ h1 {
 /*h1 { font: normal 22px Georgia, "georgia", "Times New Roman", Times, serif; padding: 0; color: #06315B; }*/
 h2, h2 a {
     font: normal normal 17px Georgia, "georgia", "Times New Roman", Times, serif;
+    margin-left: 20px;
     color: #29250B;
     padding-top: 10px;
 }
