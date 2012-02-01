@@ -17,10 +17,16 @@
 	<h1>{% trans "Papers related to this method" %}</h1>
 	<p>{{ method.papers }}</p>
 	{% endif %}
+	{% if user.is_authenticated %}
+		<div id="edit" class="right"><a href="{% url admin:entry_instruction_add %}">[{% trans "Add more instructions" %}]</a></div>
+	{% endif %}
 	{% if method.instructions.all %}
 	<h1>{% trans "This method was used for development under these topics:" %}</h1>
 	<ul>
 		{% for instruction in method.instructions.all %}
+			{% if user.is_authenticated %}
+				<div id="edit" class="right"><a href="{{ instruction.admin_url }}">[{% trans "Change" %}]</a></div>
+			{% endif %}
 			<h2>{{ instruction.topic.link }}</h2>
 			{% if instruction.instruction %}
 				<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
