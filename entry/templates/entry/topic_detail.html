@@ -27,7 +27,9 @@
 		{% if instruction.instruction %}
 			<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
 		{% endif %}
-		<li><a href="{{ instruction.url }}">{% trans "Method user experiences" %}</a></li>
+		{% if instruction.url %}
+			<li><a href="{{ instruction.url }}">{% trans "Experiences of applying the method" %}</a></li>
+		{% endif %}
 		{% if instruction.theses %}
 			<li><a href="{{ instruction.theses }}">{% trans "Theses related to this instruction" %}</a></li>
 		{% endif %}
