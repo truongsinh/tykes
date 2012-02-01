@@ -1,10 +1,12 @@
 {% extends "layout.html" %}
 {% load i18n %}
 {% block content %}
+	<div>
 	{% if user.is_authenticated %}
-		<div id="edit" class="right"><a href="{{ topic.admin_url }}">[{% trans "Change" %}]</a></div>
+		<div class="admin_tasks"><a href="{{ topic.admin_url }}">[{% trans "Change" %}]</a></div>
 	{% endif %}
 	<h1>{{ topic.name }}</h1>
+	</div>
 	<p>{{ topic.content }}</p>
 	{% if topic.theses %}
 	<h1>{% trans "Theses related to this topic" %}</h1>
@@ -15,19 +17,21 @@
 	<p>{{ topic.papers }}</p>
 	{% endif %}
 	{% if user.is_authenticated %}
-		<div id="edit" class="right"><a href="{% url admin:entry_instruction_add %}">[{% trans "Add more instructions" %}]</a></div>
+		<div class="admin_tasks"><a href="{% url admin:entry_instruction_add %}">[{% trans "Add more instructions" %}]</a></div>
 	{% endif %}
 	{% if topic.instructions.all %}
 	<h1>{% trans "The following methods were used under this topic:" %}</h1>
 	{% for instruction in topic.instructions.all %}
-		<h2>{{ instruction.method.link }}</h2>
+		<div>
 		{% if user.is_authenticated %}
-			<div id="edit" class="right"><a href="{{ instruction.admin_url }}">[{% trans "Change" %}]</a></div>
+			<div class="admin_tasks"><a href="{{ instruction.admin_url }}">[{% trans "Change" %}]</a></div>
 		{% endif %}
+		<h2>{{ instruction.method.link }}</h2>
+		</div>
 		{% if instruction.instruction %}
 			<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
 		{% endif %}
-		{% if instruction.url %}
+		{% if instruction.experience %}
 			<li><a href="{{ instruction.url }}">{% trans "Experiences of applying the method" %}</a></li>
 		{% endif %}
 		{% if instruction.theses %}

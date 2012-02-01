@@ -397,3 +397,6 @@ form {
     text-align: center;
     margin: 24px;
 }
+.admin_tasks {
+    float: right;
+}
