@@ -6,7 +6,7 @@ admin.autodiscover()
 urlpatterns = patterns('')
 if settings.DEBUG:
 	urlpatterns += patterns('django.views.static',
-		url(r'^data/(?P<path>.*)$', 'serve', {
+		url(r'^data/(?P<path>([a-zA-Z]*/.*))$', 'serve', {
 			'document_root': settings.MEDIA_ROOT,
 			'show_indexes': True,
 			}),
