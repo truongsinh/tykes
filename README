@@ -45,3 +45,16 @@ find ~/ -xdev -user truongsinh -group truongsinh -type d -print -exec chmod +s {
 
 rsync -azvP --delete --exclude=.git --exclude=data --exclude=static --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
 rsync -azvP --delete --exclude=.git --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
+rsync -azvP --delete --exclude=.git --exclude=data --exclude=.idea /Users/truongsinh/Sites/tykes sinhlinh.net:root
+rsync -azvP --delete --exclude=.git --exclude=data --exclude=.idea /home/truongsinh/Code/tykes sinhlinh.net:root
+
+rsync -azvP sinhlinh.net:root/tykes/data/ /home/truongsinh/Code/tykes/data/
+
+
+ssh tykes@sinhlinh.net killall python
+
+
+
+rsync -azvP --delete --exclude=.git --exclude=data --exclude=.idea /home/truongsinh/Code/tykes sinhlinh.net:root \
+&& ssh tykes@sinhlinh.net killall python \
+&& git push

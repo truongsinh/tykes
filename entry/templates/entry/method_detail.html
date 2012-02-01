@@ -1,10 +1,12 @@
 {% extends "layout.html" %}
 {% load i18n %}
 {% block content %}
+	<div>
 	{% if user.is_authenticated %}
-		<div id="edit" class="right"><a href="{{ method.admin_url }}">[{% trans "Change" %}]</a></div>
+		<div class="admin_tasks"><a href="{{ method.admin_url }}">[{% trans "Change" %}]</a></div>
 	{% endif %}
 	<h1>{{ method.name }}</h1>
+	</div>
 	<p>{{ method.content }}</p>
 	{% if method.full %}
 		<p><a href="{{ MEDIA_URL }}{{ method.full }}">{% trans "Read more ..." %}</a></p>
@@ -17,23 +19,34 @@
 	<h1>{% trans "Papers related to this method" %}</h1>
 	<p>{{ method.papers }}</p>
 	{% endif %}
+	{% if user.is_authenticated %}
+		<div class="admin_tasks"><a href="{% url admin:entry_instruction_add %}">[{% trans "Add more instructions" %}]</a></div>
+	{% endif %}
 	{% if method.instructions.all %}
 	<h1>{% trans "This method was used for development under these topics:" %}</h1>
-	<ul>
+	<div style="width:477px; height:1px; border-bottom:1px solid #DEE9EC"></div>
 		{% for instruction in method.instructions.all %}
-			<h2>{{ instruction.topic.link }}</h2>
+			<div>
+				{% if user.is_authenticated %}
+					<div class="admin_tasks"><a href="{{ instruction.admin_url }}">[{% trans "Change" %}]</a></div>
+				{% endif %}
+				<h2>{{ instruction.topic.link }}</h2>
+			</div>
+			<ul style="margin-left: 50px">
 			{% if instruction.instruction %}
 				<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
 			{% endif %}
+			{% if instruction.experience %}
 			<li><a href="{{ instruction.url }}">{% trans "Experiences of applying the method" %}</a></li>
-			
-		{% if instruction.theses %}
-			<li><a href="{{ instruction.theses }}">{% trans "Theses related to this instruction" %}</a></li>
-		{% endif %}
-		{% if instruction.papers %}
-			<li><a href="{{ instruction.papers }}">{% trans "Papers related to this instruction" %}</a></li>
-		{% endif %}
+			{% endif %}
+			{% if instruction.theses %}
+				<li><a href="{{ instruction.theses }}">{% trans "Theses related to this instruction" %}</a></li>
+			{% endif %}
+			{% if instruction.papers %}
+				<li><a href="{{ instruction.papers }}">{% trans "Papers related to this instruction" %}</a></li>
+			{% endif %}
+			</ul>
+			<div style="width:477px; height:1px; border-bottom:1px solid #DEE9EC"></div>
 		{% endfor %}
-	</ul>
 	{% endif %}
 {% endblock %}

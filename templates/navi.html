@@ -36,6 +36,15 @@
 	<tr>
 		<td id="opened"><a href="{% url admin:feedback_feedback_changelist %}" target="_blank">{% trans "Feedback" %} ({{ feedback_count }})</a></td>
 	</tr>
+	<tr>
+		<td id="opened"><a href="{% url admin:entry_method_add %}" target='blank'>{% trans "Add more methods" %}</a></td>
+	</tr>
+	<tr>
+		<td id="opened"><a href="{% url admin:entry_topic_add %}" target='blank'>{% trans "Add more topics" %}</a></td>
+	</tr>
+	<tr>
+		<td id="opened"><a href="{% url admin:entry_instruction_add %}" target='blank'>{% trans "Add more instructions" %}</a></td>
+	</tr>
 	{% endif %}
 	</tbody>
 </table>

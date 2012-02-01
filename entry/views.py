@@ -5,7 +5,13 @@ from entry.models import Topic, Method, Instruction
 
 class TopicList(ListView):
 	model = Topic
-	context_object_name = "topics"
+	# TODO: Language-level sorting
+	def get_context_data(self, **kwargs):
+		# Call the base implementation first to get a context
+		context = super(TopicList, self).get_context_data(**kwargs)
+		# Add in a QuerySet of all the books
+		context['topics'] = sorted(list(Topic.objects.all()),key=lambda a: a.name)
+		return context
 
 #return render_to_response('index.html')
 
@@ -14,20 +20,23 @@ class TopicDetail(DetailView):
 	model = Topic
 	context_object_name = "topic"
 	# Add list for Navigation
+	# TODO: Language-level sorting
 	def get_context_data(self, **kwargs):
 		# Call the base implementation first to get a context
 		context = super(TopicDetail, self).get_context_data(**kwargs)
 		# Add in a QuerySet of all the books
-		context['topics'] = Topic.objects.all()
+		context['topics'] = sorted(list(Topic.objects.all()), key=lambda a: a.name)
 		return context
 
 
 class MethodList(ListView):
 	model = Method
-	context_object_name = "methods"
-
+	# TODO: Language-level sorting
 	def get_context_data(self, **kwargs):
+		# Call the base implementation first to get a context
 		context = super(MethodList, self).get_context_data(**kwargs)
+		# Add in a QuerySet of all the books
+		context['methods'] = sorted(list(Method.objects.all()),key=lambda a: a.name)
 		'''
 		context['paths']=[
 			[reverse("home"), _("Home")],
@@ -40,9 +49,10 @@ class MethodList(ListView):
 class MethodDetail(DetailView):
 	model = Method
 	context_object_name = "method"
+	# TODO: Language-level sorting
 	def get_context_data(self, **kwargs):
 		context = super(MethodDetail, self).get_context_data(**kwargs)
-		context['methods'] = Method.objects.all()
+		context['methods'] = sorted(list(Method.objects.all()),key=lambda a: a.name)
 		return context
 
 

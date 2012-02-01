@@ -1,9 +1,13 @@
 var LATIN_MAP = {
-    'À':'A', 'Á':'A', 'Â':'A', 'Ã':'A', 'Ä':'A', 'Å':'A', 'Æ':'AE', 'Ç':'C', 'È':'E', 'É':'E', 'Ê':'E', 'Ë':'E', 'Ì':'I', 'Í':'I', 'Î':'I',
-    'Ï':'I', 'Ð':'D', 'Ñ':'N', 'Ò':'O', 'Ó':'O', 'Ô':'O', 'Õ':'O', 'Ö':'O', 'Ő':'O', 'Ø':'O', 'Ù':'U', 'Ú':'U', 'Û':'U', 'Ü':'U', 'Ű':'U',
-    'Ý':'Y', 'Þ':'TH', 'ß':'ss', 'à':'a', 'á':'a', 'â':'a', 'ã':'a', 'ä':'a', 'å':'a', 'æ':'ae', 'ç':'c', 'è':'e', 'é':'e', 'ê':'e', 'ë':'e',
-    'ì':'i', 'í':'i', 'î':'i', 'ï':'i', 'ð':'d', 'ñ':'n', 'ò':'o', 'ó':'o', 'ô':'o', 'õ':'o', 'ö':'o', 'ő':'o', 'ø':'o', 'ù':'u', 'ú':'u',
-    'û':'u', 'ü':'u', 'ű':'u', 'ý':'y', 'þ':'th', 'ÿ':'y'
+    'À': 'A', 'Á': 'A', 'Â': 'A', 'Ã': 'A', 'Ä': 'A', 'Å': 'A', 'Æ': 'AE', 'Ç':
+    'C', 'È': 'E', 'É': 'E', 'Ê': 'E', 'Ë': 'E', 'Ì': 'I', 'Í': 'I', 'Î': 'I',
+    'Ï': 'I', 'Ð': 'D', 'Ñ': 'N', 'Ò': 'O', 'Ó': 'O', 'Ô': 'O', 'Õ': 'O', 'Ö':
+    'O', 'Ő': 'O', 'Ø': 'O', 'Ù': 'U', 'Ú': 'U', 'Û': 'U', 'Ü': 'U', 'Ű': 'U',
+    'Ý': 'Y', 'Þ': 'TH', 'ß': 'ss', 'à':'a', 'á':'a', 'â': 'a', 'ã': 'a', 'ä':
+    'a', 'å': 'a', 'æ': 'ae', 'ç': 'c', 'è': 'e', 'é': 'e', 'ê': 'e', 'ë': 'e',
+    'ì': 'i', 'í': 'i', 'î': 'i', 'ï': 'i', 'ð': 'd', 'ñ': 'n', 'ò': 'o', 'ó':
+    'o', 'ô': 'o', 'õ': 'o', 'ö': 'o', 'ő': 'o', 'ø': 'o', 'ù': 'u', 'ú': 'u',
+    'û': 'u', 'ü': 'u', 'ű': 'u', 'ý': 'y', 'þ': 'th', 'ÿ': 'y'
 }
 var LATIN_SYMBOLS_MAP = {
     '©':'(c)'
@@ -40,8 +44,8 @@ var UKRAINIAN_MAP = {
     'Є':'Ye', 'І':'I', 'Ї':'Yi', 'Ґ':'G', 'є':'ye', 'і':'i', 'ї':'yi', 'ґ':'g'
 }
 var CZECH_MAP = {
-    'č':'c', 'ď':'d', 'ě':'e', 'ň':'n', 'ř':'r', 'š':'s', 'ť':'t', 'ů':'u',
-    'ž':'z', 'Č':'C', 'Ď':'D', 'Ě':'E', 'Ň':'N', 'Ř':'R', 'Š':'S', 'Ť':'T',
+    'č':'c', 'ď':'d', 'ě':'e', 'ň': 'n', 'ř':'r', 'š':'s', 'ť':'t', 'ů':'u',
+    'ž':'z', 'Č':'C', 'Ď':'D', 'Ě':'E', 'Ň': 'N', 'Ř':'R', 'Š':'S', 'Ť':'T',
     'Ů':'U', 'Ž':'Z'
 }
 
@@ -57,50 +61,59 @@ var LATVIAN_MAP = {
     'Ķ':'k', 'Ļ':'L', 'Ņ':'N', 'Š':'S', 'Ū':'u', 'Ž':'Z'
 }
 
-var ALL_DOWNCODE_MAPS = new Array()
-ALL_DOWNCODE_MAPS[0] = LATIN_MAP
-ALL_DOWNCODE_MAPS[1] = LATIN_SYMBOLS_MAP
-ALL_DOWNCODE_MAPS[2] = GREEK_MAP
-ALL_DOWNCODE_MAPS[3] = TURKISH_MAP
-ALL_DOWNCODE_MAPS[4] = RUSSIAN_MAP
-ALL_DOWNCODE_MAPS[5] = UKRAINIAN_MAP
-ALL_DOWNCODE_MAPS[6] = CZECH_MAP
-ALL_DOWNCODE_MAPS[7] = POLISH_MAP
-ALL_DOWNCODE_MAPS[8] = LATVIAN_MAP
+var ALL_DOWNCODE_MAPS=new Array()
+ALL_DOWNCODE_MAPS[0]=LATIN_MAP
+ALL_DOWNCODE_MAPS[1]=LATIN_SYMBOLS_MAP
+ALL_DOWNCODE_MAPS[2]=GREEK_MAP
+ALL_DOWNCODE_MAPS[3]=TURKISH_MAP
+ALL_DOWNCODE_MAPS[4]=RUSSIAN_MAP
+ALL_DOWNCODE_MAPS[5]=UKRAINIAN_MAP
+ALL_DOWNCODE_MAPS[6]=CZECH_MAP
+ALL_DOWNCODE_MAPS[7]=POLISH_MAP
+ALL_DOWNCODE_MAPS[8]=LATVIAN_MAP
 
 var Downcoder = new Object();
-Downcoder.Initialize = function () {
+Downcoder.Initialize = function()
+{
     if (Downcoder.map) // already made
-        return;
-    Downcoder.map = {}
-    Downcoder.chars = '';
-    for (var i in ALL_DOWNCODE_MAPS) {
+        return ;
+    Downcoder.map ={}
+    Downcoder.chars = '' ;
+    for(var i in ALL_DOWNCODE_MAPS)
+    {
         var lookup = ALL_DOWNCODE_MAPS[i]
-        for (var c in lookup) {
-            Downcoder.map[c] = lookup[c];
-            Downcoder.chars += c;
+        for (var c in lookup)
+        {
+            Downcoder.map[c] = lookup[c] ;
+            Downcoder.chars += c ;
         }
-    }
-    Downcoder.regex = new RegExp('[' + Downcoder.chars + ']|[^' + Downcoder.chars + ']+', 'g');
+     }
+    Downcoder.regex = new RegExp('[' + Downcoder.chars + ']|[^' + Downcoder.chars + ']+','g') ;
 }
 
-downcode = function (slug) {
-    Downcoder.Initialize();
-    var downcoded = ""
+downcode= function( slug )
+{
+    Downcoder.Initialize() ;
+    var downcoded =""
     var pieces = slug.match(Downcoder.regex);
-    if (pieces) {
-        for (var i = 0; i < pieces.length; i++) {
-            if (pieces[i].length == 1) {
-                var mapped = Downcoder.map[pieces[i]];
-                if (mapped != null) {
-                    downcoded += mapped;
-                    continue;
+    if(pieces)
+    {
+        for (var i = 0 ; i < pieces.length ; i++)
+        {
+            if (pieces[i].length == 1)
+            {
+                var mapped = Downcoder.map[pieces[i]] ;
+                if (mapped != null)
+                {
+                    downcoded+=mapped;
+                    continue ;
                 }
             }
-            downcoded += pieces[i];
+            downcoded+=pieces[i];
         }
     }
-    else {
+    else
+    {
         downcoded = slug;
     }
     return downcoded;
@@ -112,9 +125,9 @@ function URLify(s, num_chars) {
     // remove all these words from the string before urlifying
     s = downcode(s);
     removelist = ["a", "an", "as", "at", "before", "but", "by", "for", "from",
-        "is", "in", "into", "like", "of", "off", "on", "onto", "per",
-        "since", "than", "the", "this", "that", "to", "up", "via",
-        "with"];
+                  "is", "in", "into", "like", "of", "off", "on", "onto", "per",
+                  "since", "than", "the", "this", "that", "to", "up", "via",
+                  "with"];
     r = new RegExp('\\b(' + removelist.join('|') + ')\\b', 'gi');
     s = s.replace(r, '');
     // if downcode doesn't hit, the char will be stripped here

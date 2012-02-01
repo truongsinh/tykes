@@ -1,20 +1,18 @@
-{% load i18n %}
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+{% load i18n %}<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html xmlns:v="urn:schemas-microsoft-com:vml"
-	  xmlns:o="urn:schemas-microsoft-com:office:office"
-	  lang="en">
+	  xmlns:o="urn:schemas-microsoft-com:office:office">
 {% block head %}
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="Keywords" content="">
 		<meta name="Description" content="">
-		<link href="{{ MEDIA_URL }}theme/all.css" rel="stylesheet" type="text/css" media="all">
-		<link href="{{ MEDIA_URL }}theme/print.css" rel="stylesheet" type="text/css" media="print">
-		<script type="text/javascript" async="" src="{{ MEDIA_URL }}theme/ga.js"></script>
-		<script type="text/javascript" src="{{ MEDIA_URL }}theme/ga.conf.js"></script>
-		<link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}feedback/feedback.css" />
-		<script type="text/javascript" src="{{ MEDIA_URL }}theme/jquery.min.js"></script>
-		<script type="text/javascript" src="{{ MEDIA_URL }}feedback/feedback.js"></script>
+		<link href="{{ STATIC_URL }}theme/all.css" rel="stylesheet" type="text/css" media="all">
+		<link href="{{ STATIC_URL }}theme/print.css" rel="stylesheet" type="text/css" media="print">
+		<script type="text/javascript" async="" src="{{ STATIC_URL }}theme/ga.js"></script>
+		<script type="text/javascript" src="{{ STATIC_URL }}theme/ga.conf.js"></script>
+		<link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}feedback/feedback.css" />
+		<script type="text/javascript" src="{{ STATIC_URL }}theme/jquery.min.js"></script>
+		<script type="text/javascript" src="{{ STATIC_URL }}feedback/feedback.js"></script>
 		<title>{% trans "Tykes website" %}</title>
 	</head>
 {% endblock %}
@@ -27,7 +25,7 @@
 	<tr>
 		<td id="head">
 			<a id="lamk_logo" href="http://www.lamk.fi/">
-				<img id="logo" src="{{ MEDIA_URL }}theme/lamk_logo.gif" alt="LAMK">
+				<img id="logo" src="{{ STATIC_URL }}theme/lamk_logo.gif" alt="LAMK">
 			</a>
 
 			<div class="right">
@@ -58,9 +56,9 @@
 
 				<div id="banner">
 					<a href="{% url rss %}">
-						<img src="{{ MEDIA_URL }}theme/rss.gif" alt="RSS_FEED">
+						<img src="{{ STATIC_URL }}theme/rss.gif" alt="RSS_FEED">
 					</a>
-					<a href="http://www.tykes.fi/"><img src="{{ MEDIA_URL }}theme/tykes.jpg"></a></div>
+					<a href="http://www.tykes.fi/"><img src="{{ STATIC_URL }}theme/tykes.jpg"></a></div>
 
 			</td>
 
@@ -69,10 +67,7 @@
 				<!-- CONTENT STARTS HERE -->
 
 				<div id="content">
-					<img width="470" src="{{ MEDIA_URL }}theme/tykes_banner2.gif">
-
-					<h1>{% block title %}{% endblock %}</h1>
-
+					<img width="470" src="{{ STATIC_URL }}theme/tykes_banner2.gif">
 					{% autoescape off %}
 						{% block content %}Coming soon{% endblock %}
 					{% endautoescape %}

@@ -1,10 +1,12 @@
 {% extends "layout.html" %}
 {% load i18n %}
 {% block content %}
+	<div>
 	{% if user.is_authenticated %}
-		<div id="edit" class="right"><a href="{{ topic.admin_url }}">[{% trans "Change" %}]</a></div>
+		<div class="admin_tasks"><a href="{{ topic.admin_url }}">[{% trans "Change" %}]</a></div>
 	{% endif %}
 	<h1>{{ topic.name }}</h1>
+	</div>
 	<p>{{ topic.content }}</p>
 	{% if topic.theses %}
 	<h1>{% trans "Theses related to this topic" %}</h1>
@@ -14,20 +16,34 @@
 	<h1>{% trans "Papers related to this topic" %}</h1>
 	<p>{{ topic.papers }}</p>
 	{% endif %}
+	{% if user.is_authenticated %}
+		<div class="admin_tasks"><a href="{% url admin:entry_instruction_add %}">[{% trans "Add more instructions" %}]</a></div>
+	{% endif %}
 	{% if topic.instructions.all %}
 	<h1>{% trans "The following methods were used under this topic:" %}</h1>
+	<div style="width:477px; height:1px; border-bottom:1px solid #DEE9EC"></div>
 	{% for instruction in topic.instructions.all %}
+		<div>
+		{% if user.is_authenticated %}
+			<div class="admin_tasks"><a href="{{ instruction.admin_url }}">[{% trans "Change" %}]</a></div>
+		{% endif %}
 		<h2>{{ instruction.method.link }}</h2>
+		</div>
+		<ul style="margin-left: 50px">
 		{% if instruction.instruction %}
 			<li><a href="{{ MEDIA_URL }}{{ instruction.instruction }}" target="_blank">{% trans "Instructions on how to use the method under this topic (PDF)" %}</a></li>
 		{% endif %}
-		<li><a href="{{ instruction.url }}">{% trans "Method user experiences" %}</a></li>
+		{% if instruction.experience %}
+			<li><a href="{{ instruction.url }}">{% trans "Experiences of applying the method" %}</a></li>
+		{% endif %}
 		{% if instruction.theses %}
 			<li><a href="{{ instruction.theses }}">{% trans "Theses related to this instruction" %}</a></li>
 		{% endif %}
 		{% if instruction.papers %}
 			<li><a href="{{ instruction.papers }}">{% trans "Papers related to this instruction" %}</a></li>
 		{% endif %}
+		</ul>
+		<div style="width:477px; height:1px; border-bottom:1px solid #DEE9EC"></div>
 	{% endfor %}
 	{% endif %}
 {% endblock %}
